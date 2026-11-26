@@ -1,0 +1,17 @@
+type,finding,value,unit
+DQ,duplicate_billing_lines,180,rows
+DQ,old_material_codes,2491,rows
+DQ,dates_in_sap_format,12505,rows
+DQ,wire_lines_in_metres,417,rows
+DQ,customers_missing_region,25,customers
+REC,cutoff_invoices_dec_to_jan,214,invoices
+REC,cutoff_value_dec_to_jan,306341816.46,INR
+OPS,copper_rise_jul_sep_pct,18.1,%
+OPS,wire_price_increase_oct_pct,12.0,%
+OPS,south_fans_economy_share_apr_jun,0.66,share
+OPS,east_distributor_discount_above_policy,2025-10..2025-12,months
+OPS,baddi_stb_l1_downtime_days_nov,21,days
+OPS,wh006_hosur_return_rate_jan_feb,0.0642,share
+OPS,north_water_heaters_from_hosur,2025-10..2026-01,months
+OPS,west_premium_fan_share_from_aug,0.09,share
+OPS,ecommerce_volume_growth,rises through the year,

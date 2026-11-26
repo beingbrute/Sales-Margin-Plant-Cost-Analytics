@@ -1,0 +1,5 @@
+month,from_plant,to_warehouse,category,units,freight_per_unit,normal_freight_per_unit,extra_freight
+2025-10,HSR,WN,Water heaters,18510,124.04,12.32,2067937
+2025-11,HSR,WN,Water heaters,24746,123.57,12.59,2746311
+2025-12,HSR,WN,Water heaters,27960,123.49,12.14,3113346
+2026-01,HSR,WN,Water heaters,26838,123.64,12.84,2973650

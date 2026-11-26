@@ -1,0 +1,1201 @@
+note_id,theme,model
+N00001,Product quality,qwen3:4b
+N00002,Delivery delays,qwen3:4b
+N00003,Discount pressure,qwen3:4b
+N00004,Competitor pricing,qwen3:4b
+N00005,Discount pressure,qwen3:4b
+N00006,Competitor pricing,qwen3:4b
+N00007,Competitor pricing,qwen3:4b
+N00008,Demand and season,qwen3:4b
+N00009,Competitor pricing,qwen3:4b
+N00010,Delivery delays,qwen3:4b
+N00011,Payment terms,qwen3:4b
+N00012,Payment terms,qwen3:4b
+N00013,Product quality,qwen3:4b
+N00014,Payment terms,qwen3:4b
+N00015,Discount pressure,qwen3:4b
+N00016,Product quality,qwen3:4b
+N00017,Display and visibility,qwen3:4b
+N00018,Payment terms,qwen3:4b
+N00019,Display and visibility,qwen3:4b
+N00020,Product quality,qwen3:4b
+N00021,Competitor pricing,qwen3:4b
+N00022,Product quality,qwen3:4b
+N00023,Product quality,qwen3:4b
+N00024,Display and visibility,qwen3:4b
+N00025,Product quality,qwen3:4b
+N00026,Product quality,qwen3:4b
+N00027,Delivery delays,qwen3:4b
+N00028,Discount pressure,qwen3:4b
+N00029,Delivery delays,qwen3:4b
+N00030,Product quality,qwen3:4b
+N00031,Discount pressure,qwen3:4b
+N00032,Display and visibility,qwen3:4b
+N00033,Demand and season,qwen3:4b
+N00034,Discount pressure,qwen3:4b
+N00035,Delivery delays,qwen3:4b
+N00036,Product quality,qwen3:4b
+N00037,Competitor pricing,qwen3:4b
+N00038,Demand and season,qwen3:4b
+N00039,Payment terms,qwen3:4b
+N00040,Demand and season,qwen3:4b
+N00041,Discount pressure,qwen3:4b
+N00042,Delivery delays,qwen3:4b
+N00043,Display and visibility,qwen3:4b
+N00044,Discount pressure,qwen3:4b
+N00045,Delivery delays,qwen3:4b
+N00046,Product quality,qwen3:4b
+N00047,Delivery delays,qwen3:4b
+N00048,Demand and season,qwen3:4b
+N00049,Delivery delays,qwen3:4b
+N00050,Delivery delays,qwen3:4b
+N00051,Discount pressure,qwen3:4b
+N00052,Payment terms,qwen3:4b
+N00053,Display and visibility,qwen3:4b
+N00054,Delivery delays,qwen3:4b
+N00055,Delivery delays,qwen3:4b
+N00056,Demand and season,qwen3:4b
+N00057,Discount pressure,qwen3:4b
+N00058,Competitor pricing,qwen3:4b
+N00059,Competitor pricing,qwen3:4b
+N00060,Discount pressure,qwen3:4b
+N00061,Discount pressure,qwen3:4b
+N00062,Display and visibility,qwen3:4b
+N00063,Competitor pricing,qwen3:4b
+N00064,Discount pressure,qwen3:4b
+N00065,Competitor pricing,qwen3:4b
+N00066,Delivery delays,qwen3:4b
+N00067,Delivery delays,qwen3:4b
+N00068,Display and visibility,qwen3:4b
+N00069,Delivery delays,qwen3:4b
+N00070,Display and visibility,qwen3:4b
+N00071,Product quality,qwen3:4b
+N00072,Product quality,qwen3:4b
+N00073,Payment terms,qwen3:4b
+N00074,Demand and season,qwen3:4b
+N00075,Display and visibility,qwen3:4b
+N00076,Discount pressure,qwen3:4b
+N00077,Payment terms,qwen3:4b
+N00078,Delivery delays,qwen3:4b
+N00079,Demand and season,qwen3:4b
+N00080,Competitor pricing,qwen3:4b
+N00081,Payment terms,qwen3:4b
+N00082,Display and visibility,qwen3:4b
+N00083,Competitor pricing,qwen3:4b
+N00084,Discount pressure,qwen3:4b
+N00085,Product quality,qwen3:4b
+N00086,Product quality,qwen3:4b
+N00087,Competitor pricing,qwen3:4b
+N00088,Display and visibility,qwen3:4b
+N00089,Display and visibility,qwen3:4b
+N00090,Display and visibility,qwen3:4b
+N00091,Delivery delays,qwen3:4b
+N00092,Display and visibility,qwen3:4b
+N00093,Demand and season,qwen3:4b
+N00094,Competitor pricing,qwen3:4b
+N00095,Discount pressure,qwen3:4b
+N00096,Competitor pricing,qwen3:4b
+N00097,Delivery delays,qwen3:4b
+N00098,Payment terms,qwen3:4b
+N00099,Discount pressure,qwen3:4b
+N00100,Delivery delays,qwen3:4b
+N00101,Discount pressure,qwen3:4b
+N00102,Discount pressure,qwen3:4b
+N00103,Display and visibility,qwen3:4b
+N00104,Competitor pricing,qwen3:4b
+N00105,Payment terms,qwen3:4b
+N00106,Display and visibility,qwen3:4b
+N00107,Display and visibility,qwen3:4b
+N00108,Product quality,qwen3:4b
+N00109,Product quality,qwen3:4b
+N00110,Competitor pricing,qwen3:4b
+N00111,Demand and season,qwen3:4b
+N00112,Product quality,qwen3:4b
+N00113,Product quality,qwen3:4b
+N00114,Delivery delays,qwen3:4b
+N00115,Product quality,qwen3:4b
+N00116,Competitor pricing,qwen3:4b
+N00117,Competitor pricing,qwen3:4b
+N00118,Payment terms,qwen3:4b
+N00119,Competitor pricing,qwen3:4b
+N00120,Discount pressure,qwen3:4b
+N00121,Product quality,qwen3:4b
+N00122,Product quality,qwen3:4b
+N00123,Payment terms,qwen3:4b
+N00124,Demand and season,qwen3:4b
+N00125,Competitor pricing,qwen3:4b
+N00126,Discount pressure,qwen3:4b
+N00127,Discount pressure,qwen3:4b
+N00128,Payment terms,qwen3:4b
+N00129,Competitor pricing,qwen3:4b
+N00130,Payment terms,qwen3:4b
+N00131,Delivery delays,qwen3:4b
+N00132,Discount pressure,qwen3:4b
+N00133,Payment terms,qwen3:4b
+N00134,Product quality,qwen3:4b
+N00135,Demand and season,qwen3:4b
+N00136,Delivery delays,qwen3:4b
+N00137,Demand and season,qwen3:4b
+N00138,Product quality,qwen3:4b
+N00139,Display and visibility,qwen3:4b
+N00140,Competitor pricing,qwen3:4b
+N00141,Competitor pricing,qwen3:4b
+N00142,Demand and season,qwen3:4b
+N00143,Demand and season,qwen3:4b
+N00144,Delivery delays,qwen3:4b
+N00145,Competitor pricing,qwen3:4b
+N00146,Display and visibility,qwen3:4b
+N00147,Product quality,qwen3:4b
+N00148,Delivery delays,qwen3:4b
+N00149,Demand and season,qwen3:4b
+N00150,Product quality,qwen3:4b
+N00151,Competitor pricing,qwen3:4b
+N00152,Demand and season,qwen3:4b
+N00153,Competitor pricing,qwen3:4b
+N00154,Competitor pricing,qwen3:4b
+N00155,Discount pressure,qwen3:4b
+N00156,Discount pressure,qwen3:4b
+N00157,Product quality,qwen3:4b
+N00158,Display and visibility,qwen3:4b
+N00159,Payment terms,qwen3:4b
+N00160,Product quality,qwen3:4b
+N00161,Discount pressure,qwen3:4b
+N00162,Product quality,qwen3:4b
+N00163,Payment terms,qwen3:4b
+N00164,Demand and season,qwen3:4b
+N00165,Competitor pricing,qwen3:4b
+N00166,Product quality,qwen3:4b
+N00167,Delivery delays,qwen3:4b
+N00168,Payment terms,qwen3:4b
+N00169,Display and visibility,qwen3:4b
+N00170,Competitor pricing,qwen3:4b
+N00171,Demand and season,qwen3:4b
+N00172,Discount pressure,qwen3:4b
+N00173,Delivery delays,qwen3:4b
+N00174,Product quality,qwen3:4b
+N00175,Product quality,qwen3:4b
+N00176,Payment terms,qwen3:4b
+N00177,Payment terms,qwen3:4b
+N00178,Demand and season,qwen3:4b
+N00179,Competitor pricing,qwen3:4b
+N00180,Display and visibility,qwen3:4b
+N00181,Display and visibility,qwen3:4b
+N00182,Discount pressure,qwen3:4b
+N00183,Payment terms,qwen3:4b
+N00184,Discount pressure,qwen3:4b
+N00185,Delivery delays,qwen3:4b
+N00186,Discount pressure,qwen3:4b
+N00187,Payment terms,qwen3:4b
+N00188,Competitor pricing,qwen3:4b
+N00189,Discount pressure,qwen3:4b
+N00190,Payment terms,qwen3:4b
+N00191,Product quality,qwen3:4b
+N00192,Delivery delays,qwen3:4b
+N00193,Demand and season,qwen3:4b
+N00194,Payment terms,qwen3:4b
+N00195,Discount pressure,qwen3:4b
+N00196,Demand and season,qwen3:4b
+N00197,Payment terms,qwen3:4b
+N00198,Product quality,qwen3:4b
+N00199,Competitor pricing,qwen3:4b
+N00200,Competitor pricing,qwen3:4b
+N00201,Discount pressure,qwen3:4b
+N00202,Discount pressure,qwen3:4b
+N00203,Display and visibility,qwen3:4b
+N00204,Competitor pricing,qwen3:4b
+N00205,Payment terms,qwen3:4b
+N00206,Delivery delays,qwen3:4b
+N00207,Payment terms,qwen3:4b
+N00208,Display and visibility,qwen3:4b
+N00209,Display and visibility,qwen3:4b
+N00210,Discount pressure,qwen3:4b
+N00211,Display and visibility,qwen3:4b
+N00212,Competitor pricing,qwen3:4b
+N00213,Display and visibility,qwen3:4b
+N00214,Demand and season,qwen3:4b
+N00215,Product quality,qwen3:4b
+N00216,Delivery delays,qwen3:4b
+N00217,Demand and season,qwen3:4b
+N00218,Display and visibility,qwen3:4b
+N00219,Discount pressure,qwen3:4b
+N00220,Product quality,qwen3:4b
+N00221,Payment terms,qwen3:4b
+N00222,Competitor pricing,qwen3:4b
+N00223,Delivery delays,qwen3:4b
+N00224,Competitor pricing,qwen3:4b
+N00225,Demand and season,qwen3:4b
+N00226,Product quality,qwen3:4b
+N00227,Display and visibility,qwen3:4b
+N00228,Product quality,qwen3:4b
+N00229,Discount pressure,qwen3:4b
+N00230,Competitor pricing,qwen3:4b
+N00231,Display and visibility,qwen3:4b
+N00232,Display and visibility,qwen3:4b
+N00233,Payment terms,qwen3:4b
+N00234,Delivery delays,qwen3:4b
+N00235,Product quality,qwen3:4b
+N00236,Product quality,qwen3:4b
+N00237,Delivery delays,qwen3:4b
+N00238,Demand and season,qwen3:4b
+N00239,Discount pressure,qwen3:4b
+N00240,Product quality,qwen3:4b
+N00241,Competitor pricing,qwen3:4b
+N00242,Discount pressure,qwen3:4b
+N00243,Delivery delays,qwen3:4b
+N00244,Product quality,qwen3:4b
+N00245,Competitor pricing,qwen3:4b
+N00246,Display and visibility,qwen3:4b
+N00247,Delivery delays,qwen3:4b
+N00248,Payment terms,qwen3:4b
+N00249,Delivery delays,qwen3:4b
+N00250,Display and visibility,qwen3:4b
+N00251,Demand and season,qwen3:4b
+N00252,Product quality,qwen3:4b
+N00253,Display and visibility,qwen3:4b
+N00254,Competitor pricing,qwen3:4b
+N00255,Delivery delays,qwen3:4b
+N00256,Discount pressure,qwen3:4b
+N00257,Product quality,qwen3:4b
+N00258,Competitor pricing,qwen3:4b
+N00259,Delivery delays,qwen3:4b
+N00260,Payment terms,qwen3:4b
+N00261,Competitor pricing,qwen3:4b
+N00262,Payment terms,qwen3:4b
+N00263,Discount pressure,qwen3:4b
+N00264,Product quality,qwen3:4b
+N00265,Delivery delays,qwen3:4b
+N00266,Competitor pricing,qwen3:4b
+N00267,Product quality,qwen3:4b
+N00268,Display and visibility,qwen3:4b
+N00269,Competitor pricing,qwen3:4b
+N00270,Product quality,qwen3:4b
+N00271,Competitor pricing,qwen3:4b
+N00272,Payment terms,qwen3:4b
+N00273,Display and visibility,qwen3:4b
+N00274,Product quality,qwen3:4b
+N00275,Product quality,qwen3:4b
+N00276,Discount pressure,qwen3:4b
+N00277,Payment terms,qwen3:4b
+N00278,Competitor pricing,qwen3:4b
+N00279,Competitor pricing,qwen3:4b
+N00280,Product quality,qwen3:4b
+N00281,Product quality,qwen3:4b
+N00282,Competitor pricing,qwen3:4b
+N00283,Product quality,qwen3:4b
+N00284,Discount pressure,qwen3:4b
+N00285,Display and visibility,qwen3:4b
+N00286,Competitor pricing,qwen3:4b
+N00287,Demand and season,qwen3:4b
+N00288,Display and visibility,qwen3:4b
+N00289,Competitor pricing,qwen3:4b
+N00290,Demand and season,qwen3:4b
+N00291,Product quality,qwen3:4b
+N00292,Payment terms,qwen3:4b
+N00293,Discount pressure,qwen3:4b
+N00294,Delivery delays,qwen3:4b
+N00295,Delivery delays,qwen3:4b
+N00296,Payment terms,qwen3:4b
+N00297,Competitor pricing,qwen3:4b
+N00298,Payment terms,qwen3:4b
+N00299,Competitor pricing,qwen3:4b
+N00300,Discount pressure,qwen3:4b
+N00301,Demand and season,qwen3:4b
+N00302,Product quality,qwen3:4b
+N00303,Payment terms,qwen3:4b
+N00304,Product quality,qwen3:4b
+N00305,Delivery delays,qwen3:4b
+N00306,Discount pressure,qwen3:4b
+N00307,Product quality,qwen3:4b
+N00308,Payment terms,qwen3:4b
+N00309,Discount pressure,qwen3:4b
+N00310,Product quality,qwen3:4b
+N00311,Discount pressure,qwen3:4b
+N00312,Discount pressure,qwen3:4b
+N00313,Demand and season,qwen3:4b
+N00314,Display and visibility,qwen3:4b
+N00315,Competitor pricing,qwen3:4b
+N00316,Demand and season,qwen3:4b
+N00317,Delivery delays,qwen3:4b
+N00318,Delivery delays,qwen3:4b
+N00319,Payment terms,qwen3:4b
+N00320,Discount pressure,qwen3:4b
+N00321,Discount pressure,qwen3:4b
+N00322,Competitor pricing,qwen3:4b
+N00323,Display and visibility,qwen3:4b
+N00324,Delivery delays,qwen3:4b
+N00325,Discount pressure,qwen3:4b
+N00326,Competitor pricing,qwen3:4b
+N00327,Demand and season,qwen3:4b
+N00328,Product quality,qwen3:4b
+N00329,Demand and season,qwen3:4b
+N00330,Product quality,qwen3:4b
+N00331,Product quality,qwen3:4b
+N00332,Payment terms,qwen3:4b
+N00333,Delivery delays,qwen3:4b
+N00334,Display and visibility,qwen3:4b
+N00335,Delivery delays,qwen3:4b
+N00336,Competitor pricing,qwen3:4b
+N00337,Competitor pricing,qwen3:4b
+N00338,Demand and season,qwen3:4b
+N00339,Demand and season,qwen3:4b
+N00340,Payment terms,qwen3:4b
+N00341,Competitor pricing,qwen3:4b
+N00342,Discount pressure,qwen3:4b
+N00343,Delivery delays,qwen3:4b
+N00344,Delivery delays,qwen3:4b
+N00345,Display and visibility,qwen3:4b
+N00346,Discount pressure,qwen3:4b
+N00347,Payment terms,qwen3:4b
+N00348,Demand and season,qwen3:4b
+N00349,Display and visibility,qwen3:4b
+N00350,Competitor pricing,qwen3:4b
+N00351,Competitor pricing,qwen3:4b
+N00352,Discount pressure,qwen3:4b
+N00353,Product quality,qwen3:4b
+N00354,Display and visibility,qwen3:4b
+N00355,Payment terms,qwen3:4b
+N00356,Competitor pricing,qwen3:4b
+N00357,Payment terms,qwen3:4b
+N00358,Payment terms,qwen3:4b
+N00359,Display and visibility,qwen3:4b
+N00360,Competitor pricing,qwen3:4b
+N00361,Product quality,qwen3:4b
+N00362,Demand and season,qwen3:4b
+N00363,Demand and season,qwen3:4b
+N00364,Delivery delays,qwen3:4b
+N00365,Demand and season,qwen3:4b
+N00366,Competitor pricing,qwen3:4b
+N00367,Demand and season,qwen3:4b
+N00368,Product quality,qwen3:4b
+N00369,Payment terms,qwen3:4b
+N00370,Delivery delays,qwen3:4b
+N00371,Delivery delays,qwen3:4b
+N00372,Payment terms,qwen3:4b
+N00373,Product quality,qwen3:4b
+N00374,Demand and season,qwen3:4b
+N00375,Demand and season,qwen3:4b
+N00376,Delivery delays,qwen3:4b
+N00377,Display and visibility,qwen3:4b
+N00378,Display and visibility,qwen3:4b
+N00379,Demand and season,qwen3:4b
+N00380,Product quality,qwen3:4b
+N00381,Competitor pricing,qwen3:4b
+N00382,Demand and season,qwen3:4b
+N00383,Competitor pricing,qwen3:4b
+N00384,Product quality,qwen3:4b
+N00385,Competitor pricing,qwen3:4b
+N00386,Product quality,qwen3:4b
+N00387,Discount pressure,qwen3:4b
+N00388,Delivery delays,qwen3:4b
+N00389,Discount pressure,qwen3:4b
+N00390,Product quality,qwen3:4b
+N00391,Payment terms,qwen3:4b
+N00392,Payment terms,qwen3:4b
+N00393,Demand and season,qwen3:4b
+N00394,Discount pressure,qwen3:4b
+N00395,Product quality,qwen3:4b
+N00396,Display and visibility,qwen3:4b
+N00397,Delivery delays,qwen3:4b
+N00398,Product quality,qwen3:4b
+N00399,Delivery delays,qwen3:4b
+N00400,Product quality,qwen3:4b
+N00401,Delivery delays,qwen3:4b
+N00402,Competitor pricing,qwen3:4b
+N00403,Demand and season,qwen3:4b
+N00404,Display and visibility,qwen3:4b
+N00405,Delivery delays,qwen3:4b
+N00406,Competitor pricing,qwen3:4b
+N00407,Display and visibility,qwen3:4b
+N00408,Demand and season,qwen3:4b
+N00409,Display and visibility,qwen3:4b
+N00410,Delivery delays,qwen3:4b
+N00411,Discount pressure,qwen3:4b
+N00412,Delivery delays,qwen3:4b
+N00413,Payment terms,qwen3:4b
+N00414,Product quality,qwen3:4b
+N00415,Product quality,qwen3:4b
+N00416,Payment terms,qwen3:4b
+N00417,Display and visibility,qwen3:4b
+N00418,Discount pressure,qwen3:4b
+N00419,Discount pressure,qwen3:4b
+N00420,Payment terms,qwen3:4b
+N00421,Competitor pricing,qwen3:4b
+N00422,Payment terms,qwen3:4b
+N00423,Discount pressure,qwen3:4b
+N00424,Demand and season,qwen3:4b
+N00425,Competitor pricing,qwen3:4b
+N00426,Demand and season,qwen3:4b
+N00427,Product quality,qwen3:4b
+N00428,Delivery delays,qwen3:4b
+N00429,Demand and season,qwen3:4b
+N00430,Delivery delays,qwen3:4b
+N00431,Product quality,qwen3:4b
+N00432,Discount pressure,qwen3:4b
+N00433,Display and visibility,qwen3:4b
+N00434,Product quality,qwen3:4b
+N00435,Payment terms,qwen3:4b
+N00436,Competitor pricing,qwen3:4b
+N00437,Payment terms,qwen3:4b
+N00438,Competitor pricing,qwen3:4b
+N00439,Competitor pricing,qwen3:4b
+N00440,Discount pressure,qwen3:4b
+N00441,Delivery delays,qwen3:4b
+N00442,Demand and season,qwen3:4b
+N00443,Demand and season,qwen3:4b
+N00444,Product quality,qwen3:4b
+N00445,Payment terms,qwen3:4b
+N00446,Payment terms,qwen3:4b
+N00447,Discount pressure,qwen3:4b
+N00448,Delivery delays,qwen3:4b
+N00449,Discount pressure,qwen3:4b
+N00450,Display and visibility,qwen3:4b
+N00451,Discount pressure,qwen3:4b
+N00452,Delivery delays,qwen3:4b
+N00453,Competitor pricing,qwen3:4b
+N00454,Competitor pricing,qwen3:4b
+N00455,Competitor pricing,qwen3:4b
+N00456,Competitor pricing,qwen3:4b
+N00457,Competitor pricing,qwen3:4b
+N00458,Delivery delays,qwen3:4b
+N00459,Payment terms,qwen3:4b
+N00460,Competitor pricing,qwen3:4b
+N00461,Competitor pricing,qwen3:4b
+N00462,Competitor pricing,qwen3:4b
+N00463,Product quality,qwen3:4b
+N00464,Product quality,qwen3:4b
+N00465,Delivery delays,qwen3:4b
+N00466,Demand and season,qwen3:4b
+N00467,Competitor pricing,qwen3:4b
+N00468,Payment terms,qwen3:4b
+N00469,Payment terms,qwen3:4b
+N00470,Delivery delays,qwen3:4b
+N00471,Payment terms,qwen3:4b
+N00472,Payment terms,qwen3:4b
+N00473,Discount pressure,qwen3:4b
+N00474,Delivery delays,qwen3:4b
+N00475,Discount pressure,qwen3:4b
+N00476,Display and visibility,qwen3:4b
+N00477,Competitor pricing,qwen3:4b
+N00478,Discount pressure,qwen3:4b
+N00479,Display and visibility,qwen3:4b
+N00480,Delivery delays,qwen3:4b
+N00481,Demand and season,qwen3:4b
+N00482,Delivery delays,qwen3:4b
+N00483,Display and visibility,qwen3:4b
+N00484,Delivery delays,qwen3:4b
+N00485,Discount pressure,qwen3:4b
+N00486,Discount pressure,qwen3:4b
+N00487,Payment terms,qwen3:4b
+N00488,Display and visibility,qwen3:4b
+N00489,Display and visibility,qwen3:4b
+N00490,Payment terms,qwen3:4b
+N00491,Display and visibility,qwen3:4b
+N00492,Payment terms,qwen3:4b
+N00493,Display and visibility,qwen3:4b
+N00494,Delivery delays,qwen3:4b
+N00495,Delivery delays,qwen3:4b
+N00496,Demand and season,qwen3:4b
+N00497,Payment terms,qwen3:4b
+N00498,Product quality,qwen3:4b
+N00499,Product quality,qwen3:4b
+N00500,Payment terms,qwen3:4b
+N00501,Payment terms,qwen3:4b
+N00502,Payment terms,qwen3:4b
+N00503,Display and visibility,qwen3:4b
+N00504,Demand and season,qwen3:4b
+N00505,Payment terms,qwen3:4b
+N00506,Competitor pricing,qwen3:4b
+N00507,Competitor pricing,qwen3:4b
+N00508,Competitor pricing,qwen3:4b
+N00509,Demand and season,qwen3:4b
+N00510,Delivery delays,qwen3:4b
+N00511,Delivery delays,qwen3:4b
+N00512,Demand and season,qwen3:4b
+N00513,Display and visibility,qwen3:4b
+N00514,Discount pressure,qwen3:4b
+N00515,Discount pressure,qwen3:4b
+N00516,Product quality,qwen3:4b
+N00517,Demand and season,qwen3:4b
+N00518,Demand and season,qwen3:4b
+N00519,Display and visibility,qwen3:4b
+N00520,Product quality,qwen3:4b
+N00521,Display and visibility,qwen3:4b
+N00522,Discount pressure,qwen3:4b
+N00523,Competitor pricing,qwen3:4b
+N00524,Discount pressure,qwen3:4b
+N00525,Product quality,qwen3:4b
+N00526,Demand and season,qwen3:4b
+N00527,Demand and season,qwen3:4b
+N00528,Discount pressure,qwen3:4b
+N00529,Product quality,qwen3:4b
+N00530,Demand and season,qwen3:4b
+N00531,Discount pressure,qwen3:4b
+N00532,Delivery delays,qwen3:4b
+N00533,Payment terms,qwen3:4b
+N00534,Payment terms,qwen3:4b
+N00535,Discount pressure,qwen3:4b
+N00536,Display and visibility,qwen3:4b
+N00537,Competitor pricing,qwen3:4b
+N00538,Competitor pricing,qwen3:4b
+N00539,Discount pressure,qwen3:4b
+N00540,Demand and season,qwen3:4b
+N00541,Product quality,qwen3:4b
+N00542,Competitor pricing,qwen3:4b
+N00543,Product quality,qwen3:4b
+N00544,Competitor pricing,qwen3:4b
+N00545,Display and visibility,qwen3:4b
+N00546,Product quality,qwen3:4b
+N00547,Demand and season,qwen3:4b
+N00548,Product quality,qwen3:4b
+N00549,Delivery delays,qwen3:4b
+N00550,Delivery delays,qwen3:4b
+N00551,Discount pressure,qwen3:4b
+N00552,Discount pressure,qwen3:4b
+N00553,Demand and season,qwen3:4b
+N00554,Payment terms,qwen3:4b
+N00555,Payment terms,qwen3:4b
+N00556,Delivery delays,qwen3:4b
+N00557,Discount pressure,qwen3:4b
+N00558,Competitor pricing,qwen3:4b
+N00559,Display and visibility,qwen3:4b
+N00560,Payment terms,qwen3:4b
+N00561,Product quality,qwen3:4b
+N00562,Demand and season,qwen3:4b
+N00563,Competitor pricing,qwen3:4b
+N00564,Payment terms,qwen3:4b
+N00565,Demand and season,qwen3:4b
+N00566,Product quality,qwen3:4b
+N00567,Competitor pricing,qwen3:4b
+N00568,Demand and season,qwen3:4b
+N00569,Demand and season,qwen3:4b
+N00570,Display and visibility,qwen3:4b
+N00571,Display and visibility,qwen3:4b
+N00572,Payment terms,qwen3:4b
+N00573,Delivery delays,qwen3:4b
+N00574,Discount pressure,qwen3:4b
+N00575,Delivery delays,qwen3:4b
+N00576,Discount pressure,qwen3:4b
+N00577,Display and visibility,qwen3:4b
+N00578,Display and visibility,qwen3:4b
+N00579,Display and visibility,qwen3:4b
+N00580,Competitor pricing,qwen3:4b
+N00581,Delivery delays,qwen3:4b
+N00582,Competitor pricing,qwen3:4b
+N00583,Display and visibility,qwen3:4b
+N00584,Display and visibility,qwen3:4b
+N00585,Display and visibility,qwen3:4b
+N00586,Payment terms,qwen3:4b
+N00587,Delivery delays,qwen3:4b
+N00588,Discount pressure,qwen3:4b
+N00589,Delivery delays,qwen3:4b
+N00590,Competitor pricing,qwen3:4b
+N00591,Demand and season,qwen3:4b
+N00592,Product quality,qwen3:4b
+N00593,Competitor pricing,qwen3:4b
+N00594,Delivery delays,qwen3:4b
+N00595,Competitor pricing,qwen3:4b
+N00596,Competitor pricing,qwen3:4b
+N00597,Display and visibility,qwen3:4b
+N00598,Competitor pricing,qwen3:4b
+N00599,Display and visibility,qwen3:4b
+N00600,Demand and season,qwen3:4b
+N00601,Delivery delays,qwen3:4b
+N00602,Demand and season,qwen3:4b
+N00603,Demand and season,qwen3:4b
+N00604,Payment terms,qwen3:4b
+N00605,Display and visibility,qwen3:4b
+N00606,Product quality,qwen3:4b
+N00607,Product quality,qwen3:4b
+N00608,Display and visibility,qwen3:4b
+N00609,Product quality,qwen3:4b
+N00610,Demand and season,qwen3:4b
+N00611,Display and visibility,qwen3:4b
+N00612,Product quality,qwen3:4b
+N00613,Discount pressure,qwen3:4b
+N00614,Delivery delays,qwen3:4b
+N00615,Payment terms,qwen3:4b
+N00616,Competitor pricing,qwen3:4b
+N00617,Payment terms,qwen3:4b
+N00618,Display and visibility,qwen3:4b
+N00619,Display and visibility,qwen3:4b
+N00620,Discount pressure,qwen3:4b
+N00621,Discount pressure,qwen3:4b
+N00622,Competitor pricing,qwen3:4b
+N00623,Display and visibility,qwen3:4b
+N00624,Discount pressure,qwen3:4b
+N00625,Discount pressure,qwen3:4b
+N00626,Competitor pricing,qwen3:4b
+N00627,Discount pressure,qwen3:4b
+N00628,Display and visibility,qwen3:4b
+N00629,Competitor pricing,qwen3:4b
+N00630,Display and visibility,qwen3:4b
+N00631,Demand and season,qwen3:4b
+N00632,Payment terms,qwen3:4b
+N00633,Discount pressure,qwen3:4b
+N00634,Competitor pricing,qwen3:4b
+N00635,Discount pressure,qwen3:4b
+N00636,Product quality,qwen3:4b
+N00637,Product quality,qwen3:4b
+N00638,Product quality,qwen3:4b
+N00639,Competitor pricing,qwen3:4b
+N00640,Demand and season,qwen3:4b
+N00641,Competitor pricing,qwen3:4b
+N00642,Display and visibility,qwen3:4b
+N00643,Display and visibility,qwen3:4b
+N00644,Product quality,qwen3:4b
+N00645,Competitor pricing,qwen3:4b
+N00646,Product quality,qwen3:4b
+N00647,Delivery delays,qwen3:4b
+N00648,Payment terms,qwen3:4b
+N00649,Discount pressure,qwen3:4b
+N00650,Discount pressure,qwen3:4b
+N00651,Product quality,qwen3:4b
+N00652,Demand and season,qwen3:4b
+N00653,Discount pressure,qwen3:4b
+N00654,Delivery delays,qwen3:4b
+N00655,Discount pressure,qwen3:4b
+N00656,Discount pressure,qwen3:4b
+N00657,Demand and season,qwen3:4b
+N00658,Delivery delays,qwen3:4b
+N00659,Competitor pricing,qwen3:4b
+N00660,Product quality,qwen3:4b
+N00661,Payment terms,qwen3:4b
+N00662,Competitor pricing,qwen3:4b
+N00663,Payment terms,qwen3:4b
+N00664,Display and visibility,qwen3:4b
+N00665,Delivery delays,qwen3:4b
+N00666,Delivery delays,qwen3:4b
+N00667,Display and visibility,qwen3:4b
+N00668,Delivery delays,qwen3:4b
+N00669,Product quality,qwen3:4b
+N00670,Competitor pricing,qwen3:4b
+N00671,Discount pressure,qwen3:4b
+N00672,Competitor pricing,qwen3:4b
+N00673,Competitor pricing,qwen3:4b
+N00674,Discount pressure,qwen3:4b
+N00675,Demand and season,qwen3:4b
+N00676,Payment terms,qwen3:4b
+N00677,Competitor pricing,qwen3:4b
+N00678,Payment terms,qwen3:4b
+N00679,Discount pressure,qwen3:4b
+N00680,Competitor pricing,qwen3:4b
+N00681,Demand and season,qwen3:4b
+N00682,Discount pressure,qwen3:4b
+N00683,Discount pressure,qwen3:4b
+N00684,Product quality,qwen3:4b
+N00685,Competitor pricing,qwen3:4b
+N00686,Competitor pricing,qwen3:4b
+N00687,Discount pressure,qwen3:4b
+N00688,Competitor pricing,qwen3:4b
+N00689,Demand and season,qwen3:4b
+N00690,Competitor pricing,qwen3:4b
+N00691,Demand and season,qwen3:4b
+N00692,Display and visibility,qwen3:4b
+N00693,Competitor pricing,qwen3:4b
+N00694,Discount pressure,qwen3:4b
+N00695,Demand and season,qwen3:4b
+N00696,Display and visibility,qwen3:4b
+N00697,Display and visibility,qwen3:4b
+N00698,Discount pressure,qwen3:4b
+N00699,Competitor pricing,qwen3:4b
+N00700,Delivery delays,qwen3:4b
+N00701,Payment terms,qwen3:4b
+N00702,Payment terms,qwen3:4b
+N00703,Discount pressure,qwen3:4b
+N00704,Demand and season,qwen3:4b
+N00705,Delivery delays,qwen3:4b
+N00706,Product quality,qwen3:4b
+N00707,Delivery delays,qwen3:4b
+N00708,Competitor pricing,qwen3:4b
+N00709,Product quality,qwen3:4b
+N00710,Discount pressure,qwen3:4b
+N00711,Product quality,qwen3:4b
+N00712,Delivery delays,qwen3:4b
+N00713,Display and visibility,qwen3:4b
+N00714,Delivery delays,qwen3:4b
+N00715,Demand and season,qwen3:4b
+N00716,Discount pressure,qwen3:4b
+N00717,Display and visibility,qwen3:4b
+N00718,Discount pressure,qwen3:4b
+N00719,Product quality,qwen3:4b
+N00720,Payment terms,qwen3:4b
+N00721,Competitor pricing,qwen3:4b
+N00722,Product quality,qwen3:4b
+N00723,Product quality,qwen3:4b
+N00724,Display and visibility,qwen3:4b
+N00725,Discount pressure,qwen3:4b
+N00726,Display and visibility,qwen3:4b
+N00727,Product quality,qwen3:4b
+N00728,Discount pressure,qwen3:4b
+N00729,Delivery delays,qwen3:4b
+N00730,Delivery delays,qwen3:4b
+N00731,Competitor pricing,qwen3:4b
+N00732,Competitor pricing,qwen3:4b
+N00733,Delivery delays,qwen3:4b
+N00734,Discount pressure,qwen3:4b
+N00735,Payment terms,qwen3:4b
+N00736,Delivery delays,qwen3:4b
+N00737,Discount pressure,qwen3:4b
+N00738,Discount pressure,qwen3:4b
+N00739,Product quality,qwen3:4b
+N00740,Product quality,qwen3:4b
+N00741,Demand and season,qwen3:4b
+N00742,Display and visibility,qwen3:4b
+N00743,Product quality,qwen3:4b
+N00744,Display and visibility,qwen3:4b
+N00745,Competitor pricing,qwen3:4b
+N00746,Product quality,qwen3:4b
+N00747,Payment terms,qwen3:4b
+N00748,Product quality,qwen3:4b
+N00749,Competitor pricing,qwen3:4b
+N00750,Display and visibility,qwen3:4b
+N00751,Discount pressure,qwen3:4b
+N00752,Product quality,qwen3:4b
+N00753,Discount pressure,qwen3:4b
+N00754,Payment terms,qwen3:4b
+N00755,Product quality,qwen3:4b
+N00756,Display and visibility,qwen3:4b
+N00757,Competitor pricing,qwen3:4b
+N00758,Delivery delays,qwen3:4b
+N00759,Payment terms,qwen3:4b
+N00760,Product quality,qwen3:4b
+N00761,Product quality,qwen3:4b
+N00762,Product quality,qwen3:4b
+N00763,Display and visibility,qwen3:4b
+N00764,Display and visibility,qwen3:4b
+N00765,Competitor pricing,qwen3:4b
+N00766,Competitor pricing,qwen3:4b
+N00767,Product quality,qwen3:4b
+N00768,Payment terms,qwen3:4b
+N00769,Discount pressure,qwen3:4b
+N00770,Product quality,qwen3:4b
+N00771,Payment terms,qwen3:4b
+N00772,Display and visibility,qwen3:4b
+N00773,Product quality,qwen3:4b
+N00774,Demand and season,qwen3:4b
+N00775,Product quality,qwen3:4b
+N00776,Demand and season,qwen3:4b
+N00777,Display and visibility,qwen3:4b
+N00778,Delivery delays,qwen3:4b
+N00779,Product quality,qwen3:4b
+N00780,Display and visibility,qwen3:4b
+N00781,Demand and season,qwen3:4b
+N00782,Discount pressure,qwen3:4b
+N00783,Competitor pricing,qwen3:4b
+N00784,Discount pressure,qwen3:4b
+N00785,Demand and season,qwen3:4b
+N00786,Competitor pricing,qwen3:4b
+N00787,Delivery delays,qwen3:4b
+N00788,Product quality,qwen3:4b
+N00789,Product quality,qwen3:4b
+N00790,Product quality,qwen3:4b
+N00791,Competitor pricing,qwen3:4b
+N00792,Delivery delays,qwen3:4b
+N00793,Product quality,qwen3:4b
+N00794,Demand and season,qwen3:4b
+N00795,Product quality,qwen3:4b
+N00796,Delivery delays,qwen3:4b
+N00797,Product quality,qwen3:4b
+N00798,Competitor pricing,qwen3:4b
+N00799,Discount pressure,qwen3:4b
+N00800,Delivery delays,qwen3:4b
+N00801,Competitor pricing,qwen3:4b
+N00802,Discount pressure,qwen3:4b
+N00803,Competitor pricing,qwen3:4b
+N00804,Discount pressure,qwen3:4b
+N00805,Product quality,qwen3:4b
+N00806,Delivery delays,qwen3:4b
+N00807,Payment terms,qwen3:4b
+N00808,Demand and season,qwen3:4b
+N00809,Competitor pricing,qwen3:4b
+N00810,Demand and season,qwen3:4b
+N00811,Payment terms,qwen3:4b
+N00812,Payment terms,qwen3:4b
+N00813,Discount pressure,qwen3:4b
+N00814,Demand and season,qwen3:4b
+N00815,Delivery delays,qwen3:4b
+N00816,Demand and season,qwen3:4b
+N00817,Competitor pricing,qwen3:4b
+N00818,Display and visibility,qwen3:4b
+N00819,Competitor pricing,qwen3:4b
+N00820,Product quality,qwen3:4b
+N00821,Product quality,qwen3:4b
+N00822,Display and visibility,qwen3:4b
+N00823,Demand and season,qwen3:4b
+N00824,Product quality,qwen3:4b
+N00825,Competitor pricing,qwen3:4b
+N00826,Payment terms,qwen3:4b
+N00827,Discount pressure,qwen3:4b
+N00828,Demand and season,qwen3:4b
+N00829,Discount pressure,qwen3:4b
+N00830,Payment terms,qwen3:4b
+N00831,Competitor pricing,qwen3:4b
+N00832,Demand and season,qwen3:4b
+N00833,Demand and season,qwen3:4b
+N00834,Discount pressure,qwen3:4b
+N00835,Demand and season,qwen3:4b
+N00836,Competitor pricing,qwen3:4b
+N00837,Competitor pricing,qwen3:4b
+N00838,Competitor pricing,qwen3:4b
+N00839,Display and visibility,qwen3:4b
+N00840,Delivery delays,qwen3:4b
+N00841,Delivery delays,qwen3:4b
+N00842,Delivery delays,qwen3:4b
+N00843,Discount pressure,qwen3:4b
+N00844,Product quality,qwen3:4b
+N00845,Display and visibility,qwen3:4b
+N00846,Product quality,qwen3:4b
+N00847,Payment terms,qwen3:4b
+N00848,Payment terms,qwen3:4b
+N00849,Product quality,qwen3:4b
+N00850,Display and visibility,qwen3:4b
+N00851,Product quality,qwen3:4b
+N00852,Display and visibility,qwen3:4b
+N00853,Delivery delays,qwen3:4b
+N00854,Competitor pricing,qwen3:4b
+N00855,Competitor pricing,qwen3:4b
+N00856,Discount pressure,qwen3:4b
+N00857,Competitor pricing,qwen3:4b
+N00858,Display and visibility,qwen3:4b
+N00859,Discount pressure,qwen3:4b
+N00860,Competitor pricing,qwen3:4b
+N00861,Product quality,qwen3:4b
+N00862,Competitor pricing,qwen3:4b
+N00863,Discount pressure,qwen3:4b
+N00864,Product quality,qwen3:4b
+N00865,Discount pressure,qwen3:4b
+N00866,Display and visibility,qwen3:4b
+N00867,Discount pressure,qwen3:4b
+N00868,Discount pressure,qwen3:4b
+N00869,Competitor pricing,qwen3:4b
+N00870,Payment terms,qwen3:4b
+N00871,Payment terms,qwen3:4b
+N00872,Delivery delays,qwen3:4b
+N00873,Product quality,qwen3:4b
+N00874,Demand and season,qwen3:4b
+N00875,Demand and season,qwen3:4b
+N00876,Payment terms,qwen3:4b
+N00877,Competitor pricing,qwen3:4b
+N00878,Delivery delays,qwen3:4b
+N00879,Display and visibility,qwen3:4b
+N00880,Display and visibility,qwen3:4b
+N00881,Demand and season,qwen3:4b
+N00882,Display and visibility,qwen3:4b
+N00883,Product quality,qwen3:4b
+N00884,Demand and season,qwen3:4b
+N00885,Product quality,qwen3:4b
+N00886,Product quality,qwen3:4b
+N00887,Payment terms,qwen3:4b
+N00888,Payment terms,qwen3:4b
+N00889,Product quality,qwen3:4b
+N00890,Product quality,qwen3:4b
+N00891,Product quality,qwen3:4b
+N00892,Competitor pricing,qwen3:4b
+N00893,Payment terms,qwen3:4b
+N00894,Product quality,qwen3:4b
+N00895,Demand and season,qwen3:4b
+N00896,Display and visibility,qwen3:4b
+N00897,Delivery delays,qwen3:4b
+N00898,Delivery delays,qwen3:4b
+N00899,Product quality,qwen3:4b
+N00900,Discount pressure,qwen3:4b
+N00901,Delivery delays,qwen3:4b
+N00902,Demand and season,qwen3:4b
+N00903,Competitor pricing,qwen3:4b
+N00904,Competitor pricing,qwen3:4b
+N00905,Demand and season,qwen3:4b
+N00906,Delivery delays,qwen3:4b
+N00907,Product quality,qwen3:4b
+N00908,Competitor pricing,qwen3:4b
+N00909,Competitor pricing,qwen3:4b
+N00910,Discount pressure,qwen3:4b
+N00911,Competitor pricing,qwen3:4b
+N00912,Delivery delays,qwen3:4b
+N00913,Product quality,qwen3:4b
+N00914,Product quality,qwen3:4b
+N00915,Display and visibility,qwen3:4b
+N00916,Competitor pricing,qwen3:4b
+N00917,Demand and season,qwen3:4b
+N00918,Demand and season,qwen3:4b
+N00919,Delivery delays,qwen3:4b
+N00920,Display and visibility,qwen3:4b
+N00921,Display and visibility,qwen3:4b
+N00922,Payment terms,qwen3:4b
+N00923,Payment terms,qwen3:4b
+N00924,Competitor pricing,qwen3:4b
+N00925,Delivery delays,qwen3:4b
+N00926,Demand and season,qwen3:4b
+N00927,Discount pressure,qwen3:4b
+N00928,Competitor pricing,qwen3:4b
+N00929,Payment terms,qwen3:4b
+N00930,Demand and season,qwen3:4b
+N00931,Competitor pricing,qwen3:4b
+N00932,Payment terms,qwen3:4b
+N00933,Demand and season,qwen3:4b
+N00934,Discount pressure,qwen3:4b
+N00935,Delivery delays,qwen3:4b
+N00936,Competitor pricing,qwen3:4b
+N00937,Competitor pricing,qwen3:4b
+N00938,Payment terms,qwen3:4b
+N00939,Product quality,qwen3:4b
+N00940,Payment terms,qwen3:4b
+N00941,Delivery delays,qwen3:4b
+N00942,Display and visibility,qwen3:4b
+N00943,Payment terms,qwen3:4b
+N00944,Payment terms,qwen3:4b
+N00945,Competitor pricing,qwen3:4b
+N00946,Demand and season,qwen3:4b
+N00947,Display and visibility,qwen3:4b
+N00948,Product quality,qwen3:4b
+N00949,Competitor pricing,qwen3:4b
+N00950,Display and visibility,qwen3:4b
+N00951,Competitor pricing,qwen3:4b
+N00952,Delivery delays,qwen3:4b
+N00953,Product quality,qwen3:4b
+N00954,Demand and season,qwen3:4b
+N00955,Discount pressure,qwen3:4b
+N00956,Competitor pricing,qwen3:4b
+N00957,Payment terms,qwen3:4b
+N00958,Product quality,qwen3:4b
+N00959,Delivery delays,qwen3:4b
+N00960,Delivery delays,qwen3:4b
+N00961,Payment terms,qwen3:4b
+N00962,Discount pressure,qwen3:4b
+N00963,Payment terms,qwen3:4b
+N00964,Delivery delays,qwen3:4b
+N00965,Competitor pricing,qwen3:4b
+N00966,Competitor pricing,qwen3:4b
+N00967,Display and visibility,qwen3:4b
+N00968,Delivery delays,qwen3:4b
+N00969,Display and visibility,qwen3:4b
+N00970,Demand and season,qwen3:4b
+N00971,Payment terms,qwen3:4b
+N00972,Delivery delays,qwen3:4b
+N00973,Product quality,qwen3:4b
+N00974,Competitor pricing,qwen3:4b
+N00975,Payment terms,qwen3:4b
+N00976,Demand and season,qwen3:4b
+N00977,Discount pressure,qwen3:4b
+N00978,Display and visibility,qwen3:4b
+N00979,Demand and season,qwen3:4b
+N00980,Demand and season,qwen3:4b
+N00981,Delivery delays,qwen3:4b
+N00982,Discount pressure,qwen3:4b
+N00983,Delivery delays,qwen3:4b
+N00984,Product quality,qwen3:4b
+N00985,Competitor pricing,qwen3:4b
+N00986,Demand and season,qwen3:4b
+N00987,Competitor pricing,qwen3:4b
+N00988,Payment terms,qwen3:4b
+N00989,Discount pressure,qwen3:4b
+N00990,Competitor pricing,qwen3:4b
+N00991,Discount pressure,qwen3:4b
+N00992,Competitor pricing,qwen3:4b
+N00993,Demand and season,qwen3:4b
+N00994,Discount pressure,qwen3:4b
+N00995,Competitor pricing,qwen3:4b
+N00996,Product quality,qwen3:4b
+N00997,Display and visibility,qwen3:4b
+N00998,Delivery delays,qwen3:4b
+N00999,Delivery delays,qwen3:4b
+N01000,Payment terms,qwen3:4b
+N01001,Discount pressure,qwen3:4b
+N01002,Delivery delays,qwen3:4b
+N01003,Demand and season,qwen3:4b
+N01004,Demand and season,qwen3:4b
+N01005,Competitor pricing,qwen3:4b
+N01006,Demand and season,qwen3:4b
+N01007,Product quality,qwen3:4b
+N01008,Product quality,qwen3:4b
+N01009,Product quality,qwen3:4b
+N01010,Competitor pricing,qwen3:4b
+N01011,Display and visibility,qwen3:4b
+N01012,Competitor pricing,qwen3:4b
+N01013,Demand and season,qwen3:4b
+N01014,Competitor pricing,qwen3:4b
+N01015,Competitor pricing,qwen3:4b
+N01016,Delivery delays,qwen3:4b
+N01017,Delivery delays,qwen3:4b
+N01018,Product quality,qwen3:4b
+N01019,Display and visibility,qwen3:4b
+N01020,Display and visibility,qwen3:4b
+N01021,Competitor pricing,qwen3:4b
+N01022,Payment terms,qwen3:4b
+N01023,Payment terms,qwen3:4b
+N01024,Delivery delays,qwen3:4b
+N01025,Competitor pricing,qwen3:4b
+N01026,Delivery delays,qwen3:4b
+N01027,Competitor pricing,qwen3:4b
+N01028,Delivery delays,qwen3:4b
+N01029,Demand and season,qwen3:4b
+N01030,Display and visibility,qwen3:4b
+N01031,Product quality,qwen3:4b
+N01032,Product quality,qwen3:4b
+N01033,Product quality,qwen3:4b
+N01034,Demand and season,qwen3:4b
+N01035,Competitor pricing,qwen3:4b
+N01036,Payment terms,qwen3:4b
+N01037,Discount pressure,qwen3:4b
+N01038,Demand and season,qwen3:4b
+N01039,Product quality,qwen3:4b
+N01040,Discount pressure,qwen3:4b
+N01041,Display and visibility,qwen3:4b
+N01042,Delivery delays,qwen3:4b
+N01043,Delivery delays,qwen3:4b
+N01044,Demand and season,qwen3:4b
+N01045,Display and visibility,qwen3:4b
+N01046,Demand and season,qwen3:4b
+N01047,Demand and season,qwen3:4b
+N01048,Delivery delays,qwen3:4b
+N01049,Discount pressure,qwen3:4b
+N01050,Payment terms,qwen3:4b
+N01051,Discount pressure,qwen3:4b
+N01052,Product quality,qwen3:4b
+N01053,Demand and season,qwen3:4b
+N01054,Discount pressure,qwen3:4b
+N01055,Product quality,qwen3:4b
+N01056,Payment terms,qwen3:4b
+N01057,Delivery delays,qwen3:4b
+N01058,Discount pressure,qwen3:4b
+N01059,Product quality,qwen3:4b
+N01060,Delivery delays,qwen3:4b
+N01061,Payment terms,qwen3:4b
+N01062,Competitor pricing,qwen3:4b
+N01063,Product quality,qwen3:4b
+N01064,Product quality,qwen3:4b
+N01065,Delivery delays,qwen3:4b
+N01066,Display and visibility,qwen3:4b
+N01067,Product quality,qwen3:4b
+N01068,Display and visibility,qwen3:4b
+N01069,Demand and season,qwen3:4b
+N01070,Payment terms,qwen3:4b
+N01071,Demand and season,qwen3:4b
+N01072,Competitor pricing,qwen3:4b
+N01073,Display and visibility,qwen3:4b
+N01074,Product quality,qwen3:4b
+N01075,Competitor pricing,qwen3:4b
+N01076,Delivery delays,qwen3:4b
+N01077,Discount pressure,qwen3:4b
+N01078,Competitor pricing,qwen3:4b
+N01079,Competitor pricing,qwen3:4b
+N01080,Discount pressure,qwen3:4b
+N01081,Payment terms,qwen3:4b
+N01082,Competitor pricing,qwen3:4b
+N01083,Competitor pricing,qwen3:4b
+N01084,Product quality,qwen3:4b
+N01085,Product quality,qwen3:4b
+N01086,Competitor pricing,qwen3:4b
+N01087,Discount pressure,qwen3:4b
+N01088,Competitor pricing,qwen3:4b
+N01089,Discount pressure,qwen3:4b
+N01090,Payment terms,qwen3:4b
+N01091,Display and visibility,qwen3:4b
+N01092,Display and visibility,qwen3:4b
+N01093,Competitor pricing,qwen3:4b
+N01094,Product quality,qwen3:4b
+N01095,Demand and season,qwen3:4b
+N01096,Payment terms,qwen3:4b
+N01097,Payment terms,qwen3:4b
+N01098,Product quality,qwen3:4b
+N01099,Demand and season,qwen3:4b
+N01100,Product quality,qwen3:4b
+N01101,Payment terms,qwen3:4b
+N01102,Payment terms,qwen3:4b
+N01103,Display and visibility,qwen3:4b
+N01104,Discount pressure,qwen3:4b
+N01105,Competitor pricing,qwen3:4b
+N01106,Demand and season,qwen3:4b
+N01107,Product quality,qwen3:4b
+N01108,Delivery delays,qwen3:4b
+N01109,Delivery delays,qwen3:4b
+N01110,Product quality,qwen3:4b
+N01111,Demand and season,qwen3:4b
+N01112,Competitor pricing,qwen3:4b
+N01113,Discount pressure,qwen3:4b
+N01114,Discount pressure,qwen3:4b
+N01115,Discount pressure,qwen3:4b
+N01116,Product quality,qwen3:4b
+N01117,Demand and season,qwen3:4b
+N01118,Discount pressure,qwen3:4b
+N01119,Demand and season,qwen3:4b
+N01120,Payment terms,qwen3:4b
+N01121,Discount pressure,qwen3:4b
+N01122,Discount pressure,qwen3:4b
+N01123,Discount pressure,qwen3:4b
+N01124,Discount pressure,qwen3:4b
+N01125,Discount pressure,qwen3:4b
+N01126,Competitor pricing,qwen3:4b
+N01127,Demand and season,qwen3:4b
+N01128,Demand and season,qwen3:4b
+N01129,Display and visibility,qwen3:4b
+N01130,Competitor pricing,qwen3:4b
+N01131,Discount pressure,qwen3:4b
+N01132,Demand and season,qwen3:4b
+N01133,Competitor pricing,qwen3:4b
+N01134,Payment terms,qwen3:4b
+N01135,Delivery delays,qwen3:4b
+N01136,Product quality,qwen3:4b
+N01137,Competitor pricing,qwen3:4b
+N01138,Delivery delays,qwen3:4b
+N01139,Competitor pricing,qwen3:4b
+N01140,Demand and season,qwen3:4b
+N01141,Competitor pricing,qwen3:4b
+N01142,Demand and season,qwen3:4b
+N01143,Product quality,qwen3:4b
+N01144,Product quality,qwen3:4b
+N01145,Payment terms,qwen3:4b
+N01146,Competitor pricing,qwen3:4b
+N01147,Delivery delays,qwen3:4b
+N01148,Demand and season,qwen3:4b
+N01149,Product quality,qwen3:4b
+N01150,Demand and season,qwen3:4b
+N01151,Demand and season,qwen3:4b
+N01152,Delivery delays,qwen3:4b
+N01153,Product quality,qwen3:4b
+N01154,Display and visibility,qwen3:4b
+N01155,Delivery delays,qwen3:4b
+N01156,Delivery delays,qwen3:4b
+N01157,Display and visibility,qwen3:4b
+N01158,Product quality,qwen3:4b
+N01159,Delivery delays,qwen3:4b
+N01160,Display and visibility,qwen3:4b
+N01161,Demand and season,qwen3:4b
+N01162,Product quality,qwen3:4b
+N01163,Demand and season,qwen3:4b
+N01164,Demand and season,qwen3:4b
+N01165,Discount pressure,qwen3:4b
+N01166,Payment terms,qwen3:4b
+N01167,Discount pressure,qwen3:4b
+N01168,Discount pressure,qwen3:4b
+N01169,Product quality,qwen3:4b
+N01170,Product quality,qwen3:4b
+N01171,Product quality,qwen3:4b
+N01172,Competitor pricing,qwen3:4b
+N01173,Payment terms,qwen3:4b
+N01174,Product quality,qwen3:4b
+N01175,Product quality,qwen3:4b
+N01176,Product quality,qwen3:4b
+N01177,Product quality,qwen3:4b
+N01178,Competitor pricing,qwen3:4b
+N01179,Display and visibility,qwen3:4b
+N01180,Competitor pricing,qwen3:4b
+N01181,Demand and season,qwen3:4b
+N01182,Display and visibility,qwen3:4b
+N01183,Display and visibility,qwen3:4b
+N01184,Payment terms,qwen3:4b
+N01185,Competitor pricing,qwen3:4b
+N01186,Competitor pricing,qwen3:4b
+N01187,Competitor pricing,qwen3:4b
+N01188,Product quality,qwen3:4b
+N01189,Payment terms,qwen3:4b
+N01190,Display and visibility,qwen3:4b
+N01191,Discount pressure,qwen3:4b
+N01192,Delivery delays,qwen3:4b
+N01193,Payment terms,qwen3:4b
+N01194,Display and visibility,qwen3:4b
+N01195,Demand and season,qwen3:4b
+N01196,Delivery delays,qwen3:4b
+N01197,Competitor pricing,qwen3:4b
+N01198,Demand and season,qwen3:4b
+N01199,Payment terms,qwen3:4b
+N01200,Product quality,qwen3:4b

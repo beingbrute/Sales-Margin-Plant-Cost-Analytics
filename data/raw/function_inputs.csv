@@ -1,0 +1,160 @@
+function,provided_by,input,key,value,unit
+Sales,Sales planning,Unit sales forecast,2025-04|Fans,274509.0,units
+Sales,Sales planning,Unit sales forecast,2025-04|Stabilisers,100567.0,units
+Sales,Sales planning,Unit sales forecast,2025-04|Water heaters,49011.0,units
+Sales,Sales planning,Unit sales forecast,2025-04|Wires,153539.0,units
+Sales,Sales planning,Unit sales forecast,2025-05|Fans,307768.0,units
+Sales,Sales planning,Unit sales forecast,2025-05|Stabilisers,120369.0,units
+Sales,Sales planning,Unit sales forecast,2025-05|Water heaters,34314.0,units
+Sales,Sales planning,Unit sales forecast,2025-05|Wires,186752.0,units
+Sales,Sales planning,Unit sales forecast,2025-06|Fans,214765.0,units
+Sales,Sales planning,Unit sales forecast,2025-06|Stabilisers,99507.0,units
+Sales,Sales planning,Unit sales forecast,2025-06|Water heaters,38191.0,units
+Sales,Sales planning,Unit sales forecast,2025-06|Wires,155524.0,units
+Sales,Sales planning,Unit sales forecast,2025-07|Fans,168924.0,units
+Sales,Sales planning,Unit sales forecast,2025-07|Stabilisers,88596.0,units
+Sales,Sales planning,Unit sales forecast,2025-07|Water heaters,44960.0,units
+Sales,Sales planning,Unit sales forecast,2025-07|Wires,167084.0,units
+Sales,Sales planning,Unit sales forecast,2025-08|Fans,144914.0,units
+Sales,Sales planning,Unit sales forecast,2025-08|Stabilisers,68681.0,units
+Sales,Sales planning,Unit sales forecast,2025-08|Water heaters,59689.0,units
+Sales,Sales planning,Unit sales forecast,2025-08|Wires,152889.0,units
+Sales,Sales planning,Unit sales forecast,2025-09|Fans,130316.0,units
+Sales,Sales planning,Unit sales forecast,2025-09|Stabilisers,78291.0,units
+Sales,Sales planning,Unit sales forecast,2025-09|Water heaters,72169.0,units
+Sales,Sales planning,Unit sales forecast,2025-09|Wires,192844.0,units
+Sales,Sales planning,Unit sales forecast,2025-10|Fans,136314.0,units
+Sales,Sales planning,Unit sales forecast,2025-10|Stabilisers,77308.0,units
+Sales,Sales planning,Unit sales forecast,2025-10|Water heaters,98205.0,units
+Sales,Sales planning,Unit sales forecast,2025-10|Wires,200308.0,units
+Sales,Sales planning,Unit sales forecast,2025-11|Fans,94869.0,units
+Sales,Sales planning,Unit sales forecast,2025-11|Stabilisers,64111.0,units
+Sales,Sales planning,Unit sales forecast,2025-11|Water heaters,134376.0,units
+Sales,Sales planning,Unit sales forecast,2025-11|Wires,197134.0,units
+Sales,Sales planning,Unit sales forecast,2025-12|Fans,113578.0,units
+Sales,Sales planning,Unit sales forecast,2025-12|Stabilisers,65912.0,units
+Sales,Sales planning,Unit sales forecast,2025-12|Water heaters,151087.0,units
+Sales,Sales planning,Unit sales forecast,2025-12|Wires,209762.0,units
+Sales,Sales planning,Unit sales forecast,2026-01|Fans,118759.0,units
+Sales,Sales planning,Unit sales forecast,2026-01|Stabilisers,63912.0,units
+Sales,Sales planning,Unit sales forecast,2026-01|Water heaters,148953.0,units
+Sales,Sales planning,Unit sales forecast,2026-01|Wires,209711.0,units
+Sales,Sales planning,Unit sales forecast,2026-02|Fans,164006.0,units
+Sales,Sales planning,Unit sales forecast,2026-02|Stabilisers,78595.0,units
+Sales,Sales planning,Unit sales forecast,2026-02|Water heaters,110642.0,units
+Sales,Sales planning,Unit sales forecast,2026-02|Wires,211638.0,units
+Sales,Sales planning,Unit sales forecast,2026-03|Fans,231893.0,units
+Sales,Sales planning,Unit sales forecast,2026-03|Stabilisers,89530.0,units
+Sales,Sales planning,Unit sales forecast,2026-03|Water heaters,67505.0,units
+Sales,Sales planning,Unit sales forecast,2026-03|Wires,224541.0,units
+Plants,HDW plant head,Planned working days,2025-04|FAN-L1,26.0,days
+Plants,HDW plant head,Planned working days,2025-05|FAN-L1,26.0,days
+Plants,HDW plant head,Planned working days,2025-06|FAN-L1,26.0,days
+Plants,HDW plant head,Planned working days,2025-07|FAN-L1,26.0,days
+Plants,HDW plant head,Planned working days,2025-08|FAN-L1,26.0,days
+Plants,HDW plant head,Planned working days,2025-09|FAN-L1,26.0,days
+Plants,HDW plant head,Planned working days,2025-10|FAN-L1,26.0,days
+Plants,HDW plant head,Planned working days,2025-11|FAN-L1,26.0,days
+Plants,HDW plant head,Planned working days,2025-12|FAN-L1,26.0,days
+Plants,HDW plant head,Planned working days,2026-01|FAN-L1,26.0,days
+Plants,HDW plant head,Planned working days,2026-02|FAN-L1,26.0,days
+Plants,HDW plant head,Planned working days,2026-03|FAN-L1,26.0,days
+Plants,HDW plant head,Planned working days,2025-04|FAN-L2,26.0,days
+Plants,HDW plant head,Planned working days,2025-05|FAN-L2,26.0,days
+Plants,HDW plant head,Planned working days,2025-06|FAN-L2,26.0,days
+Plants,HDW plant head,Planned working days,2025-07|FAN-L2,26.0,days
+Plants,HDW plant head,Planned working days,2025-08|FAN-L2,26.0,days
+Plants,HDW plant head,Planned working days,2025-09|FAN-L2,26.0,days
+Plants,HDW plant head,Planned working days,2025-10|FAN-L2,26.0,days
+Plants,HDW plant head,Planned working days,2025-11|FAN-L2,26.0,days
+Plants,HDW plant head,Planned working days,2025-12|FAN-L2,26.0,days
+Plants,HDW plant head,Planned working days,2026-01|FAN-L2,26.0,days
+Plants,HDW plant head,Planned working days,2026-02|FAN-L2,26.0,days
+Plants,HDW plant head,Planned working days,2026-03|FAN-L2,26.0,days
+Plants,HDW plant head,Planned working days,2025-04|WH-L1,26.0,days
+Plants,HDW plant head,Planned working days,2025-05|WH-L1,26.0,days
+Plants,HDW plant head,Planned working days,2025-06|WH-L1,26.0,days
+Plants,HDW plant head,Planned working days,2025-07|WH-L1,26.0,days
+Plants,HDW plant head,Planned working days,2025-08|WH-L1,26.0,days
+Plants,HDW plant head,Planned working days,2025-09|WH-L1,26.0,days
+Plants,HDW plant head,Planned working days,2025-10|WH-L1,26.0,days
+Plants,HDW plant head,Planned working days,2025-11|WH-L1,26.0,days
+Plants,HDW plant head,Planned working days,2025-12|WH-L1,26.0,days
+Plants,HDW plant head,Planned working days,2026-01|WH-L1,26.0,days
+Plants,HDW plant head,Planned working days,2026-02|WH-L1,26.0,days
+Plants,HDW plant head,Planned working days,2026-03|WH-L1,26.0,days
+Plants,BDI plant head,Planned working days,2025-04|STB-L1,26.0,days
+Plants,BDI plant head,Planned working days,2025-05|STB-L1,26.0,days
+Plants,BDI plant head,Planned working days,2025-06|STB-L1,26.0,days
+Plants,BDI plant head,Planned working days,2025-07|STB-L1,26.0,days
+Plants,BDI plant head,Planned working days,2025-08|STB-L1,26.0,days
+Plants,BDI plant head,Planned working days,2025-09|STB-L1,26.0,days
+Plants,BDI plant head,Planned working days,2025-10|STB-L1,26.0,days
+Plants,BDI plant head,Planned working days,2025-11|STB-L1,26.0,days
+Plants,BDI plant head,Planned working days,2025-12|STB-L1,26.0,days
+Plants,BDI plant head,Planned working days,2026-01|STB-L1,26.0,days
+Plants,BDI plant head,Planned working days,2026-02|STB-L1,26.0,days
+Plants,BDI plant head,Planned working days,2026-03|STB-L1,26.0,days
+Plants,BDI plant head,Planned working days,2025-04|STB-L2,26.0,days
+Plants,BDI plant head,Planned working days,2025-05|STB-L2,26.0,days
+Plants,BDI plant head,Planned working days,2025-06|STB-L2,26.0,days
+Plants,BDI plant head,Planned working days,2025-07|STB-L2,26.0,days
+Plants,BDI plant head,Planned working days,2025-08|STB-L2,26.0,days
+Plants,BDI plant head,Planned working days,2025-09|STB-L2,26.0,days
+Plants,BDI plant head,Planned working days,2025-10|STB-L2,26.0,days
+Plants,BDI plant head,Planned working days,2025-11|STB-L2,26.0,days
+Plants,BDI plant head,Planned working days,2025-12|STB-L2,26.0,days
+Plants,BDI plant head,Planned working days,2026-01|STB-L2,26.0,days
+Plants,BDI plant head,Planned working days,2026-02|STB-L2,26.0,days
+Plants,BDI plant head,Planned working days,2026-03|STB-L2,26.0,days
+Plants,HSR plant head,Planned working days,2025-04|WIR-L1,26.0,days
+Plants,HSR plant head,Planned working days,2025-05|WIR-L1,26.0,days
+Plants,HSR plant head,Planned working days,2025-06|WIR-L1,26.0,days
+Plants,HSR plant head,Planned working days,2025-07|WIR-L1,26.0,days
+Plants,HSR plant head,Planned working days,2025-08|WIR-L1,26.0,days
+Plants,HSR plant head,Planned working days,2025-09|WIR-L1,26.0,days
+Plants,HSR plant head,Planned working days,2025-10|WIR-L1,26.0,days
+Plants,HSR plant head,Planned working days,2025-11|WIR-L1,26.0,days
+Plants,HSR plant head,Planned working days,2025-12|WIR-L1,26.0,days
+Plants,HSR plant head,Planned working days,2026-01|WIR-L1,26.0,days
+Plants,HSR plant head,Planned working days,2026-02|WIR-L1,26.0,days
+Plants,HSR plant head,Planned working days,2026-03|WIR-L1,26.0,days
+Plants,HSR plant head,Planned working days,2025-04|WIR-L2,26.0,days
+Plants,HSR plant head,Planned working days,2025-05|WIR-L2,26.0,days
+Plants,HSR plant head,Planned working days,2025-06|WIR-L2,26.0,days
+Plants,HSR plant head,Planned working days,2025-07|WIR-L2,26.0,days
+Plants,HSR plant head,Planned working days,2025-08|WIR-L2,26.0,days
+Plants,HSR plant head,Planned working days,2025-09|WIR-L2,26.0,days
+Plants,HSR plant head,Planned working days,2025-10|WIR-L2,26.0,days
+Plants,HSR plant head,Planned working days,2025-11|WIR-L2,26.0,days
+Plants,HSR plant head,Planned working days,2025-12|WIR-L2,26.0,days
+Plants,HSR plant head,Planned working days,2026-01|WIR-L2,26.0,days
+Plants,HSR plant head,Planned working days,2026-02|WIR-L2,26.0,days
+Plants,HSR plant head,Planned working days,2026-03|WIR-L2,26.0,days
+Plants,HSR plant head,Planned working days,2025-04|WH-L2,26.0,days
+Plants,HSR plant head,Planned working days,2025-05|WH-L2,26.0,days
+Plants,HSR plant head,Planned working days,2025-06|WH-L2,26.0,days
+Plants,HSR plant head,Planned working days,2025-07|WH-L2,26.0,days
+Plants,HSR plant head,Planned working days,2025-08|WH-L2,26.0,days
+Plants,HSR plant head,Planned working days,2025-09|WH-L2,26.0,days
+Plants,HSR plant head,Planned working days,2025-10|WH-L2,26.0,days
+Plants,HSR plant head,Planned working days,2025-11|WH-L2,26.0,days
+Plants,HSR plant head,Planned working days,2025-12|WH-L2,26.0,days
+Plants,HSR plant head,Planned working days,2026-01|WH-L2,26.0,days
+Plants,HSR plant head,Planned working days,2026-02|WH-L2,26.0,days
+Plants,HSR plant head,Planned working days,2026-03|WH-L2,26.0,days
+Supply chain,Logistics manager,Freight rate,HDW|WN,0.966,INR per kg
+Supply chain,Logistics manager,Freight rate,HDW|WS,9.66,INR per kg
+Supply chain,Logistics manager,Freight rate,HDW|WE,6.09,INR per kg
+Supply chain,Logistics manager,Freight rate,HDW|WW,6.93,INR per kg
+Supply chain,Logistics manager,Freight rate,BDI|WN,1.26,INR per kg
+Supply chain,Logistics manager,Freight rate,BDI|WS,9.87,INR per kg
+Supply chain,Logistics manager,Freight rate,BDI|WE,6.72,INR per kg
+Supply chain,Logistics manager,Freight rate,BDI|WW,7.14,INR per kg
+Supply chain,Logistics manager,Freight rate,HSR|WN,9.45,INR per kg
+Supply chain,Logistics manager,Freight rate,HSR|WS,0.189,INR per kg
+Supply chain,Logistics manager,Freight rate,HSR|WE,7.98,INR per kg
+Supply chain,Logistics manager,Freight rate,HSR|WW,4.41,INR per kg
+Finance,Plant controller,Copper price assumption Jul-Mar,FY25-26,800.0,INR/kg
+Finance,Plant controller,Standard conversion uplift,FY25-26,0.0,%
+Finance,Plant controller,Planned wire price increase,FY25-26,12.0,%

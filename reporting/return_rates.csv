@@ -1,0 +1,745 @@
+material,description,plant,invoice_month,units_invoiced,units_returned,return_rate,value_returned
+FN001,Economy ceiling fan 900mm,HDW,2025-04,18560,101,0.0054,136042
+FN001,Economy ceiling fan 900mm,HDW,2025-05,17991,139,0.0077,185858
+FN001,Economy ceiling fan 900mm,HDW,2025-06,13669,141,0.0103,190266
+FN001,Economy ceiling fan 900mm,HDW,2025-07,8774,127,0.0145,168961
+FN001,Economy ceiling fan 900mm,HDW,2025-08,8568,72,0.0084,95236
+FN001,Economy ceiling fan 900mm,HDW,2025-09,7784,92,0.0118,123127
+FN001,Economy ceiling fan 900mm,HDW,2025-10,6815,69,0.0101,89817
+FN001,Economy ceiling fan 900mm,HDW,2025-11,6457,84,0.0130,111347
+FN001,Economy ceiling fan 900mm,HDW,2025-12,5555,40,0.0072,53495
+FN001,Economy ceiling fan 900mm,HDW,2026-01,7239,35,0.0048,46926
+FN001,Economy ceiling fan 900mm,HDW,2026-02,9763,111,0.0114,148721
+FN001,Economy ceiling fan 900mm,HDW,2026-03,12002,107,0.0089,143752
+FN002,Economy ceiling fan 1200mm,HDW,2025-04,15140,99,0.0065,141637
+FN002,Economy ceiling fan 1200mm,HDW,2025-05,17841,135,0.0076,192716
+FN002,Economy ceiling fan 1200mm,HDW,2025-06,13988,109,0.0078,156480
+FN002,Economy ceiling fan 1200mm,HDW,2025-07,9094,42,0.0046,58416
+FN002,Economy ceiling fan 1200mm,HDW,2025-08,6963,37,0.0053,53168
+FN002,Economy ceiling fan 1200mm,HDW,2025-09,7749,61,0.0079,85723
+FN002,Economy ceiling fan 1200mm,HDW,2025-10,7426,45,0.0061,64889
+FN002,Economy ceiling fan 1200mm,HDW,2025-11,6658,53,0.0080,77330
+FN002,Economy ceiling fan 1200mm,HDW,2025-12,5278,56,0.0106,80126
+FN002,Economy ceiling fan 1200mm,HDW,2026-01,7377,45,0.0061,63449
+FN002,Economy ceiling fan 1200mm,HDW,2026-02,9534,73,0.0077,104645
+FN002,Economy ceiling fan 1200mm,HDW,2026-03,12965,100,0.0077,144547
+FN003,Economy ceiling fan 1200mm,HDW,2025-04,17907,65,0.0036,98340
+FN003,Economy ceiling fan 1200mm,HDW,2025-05,18688,116,0.0062,177104
+FN003,Economy ceiling fan 1200mm,HDW,2025-06,14953,107,0.0072,164360
+FN003,Economy ceiling fan 1200mm,HDW,2025-07,9256,138,0.0149,209789
+FN003,Economy ceiling fan 1200mm,HDW,2025-08,7426,47,0.0063,71648
+FN003,Economy ceiling fan 1200mm,HDW,2025-09,7272,72,0.0099,111271
+FN003,Economy ceiling fan 1200mm,HDW,2025-10,6496,40,0.0062,58775
+FN003,Economy ceiling fan 1200mm,HDW,2025-11,5635,30,0.0053,45164
+FN003,Economy ceiling fan 1200mm,HDW,2025-12,5228,32,0.0061,48423
+FN003,Economy ceiling fan 1200mm,HDW,2026-01,7547,50,0.0066,75458
+FN003,Economy ceiling fan 1200mm,HDW,2026-02,9750,79,0.0081,121356
+FN003,Economy ceiling fan 1200mm,HDW,2026-03,12256,133,0.0109,206465
+FN004,Economy ceiling fan 900mm,HDW,2025-04,15608,144,0.0092,225787
+FN004,Economy ceiling fan 900mm,HDW,2025-05,19124,83,0.0043,130812
+FN004,Economy ceiling fan 900mm,HDW,2025-06,14915,73,0.0049,114801
+FN004,Economy ceiling fan 900mm,HDW,2025-07,10097,62,0.0061,97636
+FN004,Economy ceiling fan 900mm,HDW,2025-08,7954,44,0.0055,70110
+FN004,Economy ceiling fan 900mm,HDW,2025-09,7452,66,0.0089,103346
+FN004,Economy ceiling fan 900mm,HDW,2025-10,7448,45,0.0060,71130
+FN004,Economy ceiling fan 900mm,HDW,2025-11,4624,21,0.0045,32734
+FN004,Economy ceiling fan 900mm,HDW,2025-12,6522,47,0.0072,73858
+FN004,Economy ceiling fan 900mm,HDW,2026-01,7902,83,0.0105,130526
+FN004,Economy ceiling fan 900mm,HDW,2026-02,9645,124,0.0129,194946
+FN004,Economy ceiling fan 900mm,HDW,2026-03,12574,105,0.0084,164060
+FN005,Economy ceiling fan 1200mm,HDW,2025-04,14848,100,0.0067,166484
+FN005,Economy ceiling fan 1200mm,HDW,2025-05,17135,92,0.0054,151189
+FN005,Economy ceiling fan 1200mm,HDW,2025-06,13692,101,0.0074,171459
+FN005,Economy ceiling fan 1200mm,HDW,2025-07,8740,30,0.0034,50468
+FN005,Economy ceiling fan 1200mm,HDW,2025-08,7208,35,0.0049,58010
+FN005,Economy ceiling fan 1200mm,HDW,2025-09,8548,104,0.0122,173223
+FN005,Economy ceiling fan 1200mm,HDW,2025-10,6785,34,0.0050,56196
+FN005,Economy ceiling fan 1200mm,HDW,2025-11,5877,54,0.0092,86015
+FN005,Economy ceiling fan 1200mm,HDW,2025-12,5544,94,0.0170,155646
+FN005,Economy ceiling fan 1200mm,HDW,2026-01,6815,68,0.0100,110941
+FN005,Economy ceiling fan 1200mm,HDW,2026-02,9106,48,0.0053,78732
+FN005,Economy ceiling fan 1200mm,HDW,2026-03,12567,143,0.0114,238768
+FN006,Economy ceiling fan 1200mm,HDW,2025-04,16526,54,0.0033,93157
+FN006,Economy ceiling fan 1200mm,HDW,2025-05,16930,85,0.0050,144320
+FN006,Economy ceiling fan 1200mm,HDW,2025-06,15014,113,0.0075,195112
+FN006,Economy ceiling fan 1200mm,HDW,2025-07,8850,43,0.0049,73464
+FN006,Economy ceiling fan 1200mm,HDW,2025-08,8290,15,0.0018,25271
+FN006,Economy ceiling fan 1200mm,HDW,2025-09,8130,115,0.0141,197029
+FN006,Economy ceiling fan 1200mm,HDW,2025-10,6246,21,0.0034,35477
+FN006,Economy ceiling fan 1200mm,HDW,2025-11,5851,69,0.0118,120241
+FN006,Economy ceiling fan 1200mm,HDW,2025-12,6028,24,0.0040,38252
+FN006,Economy ceiling fan 1200mm,HDW,2026-01,5622,73,0.0130,123611
+FN006,Economy ceiling fan 1200mm,HDW,2026-02,10215,33,0.0032,56288
+FN006,Economy ceiling fan 1200mm,HDW,2026-03,12420,5,0.0004,8421
+FN007,Economy ceiling fan 900mm,HDW,2025-04,16622,239,0.0144,422575
+FN007,Economy ceiling fan 900mm,HDW,2025-05,18548,161,0.0087,282722
+FN007,Economy ceiling fan 900mm,HDW,2025-06,14069,98,0.0070,172317
+FN007,Economy ceiling fan 900mm,HDW,2025-07,7842,22,0.0028,37411
+FN007,Economy ceiling fan 900mm,HDW,2025-08,8600,82,0.0095,142804
+FN007,Economy ceiling fan 900mm,HDW,2025-09,7276,59,0.0081,103789
+FN007,Economy ceiling fan 900mm,HDW,2025-10,7254,48,0.0066,83108
+FN007,Economy ceiling fan 900mm,HDW,2025-11,4940,26,0.0053,44916
+FN007,Economy ceiling fan 900mm,HDW,2025-12,6122,25,0.0041,44986
+FN007,Economy ceiling fan 900mm,HDW,2026-01,7570,72,0.0095,126567
+FN007,Economy ceiling fan 900mm,HDW,2026-02,10009,57,0.0057,100227
+FN007,Economy ceiling fan 900mm,HDW,2026-03,12879,153,0.0119,266762
+FN008,Economy ceiling fan 1200mm,HDW,2025-04,17905,175,0.0098,322922
+FN008,Economy ceiling fan 1200mm,HDW,2025-05,19898,177,0.0089,329592
+FN008,Economy ceiling fan 1200mm,HDW,2025-06,13971,121,0.0087,220420
+FN008,Economy ceiling fan 1200mm,HDW,2025-07,9928,40,0.0040,75116
+FN008,Economy ceiling fan 1200mm,HDW,2025-08,8399,51,0.0061,94400
+FN008,Economy ceiling fan 1200mm,HDW,2025-09,8156,76,0.0093,142156
+FN008,Economy ceiling fan 1200mm,HDW,2025-10,7462,24,0.0032,43844
+FN008,Economy ceiling fan 1200mm,HDW,2025-11,5472,51,0.0093,89584
+FN008,Economy ceiling fan 1200mm,HDW,2025-12,6605,69,0.0104,127824
+FN008,Economy ceiling fan 1200mm,HDW,2026-01,6520,39,0.0060,72352
+FN008,Economy ceiling fan 1200mm,HDW,2026-02,10437,137,0.0131,253714
+FN008,Economy ceiling fan 1200mm,HDW,2026-03,12985,89,0.0069,165998
+FN009,Mid ceiling fan 1200mm,HDW,2025-04,13261,91,0.0069,219638
+FN009,Mid ceiling fan 1200mm,HDW,2025-05,17802,197,0.0111,471440
+FN009,Mid ceiling fan 1200mm,HDW,2025-06,14371,44,0.0031,105136
+FN009,Mid ceiling fan 1200mm,HDW,2025-07,10209,127,0.0124,305378
+FN009,Mid ceiling fan 1200mm,HDW,2025-08,9427,66,0.0070,157331
+FN009,Mid ceiling fan 1200mm,HDW,2025-09,8554,101,0.0118,240438
+FN009,Mid ceiling fan 1200mm,HDW,2025-10,8205,94,0.0115,223649
+FN009,Mid ceiling fan 1200mm,HDW,2025-11,6310,37,0.0059,88780
+FN009,Mid ceiling fan 1200mm,HDW,2025-12,7360,16,0.0022,37261
+FN009,Mid ceiling fan 1200mm,HDW,2026-01,8303,40,0.0048,95272
+FN009,Mid ceiling fan 1200mm,HDW,2026-02,11369,21,0.0018,50583
+FN009,Mid ceiling fan 1200mm,HDW,2026-03,17168,47,0.0027,112629
+FN010,Mid ceiling fan 900mm,HDW,2025-04,14456,152,0.0105,392890
+FN010,Mid ceiling fan 900mm,HDW,2025-05,14835,53,0.0036,136906
+FN010,Mid ceiling fan 900mm,HDW,2025-06,12231,64,0.0052,163870
+FN010,Mid ceiling fan 900mm,HDW,2025-07,9146,80,0.0087,203207
+FN010,Mid ceiling fan 900mm,HDW,2025-08,8978,39,0.0043,101105
+FN010,Mid ceiling fan 900mm,HDW,2025-09,8020,127,0.0158,335051
+FN010,Mid ceiling fan 900mm,HDW,2025-10,7956,21,0.0026,55121
+FN010,Mid ceiling fan 900mm,HDW,2025-11,6856,51,0.0074,125546
+FN010,Mid ceiling fan 900mm,HDW,2025-12,6981,26,0.0037,69042
+FN010,Mid ceiling fan 900mm,HDW,2026-01,8128,55,0.0068,142349
+FN010,Mid ceiling fan 900mm,HDW,2026-02,12996,124,0.0095,319841
+FN010,Mid ceiling fan 900mm,HDW,2026-03,14665,93,0.0063,242068
+FN011,Mid ceiling fan 1200mm,HDW,2025-04,15971,189,0.0118,522144
+FN011,Mid ceiling fan 1200mm,HDW,2025-05,15429,158,0.0102,434694
+FN011,Mid ceiling fan 1200mm,HDW,2025-06,10924,52,0.0048,145491
+FN011,Mid ceiling fan 1200mm,HDW,2025-07,9706,46,0.0047,128040
+FN011,Mid ceiling fan 1200mm,HDW,2025-08,9837,197,0.0200,545385
+FN011,Mid ceiling fan 1200mm,HDW,2025-09,8171,106,0.0130,291444
+FN011,Mid ceiling fan 1200mm,HDW,2025-10,8525,38,0.0045,107448
+FN011,Mid ceiling fan 1200mm,HDW,2025-11,6888,,,
+FN011,Mid ceiling fan 1200mm,HDW,2025-12,6217,16,0.0026,44628
+FN011,Mid ceiling fan 1200mm,HDW,2026-01,8005,67,0.0084,182811
+FN011,Mid ceiling fan 1200mm,HDW,2026-02,10256,85,0.0083,238893
+FN011,Mid ceiling fan 1200mm,HDW,2026-03,15166,63,0.0042,172926
+FN012,Mid ceiling fan 1200mm,HDW,2025-04,15535,58,0.0037,172278
+FN012,Mid ceiling fan 1200mm,HDW,2025-05,17639,104,0.0059,306909
+FN012,Mid ceiling fan 1200mm,HDW,2025-06,13409,87,0.0065,255818
+FN012,Mid ceiling fan 1200mm,HDW,2025-07,10463,51,0.0049,150144
+FN012,Mid ceiling fan 1200mm,HDW,2025-08,8362,144,0.0172,434227
+FN012,Mid ceiling fan 1200mm,HDW,2025-09,9511,43,0.0045,124531
+FN012,Mid ceiling fan 1200mm,HDW,2025-10,7184,23,0.0032,67830
+FN012,Mid ceiling fan 1200mm,HDW,2025-11,8551,14,0.0016,41674
+FN012,Mid ceiling fan 1200mm,HDW,2025-12,7362,82,0.0111,240742
+FN012,Mid ceiling fan 1200mm,HDW,2026-01,7020,9,0.0013,26944
+FN012,Mid ceiling fan 1200mm,HDW,2026-02,11215,75,0.0067,223827
+FN012,Mid ceiling fan 1200mm,HDW,2026-03,13740,91,0.0066,267082
+FN013,Mid ceiling fan 900mm,HDW,2025-04,15725,51,0.0032,158371
+FN013,Mid ceiling fan 900mm,HDW,2025-05,15544,146,0.0094,453091
+FN013,Mid ceiling fan 900mm,HDW,2025-06,13557,74,0.0055,228691
+FN013,Mid ceiling fan 900mm,HDW,2025-07,9211,77,0.0084,236868
+FN013,Mid ceiling fan 900mm,HDW,2025-08,8131,91,0.0112,283959
+FN013,Mid ceiling fan 900mm,HDW,2025-09,8993,74,0.0082,229331
+FN013,Mid ceiling fan 900mm,HDW,2025-10,8547,29,0.0034,89435
+FN013,Mid ceiling fan 900mm,HDW,2025-11,6442,23,0.0036,69714
+FN013,Mid ceiling fan 900mm,HDW,2025-12,7441,57,0.0077,174592
+FN013,Mid ceiling fan 900mm,HDW,2026-01,7141,39,0.0055,121525
+FN013,Mid ceiling fan 900mm,HDW,2026-02,11116,78,0.0070,237113
+FN013,Mid ceiling fan 900mm,HDW,2026-03,14930,88,0.0059,273983
+FN014,Mid ceiling fan 1200mm,HDW,2025-04,15681,87,0.0055,281901
+FN014,Mid ceiling fan 1200mm,HDW,2025-05,16621,136,0.0082,442656
+FN014,Mid ceiling fan 1200mm,HDW,2025-06,14840,135,0.0091,438806
+FN014,Mid ceiling fan 1200mm,HDW,2025-07,10198,66,0.0065,211169
+FN014,Mid ceiling fan 1200mm,HDW,2025-08,9432,49,0.0052,158995
+FN014,Mid ceiling fan 1200mm,HDW,2025-09,8291,29,0.0035,93835
+FN014,Mid ceiling fan 1200mm,HDW,2025-10,7174,35,0.0049,113911
+FN014,Mid ceiling fan 1200mm,HDW,2025-11,6855,3,0.0004,9317
+FN014,Mid ceiling fan 1200mm,HDW,2025-12,5744,12,0.0021,39127
+FN014,Mid ceiling fan 1200mm,HDW,2026-01,8003,141,0.0176,456001
+FN014,Mid ceiling fan 1200mm,HDW,2026-02,12026,68,0.0057,222404
+FN014,Mid ceiling fan 1200mm,HDW,2026-03,14441,134,0.0093,432817
+FN015,Premium ceiling fan 1200mm,HDW,2025-04,8873,75,0.0085,335717
+FN015,Premium ceiling fan 1200mm,HDW,2025-05,9222,111,0.0120,499886
+FN015,Premium ceiling fan 1200mm,HDW,2025-06,8695,73,0.0084,321730
+FN015,Premium ceiling fan 1200mm,HDW,2025-07,4988,60,0.0120,270360
+FN015,Premium ceiling fan 1200mm,HDW,2025-08,5002,58,0.0116,250949
+FN015,Premium ceiling fan 1200mm,HDW,2025-09,4197,1,0.0002,4392
+FN015,Premium ceiling fan 1200mm,HDW,2025-10,4313,38,0.0088,157718
+FN015,Premium ceiling fan 1200mm,HDW,2025-11,4485,31,0.0069,126254
+FN015,Premium ceiling fan 1200mm,HDW,2025-12,3104,22,0.0071,99206
+FN015,Premium ceiling fan 1200mm,HDW,2026-01,5409,11,0.0020,49109
+FN015,Premium ceiling fan 1200mm,HDW,2026-02,5797,23,0.0040,100378
+FN015,Premium ceiling fan 1200mm,HDW,2026-03,9189,40,0.0044,175267
+FN016,Premium ceiling fan 900mm,HDW,2025-04,10901,97,0.0089,479617
+FN016,Premium ceiling fan 900mm,HDW,2025-05,11019,93,0.0084,472057
+FN016,Premium ceiling fan 900mm,HDW,2025-06,8339,136,0.0163,682268
+FN016,Premium ceiling fan 900mm,HDW,2025-07,6495,71,0.0109,354926
+FN016,Premium ceiling fan 900mm,HDW,2025-08,4767,33,0.0069,164290
+FN016,Premium ceiling fan 900mm,HDW,2025-09,5322,1,0.0002,4995
+FN016,Premium ceiling fan 900mm,HDW,2025-10,5359,34,0.0063,167929
+FN016,Premium ceiling fan 900mm,HDW,2025-11,4796,38,0.0079,181807
+FN016,Premium ceiling fan 900mm,HDW,2025-12,3838,,,
+FN016,Premium ceiling fan 900mm,HDW,2026-01,4821,26,0.0054,130853
+FN016,Premium ceiling fan 900mm,HDW,2026-02,6775,40,0.0059,200632
+FN016,Premium ceiling fan 900mm,HDW,2026-03,8085,46,0.0057,226654
+FN017,BLDC Premium ceiling fan 1200mm,HDW,2025-04,9991,38,0.0038,210760
+FN017,BLDC Premium ceiling fan 1200mm,HDW,2025-05,10713,76,0.0071,417614
+FN017,BLDC Premium ceiling fan 1200mm,HDW,2025-06,8011,60,0.0075,321621
+FN017,BLDC Premium ceiling fan 1200mm,HDW,2025-07,6061,66,0.0109,360643
+FN017,BLDC Premium ceiling fan 1200mm,HDW,2025-08,5672,79,0.0139,435007
+FN017,BLDC Premium ceiling fan 1200mm,HDW,2025-09,5581,15,0.0027,81420
+FN017,BLDC Premium ceiling fan 1200mm,HDW,2025-10,4196,77,0.0184,411608
+FN017,BLDC Premium ceiling fan 1200mm,HDW,2025-11,3623,47,0.0130,247375
+FN017,BLDC Premium ceiling fan 1200mm,HDW,2025-12,3250,26,0.0080,141329
+FN017,BLDC Premium ceiling fan 1200mm,HDW,2026-01,4631,9,0.0019,49932
+FN017,BLDC Premium ceiling fan 1200mm,HDW,2026-02,6381,46,0.0072,252272
+FN017,BLDC Premium ceiling fan 1200mm,HDW,2026-03,9164,85,0.0093,471888
+FN018,BLDC Premium ceiling fan 1200mm,HDW,2025-04,9025,85,0.0094,505139
+FN018,BLDC Premium ceiling fan 1200mm,HDW,2025-05,10381,107,0.0103,634822
+FN018,BLDC Premium ceiling fan 1200mm,HDW,2025-06,7411,91,0.0123,533882
+FN018,BLDC Premium ceiling fan 1200mm,HDW,2025-07,6105,47,0.0077,280704
+FN018,BLDC Premium ceiling fan 1200mm,HDW,2025-08,6191,35,0.0057,202758
+FN018,BLDC Premium ceiling fan 1200mm,HDW,2025-09,4906,11,0.0022,62515
+FN018,BLDC Premium ceiling fan 1200mm,HDW,2025-10,4988,73,0.0146,430406
+FN018,BLDC Premium ceiling fan 1200mm,HDW,2025-11,4698,8,0.0017,47757
+FN018,BLDC Premium ceiling fan 1200mm,HDW,2025-12,4042,21,0.0052,126061
+FN018,BLDC Premium ceiling fan 1200mm,HDW,2026-01,4532,35,0.0077,203456
+FN018,BLDC Premium ceiling fan 1200mm,HDW,2026-02,6984,77,0.0110,463418
+FN018,BLDC Premium ceiling fan 1200mm,HDW,2026-03,7344,89,0.0121,523923
+ST001,Economy voltage stabiliser 2 kVA,BDI,2025-04,14030,96,0.0068,188108
+ST001,Economy voltage stabiliser 2 kVA,BDI,2025-05,15637,205,0.0131,397368
+ST001,Economy voltage stabiliser 2 kVA,BDI,2025-06,13851,100,0.0072,195008
+ST001,Economy voltage stabiliser 2 kVA,BDI,2025-07,10262,82,0.0080,159449
+ST001,Economy voltage stabiliser 2 kVA,BDI,2025-08,10828,61,0.0056,117548
+ST001,Economy voltage stabiliser 2 kVA,BDI,2025-09,9095,70,0.0077,133495
+ST001,Economy voltage stabiliser 2 kVA,BDI,2025-10,10375,106,0.0102,207005
+ST001,Economy voltage stabiliser 2 kVA,BDI,2025-11,10544,137,0.0130,260434
+ST001,Economy voltage stabiliser 2 kVA,BDI,2025-12,8727,100,0.0115,193414
+ST001,Economy voltage stabiliser 2 kVA,BDI,2026-01,8183,58,0.0071,112386
+ST001,Economy voltage stabiliser 2 kVA,BDI,2026-02,8458,66,0.0078,125822
+ST001,Economy voltage stabiliser 2 kVA,BDI,2026-03,10502,74,0.0070,142265
+ST002,Economy voltage stabiliser 3 kVA,BDI,2025-04,14022,74,0.0053,169165
+ST002,Economy voltage stabiliser 3 kVA,BDI,2025-05,13793,61,0.0044,142160
+ST002,Economy voltage stabiliser 3 kVA,BDI,2025-06,12889,92,0.0071,210190
+ST002,Economy voltage stabiliser 3 kVA,BDI,2025-07,9594,99,0.0103,226573
+ST002,Economy voltage stabiliser 3 kVA,BDI,2025-08,8411,91,0.0108,212200
+ST002,Economy voltage stabiliser 3 kVA,BDI,2025-09,9396,28,0.0030,65795
+ST002,Economy voltage stabiliser 3 kVA,BDI,2025-10,9294,159,0.0171,358903
+ST002,Economy voltage stabiliser 3 kVA,BDI,2025-11,8931,129,0.0144,293303
+ST002,Economy voltage stabiliser 3 kVA,BDI,2025-12,7876,30,0.0038,69688
+ST002,Economy voltage stabiliser 3 kVA,BDI,2026-01,9401,20,0.0021,45230
+ST002,Economy voltage stabiliser 3 kVA,BDI,2026-02,10015,131,0.0131,305760
+ST002,Economy voltage stabiliser 3 kVA,BDI,2026-03,12114,135,0.0111,315653
+ST003,Economy voltage stabiliser 4 kVA,BDI,2025-04,13459,93,0.0069,252822
+ST003,Economy voltage stabiliser 4 kVA,BDI,2025-05,15017,82,0.0055,216903
+ST003,Economy voltage stabiliser 4 kVA,BDI,2025-06,12519,127,0.0101,344552
+ST003,Economy voltage stabiliser 4 kVA,BDI,2025-07,10400,59,0.0057,158607
+ST003,Economy voltage stabiliser 4 kVA,BDI,2025-08,10059,53,0.0053,143521
+ST003,Economy voltage stabiliser 4 kVA,BDI,2025-09,10387,62,0.0060,164859
+ST003,Economy voltage stabiliser 4 kVA,BDI,2025-10,9870,134,0.0136,348206
+ST003,Economy voltage stabiliser 4 kVA,BDI,2025-11,9742,106,0.0109,280584
+ST003,Economy voltage stabiliser 4 kVA,BDI,2025-12,8738,88,0.0101,235837
+ST003,Economy voltage stabiliser 4 kVA,BDI,2026-01,8716,151,0.0173,407227
+ST003,Economy voltage stabiliser 4 kVA,BDI,2026-02,10373,110,0.0106,295554
+ST003,Economy voltage stabiliser 4 kVA,BDI,2026-03,11460,66,0.0058,175856
+ST004,Mid voltage stabiliser 3 kVA,BDI,2025-04,13311,123,0.0092,378315
+ST004,Mid voltage stabiliser 3 kVA,BDI,2025-05,17143,38,0.0022,117371
+ST004,Mid voltage stabiliser 3 kVA,BDI,2025-06,11990,114,0.0095,351067
+ST004,Mid voltage stabiliser 3 kVA,BDI,2025-07,12053,47,0.0039,143609
+ST004,Mid voltage stabiliser 3 kVA,BDI,2025-08,10414,97,0.0093,298162
+ST004,Mid voltage stabiliser 3 kVA,BDI,2025-09,10143,75,0.0074,224519
+ST004,Mid voltage stabiliser 3 kVA,BDI,2025-10,9923,134,0.0135,414021
+ST004,Mid voltage stabiliser 3 kVA,BDI,2025-11,8486,118,0.0139,355093
+ST004,Mid voltage stabiliser 3 kVA,BDI,2025-12,9200,65,0.0071,191978
+ST004,Mid voltage stabiliser 3 kVA,BDI,2026-01,7933,39,0.0049,118991
+ST004,Mid voltage stabiliser 3 kVA,BDI,2026-02,9813,114,0.0116,345249
+ST004,Mid voltage stabiliser 3 kVA,BDI,2026-03,13079,35,0.0027,105795
+ST005,Mid voltage stabiliser 4 kVA,BDI,2025-04,15003,155,0.0103,532289
+ST005,Mid voltage stabiliser 4 kVA,BDI,2025-05,16061,170,0.0106,586062
+ST005,Mid voltage stabiliser 4 kVA,BDI,2025-06,12976,118,0.0091,403959
+ST005,Mid voltage stabiliser 4 kVA,BDI,2025-07,11607,177,0.0152,602967
+ST005,Mid voltage stabiliser 4 kVA,BDI,2025-08,10640,150,0.0141,509871
+ST005,Mid voltage stabiliser 4 kVA,BDI,2025-09,9587,64,0.0067,221249
+ST005,Mid voltage stabiliser 4 kVA,BDI,2025-10,10902,164,0.0150,559869
+ST005,Mid voltage stabiliser 4 kVA,BDI,2025-11,9395,134,0.0143,454116
+ST005,Mid voltage stabiliser 4 kVA,BDI,2025-12,9140,56,0.0061,183890
+ST005,Mid voltage stabiliser 4 kVA,BDI,2026-01,10117,9,0.0009,31642
+ST005,Mid voltage stabiliser 4 kVA,BDI,2026-02,10074,90,0.0089,307481
+ST005,Mid voltage stabiliser 4 kVA,BDI,2026-03,12233,127,0.0104,432652
+ST006,Mid voltage stabiliser 5 kVA,BDI,2025-04,14691,91,0.0062,361011
+ST006,Mid voltage stabiliser 5 kVA,BDI,2025-05,15764,117,0.0074,462306
+ST006,Mid voltage stabiliser 5 kVA,BDI,2025-06,12580,34,0.0027,133739
+ST006,Mid voltage stabiliser 5 kVA,BDI,2025-07,12182,77,0.0063,308938
+ST006,Mid voltage stabiliser 5 kVA,BDI,2025-08,10652,81,0.0076,323695
+ST006,Mid voltage stabiliser 5 kVA,BDI,2025-09,10162,116,0.0114,459128
+ST006,Mid voltage stabiliser 5 kVA,BDI,2025-10,9859,93,0.0094,367543
+ST006,Mid voltage stabiliser 5 kVA,BDI,2025-11,9802,62,0.0063,234045
+ST006,Mid voltage stabiliser 5 kVA,BDI,2025-12,10259,86,0.0084,330709
+ST006,Mid voltage stabiliser 5 kVA,BDI,2026-01,10136,77,0.0076,307343
+ST006,Mid voltage stabiliser 5 kVA,BDI,2026-02,10397,168,0.0162,665442
+ST006,Mid voltage stabiliser 5 kVA,BDI,2026-03,13702,114,0.0083,450911
+ST007,Premium voltage stabiliser 4 kVA,BDI,2025-04,9053,89,0.0098,405539
+ST007,Premium voltage stabiliser 4 kVA,BDI,2025-05,10410,92,0.0088,416642
+ST007,Premium voltage stabiliser 4 kVA,BDI,2025-06,8119,75,0.0092,338830
+ST007,Premium voltage stabiliser 4 kVA,BDI,2025-07,7001,10,0.0014,44330
+ST007,Premium voltage stabiliser 4 kVA,BDI,2025-08,5818,74,0.0127,335488
+ST007,Premium voltage stabiliser 4 kVA,BDI,2025-09,6117,1,0.0002,4390
+ST007,Premium voltage stabiliser 4 kVA,BDI,2025-10,7309,32,0.0044,147299
+ST007,Premium voltage stabiliser 4 kVA,BDI,2025-11,5600,28,0.0050,127851
+ST007,Premium voltage stabiliser 4 kVA,BDI,2025-12,6353,33,0.0052,153257
+ST007,Premium voltage stabiliser 4 kVA,BDI,2026-01,6310,49,0.0078,226419
+ST007,Premium voltage stabiliser 4 kVA,BDI,2026-02,6011,25,0.0042,111357
+ST007,Premium voltage stabiliser 4 kVA,BDI,2026-03,8144,70,0.0086,314482
+ST008,Premium voltage stabiliser 5 kVA,BDI,2025-04,10349,96,0.0093,493763
+ST008,Premium voltage stabiliser 5 kVA,BDI,2025-05,8824,28,0.0032,146843
+ST008,Premium voltage stabiliser 5 kVA,BDI,2025-06,8934,8,0.0009,40740
+ST008,Premium voltage stabiliser 5 kVA,BDI,2025-07,6845,35,0.0051,177985
+ST008,Premium voltage stabiliser 5 kVA,BDI,2025-08,6869,61,0.0089,319306
+ST008,Premium voltage stabiliser 5 kVA,BDI,2025-09,7091,66,0.0093,337814
+ST008,Premium voltage stabiliser 5 kVA,BDI,2025-10,7306,132,0.0181,662323
+ST008,Premium voltage stabiliser 5 kVA,BDI,2025-11,5222,37,0.0071,186032
+ST008,Premium voltage stabiliser 5 kVA,BDI,2025-12,5987,65,0.0109,343532
+ST008,Premium voltage stabiliser 5 kVA,BDI,2026-01,5490,43,0.0078,226397
+ST008,Premium voltage stabiliser 5 kVA,BDI,2026-02,7261,46,0.0063,236191
+ST008,Premium voltage stabiliser 5 kVA,BDI,2026-03,7203,101,0.0140,517451
+WH001,Economy storage water heater 10 L,HDW,2025-04,3004,24,0.0080,136195
+WH001,Economy storage water heater 10 L,HDW,2025-05,2006,15,0.0075,85244
+WH001,Economy storage water heater 10 L,HDW,2025-06,2773,8,0.0029,44776
+WH001,Economy storage water heater 10 L,HDW,2025-07,3243,36,0.0111,209219
+WH001,Economy storage water heater 10 L,HDW,2025-08,3918,43,0.0110,246667
+WH001,Economy storage water heater 10 L,HDW,2025-09,4982,61,0.0122,351534
+WH001,Economy storage water heater 10 L,HDW,2025-10,4811,34,0.0071,184648
+WH001,Economy storage water heater 10 L,HDW,2025-11,5950,92,0.0155,520732
+WH001,Economy storage water heater 10 L,HDW,2025-12,6308,17,0.0027,92901
+WH001,Economy storage water heater 10 L,HDW,2026-01,6155,98,0.0159,557169
+WH001,Economy storage water heater 10 L,HDW,2026-02,5980,45,0.0075,263302
+WH001,Economy storage water heater 10 L,HDW,2026-03,3139,43,0.0137,245105
+WH001,Economy storage water heater 10 L,HSR,2025-04,3542,26,0.0073,151330
+WH001,Economy storage water heater 10 L,HSR,2025-05,2107,11,0.0052,64926
+WH001,Economy storage water heater 10 L,HSR,2025-06,2591,,,
+WH001,Economy storage water heater 10 L,HSR,2025-07,3623,15,0.0041,86794
+WH001,Economy storage water heater 10 L,HSR,2025-08,3833,11,0.0029,64654
+WH001,Economy storage water heater 10 L,HSR,2025-09,4970,25,0.0050,147219
+WH001,Economy storage water heater 10 L,HSR,2025-10,9788,63,0.0064,355527
+WH001,Economy storage water heater 10 L,HSR,2025-11,13393,108,0.0081,611171
+WH001,Economy storage water heater 10 L,HSR,2025-12,14441,123,0.0085,706112
+WH001,Economy storage water heater 10 L,HSR,2026-01,14073,66,0.0047,378256
+WH001,Economy storage water heater 10 L,HSR,2026-02,6529,24,0.0037,140480
+WH001,Economy storage water heater 10 L,HSR,2026-03,4800,13,0.0027,74896
+WH002,Economy storage water heater 15 L,HDW,2025-04,2652,56,0.0211,362026
+WH002,Economy storage water heater 15 L,HDW,2025-05,3020,53,0.0175,342888
+WH002,Economy storage water heater 15 L,HDW,2025-06,2676,9,0.0034,59899
+WH002,Economy storage water heater 15 L,HDW,2025-07,3440,35,0.0102,228711
+WH002,Economy storage water heater 15 L,HDW,2025-08,3762,20,0.0053,133035
+WH002,Economy storage water heater 15 L,HDW,2025-09,4721,11,0.0023,69153
+WH002,Economy storage water heater 15 L,HDW,2025-10,5024,66,0.0131,404061
+WH002,Economy storage water heater 15 L,HDW,2025-11,5929,98,0.0165,595343
+WH002,Economy storage water heater 15 L,HDW,2025-12,6703,75,0.0112,457079
+WH002,Economy storage water heater 15 L,HDW,2026-01,5878,39,0.0066,257600
+WH002,Economy storage water heater 15 L,HDW,2026-02,6883,72,0.0105,465507
+WH002,Economy storage water heater 15 L,HDW,2026-03,3609,5,0.0014,32347
+WH002,Economy storage water heater 15 L,HSR,2025-04,2735,20,0.0073,130739
+WH002,Economy storage water heater 15 L,HSR,2025-05,2645,82,0.0310,532301
+WH002,Economy storage water heater 15 L,HSR,2025-06,2918,16,0.0055,100352
+WH002,Economy storage water heater 15 L,HSR,2025-07,3351,80,0.0239,515781
+WH002,Economy storage water heater 15 L,HSR,2025-08,3764,34,0.0090,220213
+WH002,Economy storage water heater 15 L,HSR,2025-09,5880,47,0.0080,302890
+WH002,Economy storage water heater 15 L,HSR,2025-10,8233,76,0.0092,492324
+WH002,Economy storage water heater 15 L,HSR,2025-11,14113,103,0.0073,673372
+WH002,Economy storage water heater 15 L,HSR,2025-12,14900,61,0.0041,399105
+WH002,Economy storage water heater 15 L,HSR,2026-01,14000,55,0.0039,357525
+WH002,Economy storage water heater 15 L,HSR,2026-02,6696,66,0.0099,430143
+WH002,Economy storage water heater 15 L,HSR,2026-03,3635,47,0.0129,302743
+WH003,Economy storage water heater 25 L,HDW,2025-04,2553,8,0.0031,58255
+WH003,Economy storage water heater 25 L,HDW,2025-05,2216,16,0.0072,122010
+WH003,Economy storage water heater 25 L,HDW,2025-06,1961,17,0.0087,123655
+WH003,Economy storage water heater 25 L,HDW,2025-07,2958,39,0.0132,299117
+WH003,Economy storage water heater 25 L,HDW,2025-08,4174,13,0.0031,96917
+WH003,Economy storage water heater 25 L,HDW,2025-09,4663,64,0.0137,472627
+WH003,Economy storage water heater 25 L,HDW,2025-10,5660,10,0.0018,70535
+WH003,Economy storage water heater 25 L,HDW,2025-11,5605,6,0.0011,46729
+WH003,Economy storage water heater 25 L,HDW,2025-12,5579,33,0.0059,219275
+WH003,Economy storage water heater 25 L,HDW,2026-01,5463,43,0.0079,324243
+WH003,Economy storage water heater 25 L,HDW,2026-02,7385,94,0.0127,708070
+WH003,Economy storage water heater 25 L,HDW,2026-03,4469,1,0.0002,7031
+WH003,Economy storage water heater 25 L,HSR,2025-04,3410,11,0.0032,83786
+WH003,Economy storage water heater 25 L,HSR,2025-05,2890,1,0.0003,7298
+WH003,Economy storage water heater 25 L,HSR,2025-06,2749,8,0.0029,58061
+WH003,Economy storage water heater 25 L,HSR,2025-07,2469,37,0.0150,280689
+WH003,Economy storage water heater 25 L,HSR,2025-08,4121,16,0.0039,121338
+WH003,Economy storage water heater 25 L,HSR,2025-09,4377,57,0.0130,425485
+WH003,Economy storage water heater 25 L,HSR,2025-10,10427,103,0.0099,771428
+WH003,Economy storage water heater 25 L,HSR,2025-11,13107,120,0.0092,887963
+WH003,Economy storage water heater 25 L,HSR,2025-12,16171,26,0.0016,196295
+WH003,Economy storage water heater 25 L,HSR,2026-01,12475,110,0.0088,831603
+WH003,Economy storage water heater 25 L,HSR,2026-02,8157,6,0.0007,47191
+WH003,Economy storage water heater 25 L,HSR,2026-03,4597,32,0.0070,245527
+WH004,Mid storage water heater 10 L,HDW,2025-04,1731,21,0.0121,156183
+WH004,Mid storage water heater 10 L,HDW,2025-05,1695,33,0.0195,245872
+WH004,Mid storage water heater 10 L,HDW,2025-06,1716,14,0.0082,102526
+WH004,Mid storage water heater 10 L,HDW,2025-07,2454,1,0.0004,7434
+WH004,Mid storage water heater 10 L,HDW,2025-08,2782,18,0.0065,131014
+WH004,Mid storage water heater 10 L,HDW,2025-09,3610,,,
+WH004,Mid storage water heater 10 L,HDW,2025-10,4138,21,0.0051,149847
+WH004,Mid storage water heater 10 L,HDW,2025-11,4590,5,0.0011,37130
+WH004,Mid storage water heater 10 L,HDW,2025-12,4566,25,0.0055,184038
+WH004,Mid storage water heater 10 L,HDW,2026-01,3463,18,0.0052,132602
+WH004,Mid storage water heater 10 L,HDW,2026-02,5336,52,0.0097,382044
+WH004,Mid storage water heater 10 L,HDW,2026-03,3556,2,0.0006,14852
+WH004,Mid storage water heater 10 L,HSR,2025-04,2184,,,
+WH004,Mid storage water heater 10 L,HSR,2025-05,1651,14,0.0085,104075
+WH004,Mid storage water heater 10 L,HSR,2025-06,1819,,,
+WH004,Mid storage water heater 10 L,HSR,2025-07,2682,9,0.0034,66336
+WH004,Mid storage water heater 10 L,HSR,2025-08,2062,27,0.0131,195549
+WH004,Mid storage water heater 10 L,HSR,2025-09,4400,76,0.0173,541908
+WH004,Mid storage water heater 10 L,HSR,2025-10,6752,43,0.0064,313614
+WH004,Mid storage water heater 10 L,HSR,2025-11,9910,114,0.0115,833592
+WH004,Mid storage water heater 10 L,HSR,2025-12,10924,120,0.0110,879080
+WH004,Mid storage water heater 10 L,HSR,2026-01,10856,100,0.0092,732836
+WH004,Mid storage water heater 10 L,HSR,2026-02,5570,43,0.0077,309870
+WH004,Mid storage water heater 10 L,HSR,2026-03,3634,42,0.0116,315850
+WH005,Mid storage water heater 15 L,HDW,2025-04,2376,1,0.0004,8298
+WH005,Mid storage water heater 15 L,HDW,2025-05,1553,7,0.0045,58520
+WH005,Mid storage water heater 15 L,HDW,2025-06,1654,35,0.0212,286132
+WH005,Mid storage water heater 15 L,HDW,2025-07,2294,,,
+WH005,Mid storage water heater 15 L,HDW,2025-08,2988,,,
+WH005,Mid storage water heater 15 L,HDW,2025-09,4222,50,0.0118,408839
+WH005,Mid storage water heater 15 L,HDW,2025-10,3047,54,0.0177,403735
+WH005,Mid storage water heater 15 L,HDW,2025-11,4497,55,0.0122,414630
+WH005,Mid storage water heater 15 L,HDW,2025-12,5004,38,0.0076,305633
+WH005,Mid storage water heater 15 L,HDW,2026-01,4329,36,0.0083,292556
+WH005,Mid storage water heater 15 L,HDW,2026-02,5291,38,0.0072,309038
+WH005,Mid storage water heater 15 L,HDW,2026-03,3164,52,0.0164,421802
+WH005,Mid storage water heater 15 L,HSR,2025-04,2577,,,
+WH005,Mid storage water heater 15 L,HSR,2025-05,2178,23,0.0106,183137
+WH005,Mid storage water heater 15 L,HSR,2025-06,1648,30,0.0182,241349
+WH005,Mid storage water heater 15 L,HSR,2025-07,2649,14,0.0053,113238
+WH005,Mid storage water heater 15 L,HSR,2025-08,2422,28,0.0116,227418
+WH005,Mid storage water heater 15 L,HSR,2025-09,4179,5,0.0012,40568
+WH005,Mid storage water heater 15 L,HSR,2025-10,8575,61,0.0071,490406
+WH005,Mid storage water heater 15 L,HSR,2025-11,12191,67,0.0055,534758
+WH005,Mid storage water heater 15 L,HSR,2025-12,11554,74,0.0064,598039
+WH005,Mid storage water heater 15 L,HSR,2026-01,10278,30,0.0029,244411
+WH005,Mid storage water heater 15 L,HSR,2026-02,6194,79,0.0128,644398
+WH005,Mid storage water heater 15 L,HSR,2026-03,3616,18,0.0050,148738
+WH006,Mid storage water heater 25 L,HDW,2025-04,2351,16,0.0068,150062
+WH006,Mid storage water heater 25 L,HDW,2025-05,1635,15,0.0092,136323
+WH006,Mid storage water heater 25 L,HDW,2025-06,1865,21,0.0113,193392
+WH006,Mid storage water heater 25 L,HDW,2025-07,2049,25,0.0122,237517
+WH006,Mid storage water heater 25 L,HDW,2025-08,3375,23,0.0068,217525
+WH006,Mid storage water heater 25 L,HDW,2025-09,4285,21,0.0049,205204
+WH006,Mid storage water heater 25 L,HDW,2025-10,2702,24,0.0089,219198
+WH006,Mid storage water heater 25 L,HDW,2025-11,5013,35,0.0070,322330
+WH006,Mid storage water heater 25 L,HDW,2025-12,5083,83,0.0163,762623
+WH006,Mid storage water heater 25 L,HDW,2026-01,4529,,,
+WH006,Mid storage water heater 25 L,HDW,2026-02,4673,87,0.0186,802291
+WH006,Mid storage water heater 25 L,HDW,2026-03,3509,22,0.0063,205561
+WH006,Mid storage water heater 25 L,HSR,2025-04,2117,1,0.0005,8945
+WH006,Mid storage water heater 25 L,HSR,2025-05,1684,6,0.0036,57773
+WH006,Mid storage water heater 25 L,HSR,2025-06,2265,25,0.0110,237446
+WH006,Mid storage water heater 25 L,HSR,2025-07,2954,38,0.0129,364313
+WH006,Mid storage water heater 25 L,HSR,2025-08,2249,,,
+WH006,Mid storage water heater 25 L,HSR,2025-09,3502,7,0.0020,66759
+WH006,Mid storage water heater 25 L,HSR,2025-10,7601,69,0.0091,645160
+WH006,Mid storage water heater 25 L,HSR,2025-11,10040,35,0.0035,333846
+WH006,Mid storage water heater 25 L,HSR,2025-12,11345,85,0.0075,794539
+WH006,Mid storage water heater 25 L,HSR,2026-01,11296,781,0.0691,7374447
+WH006,Mid storage water heater 25 L,HSR,2026-02,4850,256,0.0528,2427039
+WH006,Mid storage water heater 25 L,HSR,2026-03,3244,5,0.0015,48348
+WH007,Mid storage water heater 35 L,HDW,2025-04,2541,11,0.0043,122186
+WH007,Mid storage water heater 35 L,HDW,2025-05,1209,4,0.0033,46222
+WH007,Mid storage water heater 35 L,HDW,2025-06,1516,,,
+WH007,Mid storage water heater 35 L,HDW,2025-07,2240,,,
+WH007,Mid storage water heater 35 L,HDW,2025-08,2567,36,0.0140,407564
+WH007,Mid storage water heater 35 L,HDW,2025-09,3518,10,0.0028,114829
+WH007,Mid storage water heater 35 L,HDW,2025-10,3306,9,0.0027,102693
+WH007,Mid storage water heater 35 L,HDW,2025-11,5084,18,0.0035,196081
+WH007,Mid storage water heater 35 L,HDW,2025-12,5365,65,0.0121,724100
+WH007,Mid storage water heater 35 L,HDW,2026-01,4617,31,0.0067,355474
+WH007,Mid storage water heater 35 L,HDW,2026-02,4970,27,0.0054,296619
+WH007,Mid storage water heater 35 L,HDW,2026-03,4040,1,0.0002,10951
+WH007,Mid storage water heater 35 L,HSR,2025-04,1759,5,0.0028,54995
+WH007,Mid storage water heater 35 L,HSR,2025-05,1305,1,0.0008,11410
+WH007,Mid storage water heater 35 L,HSR,2025-06,2267,33,0.0146,365335
+WH007,Mid storage water heater 35 L,HSR,2025-07,2765,12,0.0043,132858
+WH007,Mid storage water heater 35 L,HSR,2025-08,2321,11,0.0047,122343
+WH007,Mid storage water heater 35 L,HSR,2025-09,3559,43,0.0121,494067
+WH007,Mid storage water heater 35 L,HSR,2025-10,7171,66,0.0092,742783
+WH007,Mid storage water heater 35 L,HSR,2025-11,9688,121,0.0125,1367058
+WH007,Mid storage water heater 35 L,HSR,2025-12,11684,143,0.0122,1597878
+WH007,Mid storage water heater 35 L,HSR,2026-01,10312,56,0.0054,629866
+WH007,Mid storage water heater 35 L,HSR,2026-02,6009,48,0.0080,548759
+WH007,Mid storage water heater 35 L,HSR,2026-03,3318,9,0.0027,102439
+WH008,Premium storage water heater 15 L,HDW,2025-04,1399,,,
+WH008,Premium storage water heater 15 L,HDW,2025-05,1243,,,
+WH008,Premium storage water heater 15 L,HDW,2025-06,883,,,
+WH008,Premium storage water heater 15 L,HDW,2025-07,1626,,,
+WH008,Premium storage water heater 15 L,HDW,2025-08,1720,36,0.0209,400103
+WH008,Premium storage water heater 15 L,HDW,2025-09,2182,8,0.0037,89869
+WH008,Premium storage water heater 15 L,HDW,2025-10,1770,,,
+WH008,Premium storage water heater 15 L,HDW,2025-11,1949,2,0.0010,21358
+WH008,Premium storage water heater 15 L,HDW,2025-12,2800,5,0.0018,56121
+WH008,Premium storage water heater 15 L,HDW,2026-01,1792,,,
+WH008,Premium storage water heater 15 L,HDW,2026-02,3083,23,0.0075,253617
+WH008,Premium storage water heater 15 L,HDW,2026-03,1060,3,0.0028,31376
+WH008,Premium storage water heater 15 L,HSR,2025-04,1601,,,
+WH008,Premium storage water heater 15 L,HSR,2025-05,1294,24,0.0185,271022
+WH008,Premium storage water heater 15 L,HSR,2025-06,1224,2,0.0016,21924
+WH008,Premium storage water heater 15 L,HSR,2025-07,1009,,,
+WH008,Premium storage water heater 15 L,HSR,2025-08,2011,1,0.0005,11033
+WH008,Premium storage water heater 15 L,HSR,2025-09,1547,15,0.0097,158132
+WH008,Premium storage water heater 15 L,HSR,2025-10,3926,8,0.0020,88830
+WH008,Premium storage water heater 15 L,HSR,2025-11,5048,50,0.0099,542422
+WH008,Premium storage water heater 15 L,HSR,2025-12,7283,35,0.0048,374591
+WH008,Premium storage water heater 15 L,HSR,2026-01,6211,59,0.0095,650853
+WH008,Premium storage water heater 15 L,HSR,2026-02,3195,57,0.0178,623040
+WH008,Premium storage water heater 15 L,HSR,2026-03,2446,7,0.0029,77974
+WH009,Premium storage water heater 25 L,HDW,2025-04,984,,,
+WH009,Premium storage water heater 25 L,HDW,2025-05,1095,16,0.0146,206638
+WH009,Premium storage water heater 25 L,HDW,2025-06,1017,,,
+WH009,Premium storage water heater 25 L,HDW,2025-07,1102,,,
+WH009,Premium storage water heater 25 L,HDW,2025-08,1914,2,0.0010,25690
+WH009,Premium storage water heater 25 L,HDW,2025-09,2772,,,
+WH009,Premium storage water heater 25 L,HDW,2025-10,1602,,,
+WH009,Premium storage water heater 25 L,HDW,2025-11,2696,,,
+WH009,Premium storage water heater 25 L,HDW,2025-12,3458,6,0.0017,69578
+WH009,Premium storage water heater 25 L,HDW,2026-01,2433,18,0.0074,221544
+WH009,Premium storage water heater 25 L,HDW,2026-02,3144,3,0.0010,38556
+WH009,Premium storage water heater 25 L,HDW,2026-03,1880,25,0.0133,315194
+WH009,Premium storage water heater 25 L,HSR,2025-04,1511,1,0.0007,12634
+WH009,Premium storage water heater 25 L,HSR,2025-05,545,,,
+WH009,Premium storage water heater 25 L,HSR,2025-06,1099,,,
+WH009,Premium storage water heater 25 L,HSR,2025-07,1407,8,0.0057,100314
+WH009,Premium storage water heater 25 L,HSR,2025-08,1680,24,0.0143,304858
+WH009,Premium storage water heater 25 L,HSR,2025-09,1828,,,
+WH009,Premium storage water heater 25 L,HSR,2025-10,4720,32,0.0068,400275
+WH009,Premium storage water heater 25 L,HSR,2025-11,6276,41,0.0065,517847
+WH009,Premium storage water heater 25 L,HSR,2025-12,6563,33,0.0050,412420
+WH009,Premium storage water heater 25 L,HSR,2026-01,6315,65,0.0103,807949
+WH009,Premium storage water heater 25 L,HSR,2026-02,2810,13,0.0046,164138
+WH009,Premium storage water heater 25 L,HSR,2026-03,2835,1,0.0004,12730
+WH010,Premium storage water heater 35 L,HDW,2025-04,1465,,,
+WH010,Premium storage water heater 35 L,HDW,2025-05,1596,,,
+WH010,Premium storage water heater 35 L,HDW,2025-06,1023,,,
+WH010,Premium storage water heater 35 L,HDW,2025-07,1482,1,0.0007,13367
+WH010,Premium storage water heater 35 L,HDW,2025-08,1481,,,
+WH010,Premium storage water heater 35 L,HDW,2025-09,2048,4,0.0020,58212
+WH010,Premium storage water heater 35 L,HDW,2025-10,1232,,,
+WH010,Premium storage water heater 35 L,HDW,2025-11,3028,1,0.0003,13937
+WH010,Premium storage water heater 35 L,HDW,2025-12,3133,4,0.0013,58643
+WH010,Premium storage water heater 35 L,HDW,2026-01,2361,38,0.0161,541017
+WH010,Premium storage water heater 35 L,HDW,2026-02,3440,14,0.0041,204497
+WH010,Premium storage water heater 35 L,HDW,2026-03,1705,46,0.0270,651482
+WH010,Premium storage water heater 35 L,HSR,2025-04,1450,,,
+WH010,Premium storage water heater 35 L,HSR,2025-05,924,,,
+WH010,Premium storage water heater 35 L,HSR,2025-06,1643,,,
+WH010,Premium storage water heater 35 L,HSR,2025-07,1039,,,
+WH010,Premium storage water heater 35 L,HSR,2025-08,1546,,,
+WH010,Premium storage water heater 35 L,HSR,2025-09,1737,66,0.0380,917748
+WH010,Premium storage water heater 35 L,HSR,2025-10,4478,27,0.0060,386401
+WH010,Premium storage water heater 35 L,HSR,2025-11,5551,91,0.0164,1315453
+WH010,Premium storage water heater 35 L,HSR,2025-12,6447,63,0.0098,905212
+WH010,Premium storage water heater 35 L,HSR,2026-01,5980,86,0.0144,1228443
+WH010,Premium storage water heater 35 L,HSR,2026-02,3138,66,0.0210,929205
+WH010,Premium storage water heater 35 L,HSR,2026-03,1776,4,0.0023,59382
+WR001,"Standard PVC wire 1.0 sq mm, 90 m",HSR,2025-04,18520,80,0.0043,76775
+WR001,"Standard PVC wire 1.0 sq mm, 90 m",HSR,2025-05,18135,136,0.0075,131205
+WR001,"Standard PVC wire 1.0 sq mm, 90 m",HSR,2025-06,16887,155,0.0092,148671
+WR001,"Standard PVC wire 1.0 sq mm, 90 m",HSR,2025-07,16870,115,0.0068,108777
+WR001,"Standard PVC wire 1.0 sq mm, 90 m",HSR,2025-08,18228,190,0.0104,183486
+WR001,"Standard PVC wire 1.0 sq mm, 90 m",HSR,2025-09,21173,158,0.0075,151026
+WR001,"Standard PVC wire 1.0 sq mm, 90 m",HSR,2025-10,20543,184,0.0090,194034
+WR001,"Standard PVC wire 1.0 sq mm, 90 m",HSR,2025-11,22053,101,0.0046,101916
+WR001,"Standard PVC wire 1.0 sq mm, 90 m",HSR,2025-12,20531,139,0.0068,146986
+WR001,"Standard PVC wire 1.0 sq mm, 90 m",HSR,2026-01,20713,166,0.0080,179458
+WR001,"Standard PVC wire 1.0 sq mm, 90 m",HSR,2026-02,20556,138,0.0067,146893
+WR001,"Standard PVC wire 1.0 sq mm, 90 m",HSR,2026-03,23965,247,0.0103,269199
+WR002,"Standard PVC wire 1.5 sq mm, 90 m",HSR,2025-04,15942,52,0.0033,72806
+WR002,"Standard PVC wire 1.5 sq mm, 90 m",HSR,2025-05,18027,78,0.0043,107254
+WR002,"Standard PVC wire 1.5 sq mm, 90 m",HSR,2025-06,17834,153,0.0086,215151
+WR002,"Standard PVC wire 1.5 sq mm, 90 m",HSR,2025-07,16500,130,0.0079,182421
+WR002,"Standard PVC wire 1.5 sq mm, 90 m",HSR,2025-08,17224,141,0.0082,198450
+WR002,"Standard PVC wire 1.5 sq mm, 90 m",HSR,2025-09,19262,187,0.0097,263355
+WR002,"Standard PVC wire 1.5 sq mm, 90 m",HSR,2025-10,21121,142,0.0067,222678
+WR002,"Standard PVC wire 1.5 sq mm, 90 m",HSR,2025-11,21134,270,0.0128,426066
+WR002,"Standard PVC wire 1.5 sq mm, 90 m",HSR,2025-12,20734,289,0.0139,446524
+WR002,"Standard PVC wire 1.5 sq mm, 90 m",HSR,2026-01,21853,244,0.0112,385397
+WR002,"Standard PVC wire 1.5 sq mm, 90 m",HSR,2026-02,22269,275,0.0123,433323
+WR002,"Standard PVC wire 1.5 sq mm, 90 m",HSR,2026-03,24412,224,0.0092,351154
+WR003,"Standard PVC wire 2.5 sq mm, 90 m",HSR,2025-04,18764,157,0.0084,363890
+WR003,"Standard PVC wire 2.5 sq mm, 90 m",HSR,2025-05,17423,138,0.0079,316925
+WR003,"Standard PVC wire 2.5 sq mm, 90 m",HSR,2025-06,17464,155,0.0089,354798
+WR003,"Standard PVC wire 2.5 sq mm, 90 m",HSR,2025-07,16021,25,0.0016,59338
+WR003,"Standard PVC wire 2.5 sq mm, 90 m",HSR,2025-08,17237,101,0.0059,233080
+WR003,"Standard PVC wire 2.5 sq mm, 90 m",HSR,2025-09,19159,151,0.0079,348168
+WR003,"Standard PVC wire 2.5 sq mm, 90 m",HSR,2025-10,21212,168,0.0079,421655
+WR003,"Standard PVC wire 2.5 sq mm, 90 m",HSR,2025-11,22973,170,0.0074,430668
+WR003,"Standard PVC wire 2.5 sq mm, 90 m",HSR,2025-12,18880,153,0.0081,392221
+WR003,"Standard PVC wire 2.5 sq mm, 90 m",HSR,2026-01,20795,90,0.0043,232187
+WR003,"Standard PVC wire 2.5 sq mm, 90 m",HSR,2026-02,22595,198,0.0088,508458
+WR003,"Standard PVC wire 2.5 sq mm, 90 m",HSR,2026-03,26408,171,0.0065,438659
+WR004,"Standard PVC wire 4.0 sq mm, 90 m",HSR,2025-04,16746,71,0.0042,254763
+WR004,"Standard PVC wire 4.0 sq mm, 90 m",HSR,2025-05,14967,111,0.0074,407167
+WR004,"Standard PVC wire 4.0 sq mm, 90 m",HSR,2025-06,15423,57,0.0037,211999
+WR004,"Standard PVC wire 4.0 sq mm, 90 m",HSR,2025-07,14992,127,0.0085,470139
+WR004,"Standard PVC wire 4.0 sq mm, 90 m",HSR,2025-08,16769,236,0.0141,873861
+WR004,"Standard PVC wire 4.0 sq mm, 90 m",HSR,2025-09,20536,112,0.0055,413099
+WR004,"Standard PVC wire 4.0 sq mm, 90 m",HSR,2025-10,20972,260,0.0124,1049509
+WR004,"Standard PVC wire 4.0 sq mm, 90 m",HSR,2025-11,21749,188,0.0086,774394
+WR004,"Standard PVC wire 4.0 sq mm, 90 m",HSR,2025-12,21214,110,0.0052,444191
+WR004,"Standard PVC wire 4.0 sq mm, 90 m",HSR,2026-01,19576,228,0.0116,937240
+WR004,"Standard PVC wire 4.0 sq mm, 90 m",HSR,2026-02,21397,149,0.0070,617857
+WR004,"Standard PVC wire 4.0 sq mm, 90 m",HSR,2026-03,24990,204,0.0082,833033
+WR005,"Standard PVC wire 6.0 sq mm, 90 m",HSR,2025-04,18143,63,0.0035,345114
+WR005,"Standard PVC wire 6.0 sq mm, 90 m",HSR,2025-05,17458,66,0.0038,362170
+WR005,"Standard PVC wire 6.0 sq mm, 90 m",HSR,2025-06,17406,126,0.0072,685678
+WR005,"Standard PVC wire 6.0 sq mm, 90 m",HSR,2025-07,17997,125,0.0069,695308
+WR005,"Standard PVC wire 6.0 sq mm, 90 m",HSR,2025-08,16586,119,0.0072,655142
+WR005,"Standard PVC wire 6.0 sq mm, 90 m",HSR,2025-09,17406,80,0.0046,445075
+WR005,"Standard PVC wire 6.0 sq mm, 90 m",HSR,2025-10,21885,97,0.0044,607766
+WR005,"Standard PVC wire 6.0 sq mm, 90 m",HSR,2025-11,20758,130,0.0063,783566
+WR005,"Standard PVC wire 6.0 sq mm, 90 m",HSR,2025-12,21250,159,0.0075,960751
+WR005,"Standard PVC wire 6.0 sq mm, 90 m",HSR,2026-01,21303,153,0.0072,940052
+WR005,"Standard PVC wire 6.0 sq mm, 90 m",HSR,2026-02,22823,198,0.0087,1229783
+WR005,"Standard PVC wire 6.0 sq mm, 90 m",HSR,2026-03,24189,190,0.0079,1182973
+WR006,"Standard PVC wire 10.0 sq mm, 90 m",HSR,2025-04,16663,59,0.0035,543630
+WR006,"Standard PVC wire 10.0 sq mm, 90 m",HSR,2025-05,18908,111,0.0059,1003207
+WR006,"Standard PVC wire 10.0 sq mm, 90 m",HSR,2025-06,16627,289,0.0174,2645130
+WR006,"Standard PVC wire 10.0 sq mm, 90 m",HSR,2025-07,16405,70,0.0043,642458
+WR006,"Standard PVC wire 10.0 sq mm, 90 m",HSR,2025-08,17296,108,0.0062,997314
+WR006,"Standard PVC wire 10.0 sq mm, 90 m",HSR,2025-09,18767,147,0.0078,1327387
+WR006,"Standard PVC wire 10.0 sq mm, 90 m",HSR,2025-10,20040,97,0.0048,972599
+WR006,"Standard PVC wire 10.0 sq mm, 90 m",HSR,2025-11,19350,290,0.0150,2954947
+WR006,"Standard PVC wire 10.0 sq mm, 90 m",HSR,2025-12,20102,81,0.0040,790373
+WR006,"Standard PVC wire 10.0 sq mm, 90 m",HSR,2026-01,22485,148,0.0066,1507065
+WR006,"Standard PVC wire 10.0 sq mm, 90 m",HSR,2026-02,24265,164,0.0068,1670650
+WR006,"Standard PVC wire 10.0 sq mm, 90 m",HSR,2026-03,24787,108,0.0044,1114591
+WR007,"FR PVC wire 1.0 sq mm, 90 m",HSR,2025-04,5510,48,0.0087,48785
+WR007,"FR PVC wire 1.0 sq mm, 90 m",HSR,2025-05,6484,106,0.0163,108057
+WR007,"FR PVC wire 1.0 sq mm, 90 m",HSR,2025-06,5853,12,0.0021,12276
+WR007,"FR PVC wire 1.0 sq mm, 90 m",HSR,2025-07,5484,48,0.0088,48389
+WR007,"FR PVC wire 1.0 sq mm, 90 m",HSR,2025-08,7376,130,0.0176,132248
+WR007,"FR PVC wire 1.0 sq mm, 90 m",HSR,2025-09,6262,51,0.0081,52412
+WR007,"FR PVC wire 1.0 sq mm, 90 m",HSR,2025-10,7246,,,
+WR007,"FR PVC wire 1.0 sq mm, 90 m",HSR,2025-11,7458,5,0.0007,5043
+WR007,"FR PVC wire 1.0 sq mm, 90 m",HSR,2025-12,8833,103,0.0117,111251
+WR007,"FR PVC wire 1.0 sq mm, 90 m",HSR,2026-01,7310,81,0.0111,92383
+WR007,"FR PVC wire 1.0 sq mm, 90 m",HSR,2026-02,7618,54,0.0071,61699
+WR007,"FR PVC wire 1.0 sq mm, 90 m",HSR,2026-03,8402,82,0.0098,95064
+WR008,"FR PVC wire 1.5 sq mm, 90 m",HSR,2025-04,5852,60,0.0103,88790
+WR008,"FR PVC wire 1.5 sq mm, 90 m",HSR,2025-05,7073,40,0.0057,59266
+WR008,"FR PVC wire 1.5 sq mm, 90 m",HSR,2025-06,5869,29,0.0049,44296
+WR008,"FR PVC wire 1.5 sq mm, 90 m",HSR,2025-07,5836,42,0.0072,63273
+WR008,"FR PVC wire 1.5 sq mm, 90 m",HSR,2025-08,5876,91,0.0155,137776
+WR008,"FR PVC wire 1.5 sq mm, 90 m",HSR,2025-09,6882,,,
+WR008,"FR PVC wire 1.5 sq mm, 90 m",HSR,2025-10,8301,38,0.0046,62491
+WR008,"FR PVC wire 1.5 sq mm, 90 m",HSR,2025-11,8062,42,0.0052,69208
+WR008,"FR PVC wire 1.5 sq mm, 90 m",HSR,2025-12,9125,66,0.0072,108272
+WR008,"FR PVC wire 1.5 sq mm, 90 m",HSR,2026-01,7456,60,0.0080,100980
+WR008,"FR PVC wire 1.5 sq mm, 90 m",HSR,2026-02,8133,14,0.0017,22655
+WR008,"FR PVC wire 1.5 sq mm, 90 m",HSR,2026-03,8601,30,0.0035,49921
+WR009,"FR PVC wire 2.5 sq mm, 90 m",HSR,2025-04,7025,59,0.0084,146807
+WR009,"FR PVC wire 2.5 sq mm, 90 m",HSR,2025-05,6326,30,0.0047,71905
+WR009,"FR PVC wire 2.5 sq mm, 90 m",HSR,2025-06,5395,96,0.0178,239833
+WR009,"FR PVC wire 2.5 sq mm, 90 m",HSR,2025-07,6263,,,
+WR009,"FR PVC wire 2.5 sq mm, 90 m",HSR,2025-08,6820,103,0.0151,252399
+WR009,"FR PVC wire 2.5 sq mm, 90 m",HSR,2025-09,6331,50,0.0079,125464
+WR009,"FR PVC wire 2.5 sq mm, 90 m",HSR,2025-10,7360,15,0.0020,41013
+WR009,"FR PVC wire 2.5 sq mm, 90 m",HSR,2025-11,7683,134,0.0174,368568
+WR009,"FR PVC wire 2.5 sq mm, 90 m",HSR,2025-12,9289,44,0.0047,120600
+WR009,"FR PVC wire 2.5 sq mm, 90 m",HSR,2026-01,8440,97,0.0115,268078
+WR009,"FR PVC wire 2.5 sq mm, 90 m",HSR,2026-02,6813,57,0.0084,157544
+WR009,"FR PVC wire 2.5 sq mm, 90 m",HSR,2026-03,9768,32,0.0033,87009
+WR010,"FR PVC wire 4.0 sq mm, 90 m",HSR,2025-04,6820,56,0.0082,219874
+WR010,"FR PVC wire 4.0 sq mm, 90 m",HSR,2025-05,5784,55,0.0095,213511
+WR010,"FR PVC wire 4.0 sq mm, 90 m",HSR,2025-06,7160,38,0.0053,145807
+WR010,"FR PVC wire 4.0 sq mm, 90 m",HSR,2025-07,5824,76,0.0130,299779
+WR010,"FR PVC wire 4.0 sq mm, 90 m",HSR,2025-08,5280,52,0.0098,201062
+WR010,"FR PVC wire 4.0 sq mm, 90 m",HSR,2025-09,6451,132,0.0205,518423
+WR010,"FR PVC wire 4.0 sq mm, 90 m",HSR,2025-10,6999,68,0.0097,292575
+WR010,"FR PVC wire 4.0 sq mm, 90 m",HSR,2025-11,7600,16,0.0021,66439
+WR010,"FR PVC wire 4.0 sq mm, 90 m",HSR,2025-12,7965,30,0.0038,133193
+WR010,"FR PVC wire 4.0 sq mm, 90 m",HSR,2026-01,7659,48,0.0063,208379
+WR010,"FR PVC wire 4.0 sq mm, 90 m",HSR,2026-02,8907,38,0.0043,168965
+WR010,"FR PVC wire 4.0 sq mm, 90 m",HSR,2026-03,9504,28,0.0029,119436
+WR011,"FR PVC wire 6.0 sq mm, 90 m",HSR,2025-04,5816,109,0.0187,648496
+WR011,"FR PVC wire 6.0 sq mm, 90 m",HSR,2025-05,7058,134,0.0190,786756
+WR011,"FR PVC wire 6.0 sq mm, 90 m",HSR,2025-06,6539,29,0.0044,168410
+WR011,"FR PVC wire 6.0 sq mm, 90 m",HSR,2025-07,6535,95,0.0145,557173
+WR011,"FR PVC wire 6.0 sq mm, 90 m",HSR,2025-08,6384,27,0.0042,153743
+WR011,"FR PVC wire 6.0 sq mm, 90 m",HSR,2025-09,7598,46,0.0061,271937
+WR011,"FR PVC wire 6.0 sq mm, 90 m",HSR,2025-10,6809,9,0.0013,59599
+WR011,"FR PVC wire 6.0 sq mm, 90 m",HSR,2025-11,8560,17,0.0020,112057
+WR011,"FR PVC wire 6.0 sq mm, 90 m",HSR,2025-12,7835,92,0.0117,601991
+WR011,"FR PVC wire 6.0 sq mm, 90 m",HSR,2026-01,9148,127,0.0139,834656
+WR011,"FR PVC wire 6.0 sq mm, 90 m",HSR,2026-02,8537,79,0.0093,512664
+WR011,"FR PVC wire 6.0 sq mm, 90 m",HSR,2026-03,7462,59,0.0079,381910
+WR012,"FR PVC wire 10.0 sq mm, 90 m",HSR,2025-04,6327,13,0.0021,127560
+WR012,"FR PVC wire 10.0 sq mm, 90 m",HSR,2025-05,6707,59,0.0088,578375
+WR012,"FR PVC wire 10.0 sq mm, 90 m",HSR,2025-06,6139,84,0.0137,816591
+WR012,"FR PVC wire 10.0 sq mm, 90 m",HSR,2025-07,6367,,,
+WR012,"FR PVC wire 10.0 sq mm, 90 m",HSR,2025-08,6350,47,0.0074,449173
+WR012,"FR PVC wire 10.0 sq mm, 90 m",HSR,2025-09,6636,10,0.0015,95918
+WR012,"FR PVC wire 10.0 sq mm, 90 m",HSR,2025-10,7521,87,0.0116,944187
+WR012,"FR PVC wire 10.0 sq mm, 90 m",HSR,2025-11,8972,75,0.0084,801460
+WR012,"FR PVC wire 10.0 sq mm, 90 m",HSR,2025-12,8321,51,0.0061,548484
+WR012,"FR PVC wire 10.0 sq mm, 90 m",HSR,2026-01,7440,28,0.0038,304181
+WR012,"FR PVC wire 10.0 sq mm, 90 m",HSR,2026-02,8346,39,0.0047,424897
+WR012,"FR PVC wire 10.0 sq mm, 90 m",HSR,2026-03,7808,107,0.0137,1147904
+WR013,"FR-LSH PVC wire 1.0 sq mm, 90 m",HSR,2025-04,7355,85,0.0116,90461
+WR013,"FR-LSH PVC wire 1.0 sq mm, 90 m",HSR,2025-05,6125,44,0.0072,46696
+WR013,"FR-LSH PVC wire 1.0 sq mm, 90 m",HSR,2025-06,5966,82,0.0137,87673
+WR013,"FR-LSH PVC wire 1.0 sq mm, 90 m",HSR,2025-07,7471,9,0.0012,9688
+WR013,"FR-LSH PVC wire 1.0 sq mm, 90 m",HSR,2025-08,6204,46,0.0074,50269
+WR013,"FR-LSH PVC wire 1.0 sq mm, 90 m",HSR,2025-09,6859,63,0.0092,67662
+WR013,"FR-LSH PVC wire 1.0 sq mm, 90 m",HSR,2025-10,7567,70,0.0093,83981
+WR013,"FR-LSH PVC wire 1.0 sq mm, 90 m",HSR,2025-11,7239,112,0.0155,130077
+WR013,"FR-LSH PVC wire 1.0 sq mm, 90 m",HSR,2025-12,8443,51,0.0060,61250
+WR013,"FR-LSH PVC wire 1.0 sq mm, 90 m",HSR,2026-01,8085,70,0.0087,81912
+WR013,"FR-LSH PVC wire 1.0 sq mm, 90 m",HSR,2026-02,7982,118,0.0148,142695
+WR013,"FR-LSH PVC wire 1.0 sq mm, 90 m",HSR,2026-03,9508,47,0.0049,57222
+WR014,"FR-LSH PVC wire 1.5 sq mm, 90 m",HSR,2025-04,6372,88,0.0138,137188
+WR014,"FR-LSH PVC wire 1.5 sq mm, 90 m",HSR,2025-05,5981,74,0.0124,116227
+WR014,"FR-LSH PVC wire 1.5 sq mm, 90 m",HSR,2025-06,6934,26,0.0037,41681
+WR014,"FR-LSH PVC wire 1.5 sq mm, 90 m",HSR,2025-07,5980,79,0.0132,126193
+WR014,"FR-LSH PVC wire 1.5 sq mm, 90 m",HSR,2025-08,6191,32,0.0052,50423
+WR014,"FR-LSH PVC wire 1.5 sq mm, 90 m",HSR,2025-09,6728,17,0.0025,27437
+WR014,"FR-LSH PVC wire 1.5 sq mm, 90 m",HSR,2025-10,7930,41,0.0052,69289
+WR014,"FR-LSH PVC wire 1.5 sq mm, 90 m",HSR,2025-11,7683,112,0.0146,195804
+WR014,"FR-LSH PVC wire 1.5 sq mm, 90 m",HSR,2025-12,6758,19,0.0028,33571
+WR014,"FR-LSH PVC wire 1.5 sq mm, 90 m",HSR,2026-01,7431,10,0.0013,17453
+WR014,"FR-LSH PVC wire 1.5 sq mm, 90 m",HSR,2026-02,8831,40,0.0045,71190
+WR014,"FR-LSH PVC wire 1.5 sq mm, 90 m",HSR,2026-03,9337,89,0.0095,156534
+WR015,"FR-LSH PVC wire 2.5 sq mm, 90 m",HSR,2025-04,6510,58,0.0089,147885
+WR015,"FR-LSH PVC wire 2.5 sq mm, 90 m",HSR,2025-05,6796,84,0.0124,218086
+WR015,"FR-LSH PVC wire 2.5 sq mm, 90 m",HSR,2025-06,5938,34,0.0057,89975
+WR015,"FR-LSH PVC wire 2.5 sq mm, 90 m",HSR,2025-07,6460,37,0.0057,95298
+WR015,"FR-LSH PVC wire 2.5 sq mm, 90 m",HSR,2025-08,5823,14,0.0024,36417
+WR015,"FR-LSH PVC wire 2.5 sq mm, 90 m",HSR,2025-09,7484,13,0.0017,33807
+WR015,"FR-LSH PVC wire 2.5 sq mm, 90 m",HSR,2025-10,7979,72,0.0090,199280
+WR015,"FR-LSH PVC wire 2.5 sq mm, 90 m",HSR,2025-11,8166,56,0.0069,161628
+WR015,"FR-LSH PVC wire 2.5 sq mm, 90 m",HSR,2025-12,8313,25,0.0030,72358
+WR015,"FR-LSH PVC wire 2.5 sq mm, 90 m",HSR,2026-01,8803,134,0.0152,390899
+WR015,"FR-LSH PVC wire 2.5 sq mm, 90 m",HSR,2026-02,8239,58,0.0070,166596
+WR015,"FR-LSH PVC wire 2.5 sq mm, 90 m",HSR,2026-03,9240,56,0.0061,160033
+WR016,"FR-LSH PVC wire 4.0 sq mm, 90 m",HSR,2025-04,6304,35,0.0056,144034
+WR016,"FR-LSH PVC wire 4.0 sq mm, 90 m",HSR,2025-05,6535,53,0.0081,217467
+WR016,"FR-LSH PVC wire 4.0 sq mm, 90 m",HSR,2025-06,6433,106,0.0165,434738
+WR016,"FR-LSH PVC wire 4.0 sq mm, 90 m",HSR,2025-07,6098,51,0.0084,215389
+WR016,"FR-LSH PVC wire 4.0 sq mm, 90 m",HSR,2025-08,5109,17,0.0033,69601
+WR016,"FR-LSH PVC wire 4.0 sq mm, 90 m",HSR,2025-09,7948,37,0.0047,152962
+WR016,"FR-LSH PVC wire 4.0 sq mm, 90 m",HSR,2025-10,8916,130,0.0146,587812
+WR016,"FR-LSH PVC wire 4.0 sq mm, 90 m",HSR,2025-11,8185,83,0.0101,380622
+WR016,"FR-LSH PVC wire 4.0 sq mm, 90 m",HSR,2025-12,7402,37,0.0050,167494
+WR016,"FR-LSH PVC wire 4.0 sq mm, 90 m",HSR,2026-01,8325,77,0.0092,354788
+WR016,"FR-LSH PVC wire 4.0 sq mm, 90 m",HSR,2026-02,10423,38,0.0036,176783
+WR016,"FR-LSH PVC wire 4.0 sq mm, 90 m",HSR,2026-03,9014,128,0.0142,582529

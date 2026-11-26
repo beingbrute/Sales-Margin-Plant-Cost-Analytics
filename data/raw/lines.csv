@@ -1,0 +1,9 @@
+plant,line,category,fixed_cost_month
+HDW,FAN-L1,Fans,32322000.0
+HDW,FAN-L2,Fans,29863000.0
+HDW,WH-L1,Water heaters,36865000.0
+BDI,STB-L1,Stabilisers,16314000.0
+BDI,STB-L2,Stabilisers,18576000.0
+HSR,WIR-L1,Wires,15556000.0
+HSR,WIR-L2,Wires,9755000.0
+HSR,WH-L2,Water heaters,57850000.0

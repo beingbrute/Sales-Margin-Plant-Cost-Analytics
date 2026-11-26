@@ -1,0 +1,401 @@
+customer,customer_name,channel,region,city
+C00001,DIS customer 001,Distributor,North,Delhi
+C00002,DIS customer 002,Distributor,South,Kochi
+C00003,DIS customer 003,Distributor,South,Kochi
+C00004,DIS customer 004,Distributor,West,Ahmedabad
+C00005,DIS customer 005,Distributor,West,Nagpur
+C00006,DIS customer 006,Distributor,East,Kolkata
+C00007,DIS customer 007,Distributor,North,Gurugram
+C00008,DIS customer 008,Distributor,,Indore
+C00009,DIS customer 009,Distributor,East,Guwahati
+C00010,DIS customer 010,Distributor,South,Coimbatore
+C00011,DIS customer 011,Distributor,West,Surat
+C00012,DIS customer 012,Distributor,South,Hyderabad
+C00013,DIS customer 013,Distributor,North,Gurugram
+C00014,DIS customer 014,Distributor,South,Chennai
+C00015,DIS customer 015,Distributor,South,Chennai
+C00016,DIS customer 016,Distributor,North,Lucknow
+C00017,DIS customer 017,Distributor,South,Mysuru
+C00018,DIS customer 018,Distributor,North,Noida
+C00019,DIS customer 019,Distributor,East,Patna
+C00020,DIS customer 020,Distributor,North,Jaipur
+C00021,DIS customer 021,Distributor,North,Dehradun
+C00022,DIS customer 022,Distributor,West,Indore
+C00023,DIS customer 023,Distributor,East,Patna
+C00024,DIS customer 024,Distributor,West,Ahmedabad
+C00025,DIS customer 025,Distributor,South,Kochi
+C00026,DIS customer 026,Distributor,West,Ahmedabad
+C00027,DIS customer 027,Distributor,North,Noida
+C00028,DIS customer 028,Distributor,North,Lucknow
+C00029,DIS customer 029,Distributor,North,Delhi
+C00030,DIS customer 030,Distributor,North,Lucknow
+C00031,DIS customer 031,Distributor,South,Hyderabad
+C00032,DIS customer 032,Distributor,North,Lucknow
+C00033,DIS customer 033,Distributor,East,Ranchi
+C00034,DIS customer 034,Distributor,East,Bhubaneswar
+C00035,DIS customer 035,Distributor,South,Hyderabad
+C00036,DIS customer 036,Distributor,South,Hyderabad
+C00037,DIS customer 037,Distributor,South,Bengaluru
+C00038,DIS customer 038,Distributor,,Coimbatore
+C00039,DIS customer 039,Distributor,South,Coimbatore
+C00040,DIS customer 040,Distributor,West,Mumbai
+C00041,DIS customer 041,Distributor,South,Coimbatore
+C00042,DIS customer 042,Distributor,South,Chennai
+C00043,DIS customer 043,Distributor,North,Gurugram
+C00044,DIS customer 044,Distributor,West,Indore
+C00045,DIS customer 045,Distributor,North,Gurugram
+C00046,DIS customer 046,Distributor,East,Patna
+C00047,DIS customer 047,Distributor,North,Noida
+C00048,DIS customer 048,Distributor,South,Kochi
+C00049,DIS customer 049,Distributor,West,Surat
+C00050,DIS customer 050,Distributor,West,Indore
+C00051,DIS customer 051,Distributor,East,Patna
+C00052,DIS customer 052,Distributor,West,Mumbai
+C00053,DIS customer 053,Distributor,North,Delhi
+C00054,DIS customer 054,Distributor,North,Noida
+C00055,DIS customer 055,Distributor,East,Kolkata
+C00056,DIS customer 056,Distributor,North,Jaipur
+C00057,DIS customer 057,Distributor,North,Chandigarh
+C00058,DIS customer 058,Distributor,South,Kochi
+C00059,DIS customer 059,Distributor,East,Bhubaneswar
+C00060,DIS customer 060,Distributor,West,Surat
+C00061,DIS customer 061,Distributor,West,Pune
+C00062,DIS customer 062,Distributor,,Pune
+C00063,DIS customer 063,Distributor,West,Surat
+C00064,DIS customer 064,Distributor,East,Guwahati
+C00065,DIS customer 065,Distributor,South,Coimbatore
+C00066,DIS customer 066,Distributor,North,Dehradun
+C00067,DIS customer 067,Distributor,East,Guwahati
+C00068,DIS customer 068,Distributor,North,Chandigarh
+C00069,DIS customer 069,Distributor,East,Kolkata
+C00070,DIS customer 070,Distributor,West,Ahmedabad
+C00071,DIS customer 071,Distributor,North,Gurugram
+C00072,DIS customer 072,Distributor,West,Surat
+C00073,DIS customer 073,Distributor,,Ranchi
+C00074,DIS customer 074,Distributor,East,Patna
+C00075,DIS customer 075,Distributor,South,Kochi
+C00076,DIS customer 076,Distributor,North,Lucknow
+C00077,DIS customer 077,Distributor,North,Noida
+C00078,DIS customer 078,Distributor,North,Delhi
+C00079,DIS customer 079,Distributor,South,Hyderabad
+C00080,DIS customer 080,Distributor,South,Chennai
+C00081,DIS customer 081,Distributor,,Ranchi
+C00082,DIS customer 082,Distributor,South,Mysuru
+C00083,DIS customer 083,Distributor,North,Dehradun
+C00084,DIS customer 084,Distributor,North,Noida
+C00085,DIS customer 085,Distributor,East,Patna
+C00086,DIS customer 086,Distributor,South,Coimbatore
+C00087,DIS customer 087,Distributor,South,Chennai
+C00088,DIS customer 088,Distributor,East,Ranchi
+C00089,DIS customer 089,Distributor,East,Bhubaneswar
+C00090,DIS customer 090,Distributor,North,Dehradun
+C00091,DIS customer 091,Distributor,East,Guwahati
+C00092,DIS customer 092,Distributor,West,Nagpur
+C00093,DIS customer 093,Distributor,South,Coimbatore
+C00094,DIS customer 094,Distributor,East,Guwahati
+C00095,DIS customer 095,Distributor,South,Bengaluru
+C00096,DIS customer 096,Distributor,South,Bengaluru
+C00097,DIS customer 097,Distributor,West,Pune
+C00098,DIS customer 098,Distributor,North,Gurugram
+C00099,DIS customer 099,Distributor,South,Kochi
+C00100,DIS customer 100,Distributor,North,Delhi
+C00101,DIS customer 101,Distributor,West,Ahmedabad
+C00102,DIS customer 102,Distributor,South,Chennai
+C00103,DIS customer 103,Distributor,,Lucknow
+C00104,DIS customer 104,Distributor,North,Lucknow
+C00105,DIS customer 105,Distributor,West,Pune
+C00106,DIS customer 106,Distributor,North,Noida
+C00107,DIS customer 107,Distributor,West,Indore
+C00108,DIS customer 108,Distributor,,Kochi
+C00109,DIS customer 109,Distributor,North,Jaipur
+C00110,DIS customer 110,Distributor,South,Coimbatore
+C00111,DIS customer 111,Distributor,North,Jaipur
+C00112,DIS customer 112,Distributor,North,Dehradun
+C00113,DIS customer 113,Distributor,North,Lucknow
+C00114,DIS customer 114,Distributor,North,Jaipur
+C00115,DIS customer 115,Distributor,South,Hyderabad
+C00116,DIS customer 116,Distributor,West,Surat
+C00117,DIS customer 117,Distributor,West,Surat
+C00118,DIS customer 118,Distributor,West,Mumbai
+C00119,DIS customer 119,Distributor,North,Noida
+C00120,DIS customer 120,Distributor,North,Chandigarh
+C00121,DIS customer 121,Distributor,East,Kolkata
+C00122,DIS customer 122,Distributor,West,Nagpur
+C00123,DIS customer 123,Distributor,West,Nagpur
+C00124,DIS customer 124,Distributor,East,Patna
+C00125,DIS customer 125,Distributor,East,Guwahati
+C00126,DIS customer 126,Distributor,East,Kolkata
+C00127,DIS customer 127,Distributor,,Kochi
+C00128,DIS customer 128,Distributor,South,Bengaluru
+C00129,DIS customer 129,Distributor,,Coimbatore
+C00130,DIS customer 130,Distributor,East,Bhubaneswar
+C00131,DIS customer 131,Distributor,South,Hyderabad
+C00132,DIS customer 132,Distributor,North,Dehradun
+C00133,DIS customer 133,Distributor,North,Dehradun
+C00134,DIS customer 134,Distributor,West,Ahmedabad
+C00135,DIS customer 135,Distributor,East,Kolkata
+C00136,DIS customer 136,Distributor,East,Patna
+C00137,DIS customer 137,Distributor,West,Surat
+C00138,DIS customer 138,Distributor,North,Chandigarh
+C00139,DIS customer 139,Distributor,North,Dehradun
+C00140,DIS customer 140,Distributor,West,Indore
+C00141,DIS customer 141,Distributor,North,Gurugram
+C00142,DIS customer 142,Distributor,North,Jaipur
+C00143,DIS customer 143,Distributor,South,Coimbatore
+C00144,DIS customer 144,Distributor,North,Delhi
+C00145,DIS customer 145,Distributor,,Noida
+C00146,DIS customer 146,Distributor,South,Mysuru
+C00147,DIS customer 147,Distributor,North,Gurugram
+C00148,DIS customer 148,Distributor,South,Hyderabad
+C00149,DIS customer 149,Distributor,East,Ranchi
+C00150,DIS customer 150,Distributor,South,Kochi
+C00151,DIS customer 151,Distributor,North,Jaipur
+C00152,DIS customer 152,Distributor,West,Surat
+C00153,DIS customer 153,Distributor,South,Chennai
+C00154,DIS customer 154,Distributor,North,Dehradun
+C00155,DIS customer 155,Distributor,North,Chandigarh
+C00156,DIS customer 156,Distributor,South,Mysuru
+C00157,DIS customer 157,Distributor,South,Kochi
+C00158,DIS customer 158,Distributor,North,Noida
+C00159,DIS customer 159,Distributor,East,Guwahati
+C00160,DIS customer 160,Distributor,South,Hyderabad
+C00161,DIS customer 161,Distributor,West,Mumbai
+C00162,DIS customer 162,Distributor,West,Indore
+C00163,DIS customer 163,Distributor,,Kochi
+C00164,DIS customer 164,Distributor,North,Delhi
+C00165,DIS customer 165,Distributor,South,Chennai
+C00166,DIS customer 166,Distributor,North,Delhi
+C00167,DIS customer 167,Distributor,North,Jaipur
+C00168,DIS customer 168,Distributor,North,Dehradun
+C00169,DIS customer 169,Distributor,North,Delhi
+C00170,DIS customer 170,Distributor,East,Ranchi
+C00171,DIS customer 171,Distributor,East,Kolkata
+C00172,DIS customer 172,Distributor,West,Ahmedabad
+C00173,DIS customer 173,Distributor,West,Ahmedabad
+C00174,DIS customer 174,Distributor,West,Surat
+C00175,DIS customer 175,Distributor,South,Chennai
+C00176,DIS customer 176,Distributor,West,Ahmedabad
+C00177,DIS customer 177,Distributor,East,Ranchi
+C00178,DIS customer 178,Distributor,South,Chennai
+C00179,DIS customer 179,Distributor,North,Dehradun
+C00180,DIS customer 180,Distributor,South,Mysuru
+C00181,DIS customer 181,Distributor,North,Delhi
+C00182,DIS customer 182,Distributor,West,Indore
+C00183,DIS customer 183,Distributor,East,Kolkata
+C00184,DIS customer 184,Distributor,,Bhubaneswar
+C00185,DIS customer 185,Distributor,North,Lucknow
+C00186,DIS customer 186,Distributor,South,Bengaluru
+C00187,DIS customer 187,Distributor,South,Hyderabad
+C00188,DIS customer 188,Distributor,North,Chandigarh
+C00189,DIS customer 189,Distributor,North,Lucknow
+C00190,DIS customer 190,Distributor,West,Nagpur
+C00191,DIS customer 191,Distributor,West,Nagpur
+C00192,DIS customer 192,Distributor,West,Nagpur
+C00193,DIS customer 193,Distributor,South,Coimbatore
+C00194,DIS customer 194,Distributor,South,Coimbatore
+C00195,DIS customer 195,Distributor,South,Chennai
+C00196,DIS customer 196,Distributor,South,Mysuru
+C00197,DIS customer 197,Distributor,East,Ranchi
+C00198,DIS customer 198,Distributor,North,Jaipur
+C00199,DIS customer 199,Distributor,North,Gurugram
+C00200,DIS customer 200,Distributor,East,Bhubaneswar
+C00201,DIS customer 201,Distributor,East,Bhubaneswar
+C00202,DIS customer 202,Distributor,North,Noida
+C00203,DIS customer 203,Distributor,South,Hyderabad
+C00204,DIS customer 204,Distributor,South,Chennai
+C00205,DIS customer 205,Distributor,South,Kochi
+C00206,DIS customer 206,Distributor,South,Hyderabad
+C00207,DIS customer 207,Distributor,,Noida
+C00208,DIS customer 208,Distributor,West,Pune
+C00209,DIS customer 209,Distributor,South,Hyderabad
+C00210,DIS customer 210,Distributor,West,Indore
+C00211,DIS customer 211,Distributor,North,Delhi
+C00212,DIS customer 212,Distributor,South,Hyderabad
+C00213,DIS customer 213,Distributor,North,Delhi
+C00214,DIS customer 214,Distributor,West,Mumbai
+C00215,DIS customer 215,Distributor,West,Pune
+C00216,DIS customer 216,Distributor,East,Patna
+C00217,DIS customer 217,Distributor,South,Bengaluru
+C00218,DIS customer 218,Distributor,,Chandigarh
+C00219,DIS customer 219,Distributor,,Chennai
+C00220,DIS customer 220,Distributor,West,Indore
+C00221,MOD customer 221,Modern retail,North,Chandigarh
+C00222,MOD customer 222,Modern retail,South,Mysuru
+C00223,MOD customer 223,Modern retail,East,Bhubaneswar
+C00224,MOD customer 224,Modern retail,South,Coimbatore
+C00225,MOD customer 225,Modern retail,West,Indore
+C00226,MOD customer 226,Modern retail,West,Ahmedabad
+C00227,MOD customer 227,Modern retail,West,Ahmedabad
+C00228,MOD customer 228,Modern retail,West,Indore
+C00229,MOD customer 229,Modern retail,North,Delhi
+C00230,MOD customer 230,Modern retail,East,Guwahati
+C00231,MOD customer 231,Modern retail,South,Coimbatore
+C00232,MOD customer 232,Modern retail,North,Jaipur
+C00233,MOD customer 233,Modern retail,North,Lucknow
+C00234,MOD customer 234,Modern retail,North,Chandigarh
+C00235,MOD customer 235,Modern retail,East,Kolkata
+C00236,MOD customer 236,Modern retail,South,Bengaluru
+C00237,MOD customer 237,Modern retail,North,Gurugram
+C00238,MOD customer 238,Modern retail,North,Lucknow
+C00239,MOD customer 239,Modern retail,South,Hyderabad
+C00240,MOD customer 240,Modern retail,South,Chennai
+C00241,MOD customer 241,Modern retail,,Patna
+C00242,MOD customer 242,Modern retail,West,Pune
+C00243,MOD customer 243,Modern retail,West,Ahmedabad
+C00244,MOD customer 244,Modern retail,South,Mysuru
+C00245,MOD customer 245,Modern retail,,Ahmedabad
+C00246,MOD customer 246,Modern retail,West,Mumbai
+C00247,MOD customer 247,Modern retail,North,Dehradun
+C00248,MOD customer 248,Modern retail,North,Noida
+C00249,MOD customer 249,Modern retail,West,Ahmedabad
+C00250,MOD customer 250,Modern retail,West,Ahmedabad
+C00251,MOD customer 251,Modern retail,North,Gurugram
+C00252,MOD customer 252,Modern retail,South,Mysuru
+C00253,MOD customer 253,Modern retail,North,Chandigarh
+C00254,MOD customer 254,Modern retail,North,Lucknow
+C00255,MOD customer 255,Modern retail,South,Mysuru
+C00256,MOD customer 256,Modern retail,North,Jaipur
+C00257,MOD customer 257,Modern retail,South,Hyderabad
+C00258,MOD customer 258,Modern retail,North,Noida
+C00259,MOD customer 259,Modern retail,West,Surat
+C00260,MOD customer 260,Modern retail,North,Lucknow
+C00261,MOD customer 261,Modern retail,West,Mumbai
+C00262,MOD customer 262,Modern retail,East,Patna
+C00263,MOD customer 263,Modern retail,South,Bengaluru
+C00264,MOD customer 264,Modern retail,East,Guwahati
+C00265,MOD customer 265,Modern retail,North,Noida
+C00266,MOD customer 266,Modern retail,East,Ranchi
+C00267,MOD customer 267,Modern retail,East,Ranchi
+C00268,MOD customer 268,Modern retail,North,Gurugram
+C00269,MOD customer 269,Modern retail,South,Mysuru
+C00270,MOD customer 270,Modern retail,North,Delhi
+C00271,MOD customer 271,Modern retail,East,Patna
+C00272,MOD customer 272,Modern retail,East,Patna
+C00273,MOD customer 273,Modern retail,North,Noida
+C00274,MOD customer 274,Modern retail,North,Chandigarh
+C00275,MOD customer 275,Modern retail,West,Mumbai
+C00276,MOD customer 276,Modern retail,East,Ranchi
+C00277,MOD customer 277,Modern retail,South,Hyderabad
+C00278,MOD customer 278,Modern retail,West,Mumbai
+C00279,MOD customer 279,Modern retail,South,Mysuru
+C00280,MOD customer 280,Modern retail,South,Bengaluru
+C00281,E-C customer 281,E-commerce,North,Delhi
+C00282,E-C customer 282,E-commerce,,Bhubaneswar
+C00283,E-C customer 283,E-commerce,West,Indore
+C00284,E-C customer 284,E-commerce,North,Noida
+C00285,E-C customer 285,E-commerce,South,Coimbatore
+C00286,E-C customer 286,E-commerce,West,Mumbai
+C00287,E-C customer 287,E-commerce,West,Nagpur
+C00288,E-C customer 288,E-commerce,North,Lucknow
+C00289,E-C customer 289,E-commerce,North,Delhi
+C00290,E-C customer 290,E-commerce,North,Dehradun
+C00291,E-C customer 291,E-commerce,North,Dehradun
+C00292,E-C customer 292,E-commerce,North,Chandigarh
+C00293,E-C customer 293,E-commerce,South,Chennai
+C00294,E-C customer 294,E-commerce,East,Bhubaneswar
+C00295,E-C customer 295,E-commerce,South,Kochi
+C00296,E-C customer 296,E-commerce,South,Coimbatore
+C00297,E-C customer 297,E-commerce,North,Dehradun
+C00298,E-C customer 298,E-commerce,West,Pune
+C00299,E-C customer 299,E-commerce,North,Dehradun
+C00300,E-C customer 300,E-commerce,East,Guwahati
+C00301,INS customer 301,Institutional,West,Pune
+C00302,INS customer 302,Institutional,,Delhi
+C00303,INS customer 303,Institutional,East,Patna
+C00304,INS customer 304,Institutional,North,Noida
+C00305,INS customer 305,Institutional,West,Indore
+C00306,INS customer 306,Institutional,North,Chandigarh
+C00307,INS customer 307,Institutional,North,Lucknow
+C00308,INS customer 308,Institutional,South,Mysuru
+C00309,INS customer 309,Institutional,West,Mumbai
+C00310,INS customer 310,Institutional,North,Jaipur
+C00311,INS customer 311,Institutional,North,Noida
+C00312,INS customer 312,Institutional,East,Bhubaneswar
+C00313,INS customer 313,Institutional,North,Gurugram
+C00314,INS customer 314,Institutional,South,Hyderabad
+C00315,INS customer 315,Institutional,East,Guwahati
+C00316,INS customer 316,Institutional,West,Pune
+C00317,INS customer 317,Institutional,South,Coimbatore
+C00318,INS customer 318,Institutional,West,Nagpur
+C00319,INS customer 319,Institutional,West,Indore
+C00320,INS customer 320,Institutional,,Pune
+C00321,INS customer 321,Institutional,North,Gurugram
+C00322,INS customer 322,Institutional,North,Noida
+C00323,INS customer 323,Institutional,South,Coimbatore
+C00324,INS customer 324,Institutional,West,Mumbai
+C00325,INS customer 325,Institutional,North,Gurugram
+C00326,INS customer 326,Institutional,West,Ahmedabad
+C00327,INS customer 327,Institutional,North,Delhi
+C00328,INS customer 328,Institutional,South,Kochi
+C00329,INS customer 329,Institutional,West,Indore
+C00330,INS customer 330,Institutional,West,Nagpur
+C00331,INS customer 331,Institutional,West,Surat
+C00332,INS customer 332,Institutional,South,Kochi
+C00333,INS customer 333,Institutional,North,Noida
+C00334,INS customer 334,Institutional,West,Mumbai
+C00335,INS customer 335,Institutional,North,Lucknow
+C00336,INS customer 336,Institutional,North,Dehradun
+C00337,INS customer 337,Institutional,North,Chandigarh
+C00338,INS customer 338,Institutional,South,Chennai
+C00339,INS customer 339,Institutional,North,Lucknow
+C00340,INS customer 340,Institutional,West,Ahmedabad
+C00341,INS customer 341,Institutional,,Chennai
+C00342,INS customer 342,Institutional,West,Ahmedabad
+C00343,INS customer 343,Institutional,North,Lucknow
+C00344,INS customer 344,Institutional,West,Surat
+C00345,INS customer 345,Institutional,South,Chennai
+C00346,INS customer 346,Institutional,South,Kochi
+C00347,INS customer 347,Institutional,North,Jaipur
+C00348,INS customer 348,Institutional,West,Nagpur
+C00349,INS customer 349,Institutional,West,Mumbai
+C00350,INS customer 350,Institutional,South,Kochi
+C00351,INS customer 351,Institutional,East,Bhubaneswar
+C00352,INS customer 352,Institutional,West,Indore
+C00353,INS customer 353,Institutional,North,Lucknow
+C00354,INS customer 354,Institutional,East,Ranchi
+C00355,INS customer 355,Institutional,,Nagpur
+C00356,INS customer 356,Institutional,West,Pune
+C00357,INS customer 357,Institutional,West,Mumbai
+C00358,INS customer 358,Institutional,South,Bengaluru
+C00359,INS customer 359,Institutional,North,Delhi
+C00360,INS customer 360,Institutional,East,Guwahati
+C00361,INS customer 361,Institutional,South,Chennai
+C00362,INS customer 362,Institutional,West,Indore
+C00363,INS customer 363,Institutional,North,Dehradun
+C00364,INS customer 364,Institutional,South,Coimbatore
+C00365,INS customer 365,Institutional,North,Noida
+C00366,INS customer 366,Institutional,South,Hyderabad
+C00367,INS customer 367,Institutional,West,Mumbai
+C00368,INS customer 368,Institutional,North,Dehradun
+C00369,INS customer 369,Institutional,South,Mysuru
+C00370,INS customer 370,Institutional,,Ranchi
+C00371,INS customer 371,Institutional,West,Pune
+C00372,INS customer 372,Institutional,North,Lucknow
+C00373,INS customer 373,Institutional,South,Hyderabad
+C00374,INS customer 374,Institutional,West,Surat
+C00375,INS customer 375,Institutional,South,Kochi
+C00376,INS customer 376,Institutional,East,Patna
+C00377,INS customer 377,Institutional,South,Coimbatore
+C00378,INS customer 378,Institutional,West,Ahmedabad
+C00379,INS customer 379,Institutional,East,Kolkata
+C00380,INS customer 380,Institutional,West,Nagpur
+C00381,INS customer 381,Institutional,East,Patna
+C00382,INS customer 382,Institutional,East,Ranchi
+C00383,INS customer 383,Institutional,South,Kochi
+C00384,INS customer 384,Institutional,North,Gurugram
+C00385,INS customer 385,Institutional,South,Kochi
+C00386,INS customer 386,Institutional,North,Delhi
+C00387,INS customer 387,Institutional,East,Patna
+C00388,INS customer 388,Institutional,North,Lucknow
+C00389,INS customer 389,Institutional,North,Delhi
+C00390,INS customer 390,Institutional,,Kochi
+C00391,INS customer 391,Institutional,South,Mysuru
+C00392,INS customer 392,Institutional,,Mumbai
+C00393,INS customer 393,Institutional,North,Jaipur
+C00394,INS customer 394,Institutional,South,Hyderabad
+C00395,INS customer 395,Institutional,East,Patna
+C00396,INS customer 396,Institutional,North,Dehradun
+C00397,INS customer 397,Institutional,North,Chandigarh
+C00398,INS customer 398,Institutional,West,Mumbai
+C00399,INS customer 399,Institutional,South,Chennai
+C00400,INS customer 400,Institutional,North,Dehradun

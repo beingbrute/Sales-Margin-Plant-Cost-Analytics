@@ -1,0 +1,5 @@
+warehouse,warehouse_name,city,region
+WN,North warehouse,Gurugram,North
+WS,South warehouse,Bengaluru,South
+WE,East warehouse,Kolkata,East
+WW,West warehouse,Bhiwandi,West

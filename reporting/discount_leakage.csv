@@ -1,0 +1,193 @@
+month,region,channel,max_discount_pct,avg_discount_pct,lines_above_policy,leakage
+2025-04,East,Distributor,12.00,7.9,0,0
+2025-04,East,E-commerce,15.00,9.6,0,0
+2025-04,East,Institutional,10.00,6.4,0,0
+2025-04,East,Modern retail,8.00,5.3,0,0
+2025-04,North,Distributor,12.00,7.8,0,0
+2025-04,North,E-commerce,15.00,9.6,0,0
+2025-04,North,Institutional,10.00,6.2,0,0
+2025-04,North,Modern retail,8.00,5.3,0,0
+2025-04,South,Distributor,12.00,7.7,0,0
+2025-04,South,E-commerce,15.00,10.2,0,0
+2025-04,South,Institutional,10.00,6.4,0,0
+2025-04,South,Modern retail,8.00,5.3,0,0
+2025-04,West,Distributor,12.00,7.8,0,0
+2025-04,West,E-commerce,15.00,9.7,0,0
+2025-04,West,Institutional,10.00,6.4,0,0
+2025-04,West,Modern retail,8.00,5.2,0,0
+2025-05,East,Distributor,12.00,7.8,0,0
+2025-05,East,E-commerce,15.00,9.8,0,0
+2025-05,East,Institutional,10.00,6.6,0,0
+2025-05,East,Modern retail,8.00,5.2,0,0
+2025-05,North,Distributor,12.00,7.9,0,0
+2025-05,North,E-commerce,15.00,9.8,0,0
+2025-05,North,Institutional,10.00,6.7,0,0
+2025-05,North,Modern retail,8.00,5.1,0,0
+2025-05,South,Distributor,12.00,7.8,0,0
+2025-05,South,E-commerce,15.00,9.9,0,0
+2025-05,South,Institutional,10.00,6.4,0,0
+2025-05,South,Modern retail,8.00,5.2,0,0
+2025-05,West,Distributor,12.00,7.8,0,0
+2025-05,West,E-commerce,15.00,9.6,0,0
+2025-05,West,Institutional,10.00,6.5,0,0
+2025-05,West,Modern retail,8.00,5.2,0,0
+2025-06,East,Distributor,12.00,7.8,0,0
+2025-06,East,E-commerce,15.00,9.8,0,0
+2025-06,East,Institutional,10.00,6.5,0,0
+2025-06,East,Modern retail,8.00,5.2,0,0
+2025-06,North,Distributor,12.00,7.8,0,0
+2025-06,North,E-commerce,15.00,9.6,0,0
+2025-06,North,Institutional,10.00,6.4,0,0
+2025-06,North,Modern retail,8.00,5.2,0,0
+2025-06,South,Distributor,12.00,7.8,0,0
+2025-06,South,E-commerce,15.00,9.5,0,0
+2025-06,South,Institutional,10.00,6.5,0,0
+2025-06,South,Modern retail,8.00,5.2,0,0
+2025-06,West,Distributor,12.00,7.7,0,0
+2025-06,West,E-commerce,15.00,9.7,0,0
+2025-06,West,Institutional,10.00,6.5,0,0
+2025-06,West,Modern retail,8.00,5.2,0,0
+2025-07,East,Distributor,12.00,7.9,0,0
+2025-07,East,E-commerce,15.00,9.6,0,0
+2025-07,East,Institutional,10.00,6.7,0,0
+2025-07,East,Modern retail,8.00,5.3,0,0
+2025-07,North,Distributor,12.00,7.8,0,0
+2025-07,North,E-commerce,15.00,9.7,0,0
+2025-07,North,Institutional,10.00,6.6,0,0
+2025-07,North,Modern retail,8.00,5.2,0,0
+2025-07,South,Distributor,12.00,7.8,0,0
+2025-07,South,E-commerce,15.00,9.6,0,0
+2025-07,South,Institutional,10.00,6.9,0,0
+2025-07,South,Modern retail,8.00,5.0,0,0
+2025-07,West,Distributor,12.00,7.8,0,0
+2025-07,West,E-commerce,15.00,9.8,0,0
+2025-07,West,Institutional,10.00,6.4,0,0
+2025-07,West,Modern retail,8.00,5.2,0,0
+2025-08,East,Distributor,12.00,7.9,0,0
+2025-08,East,E-commerce,15.00,9.9,0,0
+2025-08,East,Institutional,10.00,6.6,0,0
+2025-08,East,Modern retail,8.00,5.2,0,0
+2025-08,North,Distributor,12.00,7.8,0,0
+2025-08,North,E-commerce,15.00,9.6,0,0
+2025-08,North,Institutional,10.00,6.5,0,0
+2025-08,North,Modern retail,8.00,5.2,0,0
+2025-08,South,Distributor,12.00,7.8,0,0
+2025-08,South,E-commerce,15.00,9.6,0,0
+2025-08,South,Institutional,10.00,6.4,0,0
+2025-08,South,Modern retail,8.00,5.2,0,0
+2025-08,West,Distributor,12.00,7.8,0,0
+2025-08,West,E-commerce,15.00,9.8,0,0
+2025-08,West,Institutional,10.00,6.5,0,0
+2025-08,West,Modern retail,8.00,5.3,0,0
+2025-09,East,Distributor,12.00,7.7,0,0
+2025-09,East,E-commerce,15.00,9.7,0,0
+2025-09,East,Institutional,10.00,6.8,0,0
+2025-09,East,Modern retail,8.00,5.2,0,0
+2025-09,North,Distributor,12.00,7.7,0,0
+2025-09,North,E-commerce,15.00,9.8,0,0
+2025-09,North,Institutional,10.00,6.6,0,0
+2025-09,North,Modern retail,8.00,5.3,0,0
+2025-09,South,Distributor,12.00,7.8,0,0
+2025-09,South,E-commerce,15.00,9.8,0,0
+2025-09,South,Institutional,10.00,6.7,0,0
+2025-09,South,Modern retail,8.00,5.3,0,0
+2025-09,West,Distributor,12.00,7.7,0,0
+2025-09,West,E-commerce,15.00,9.8,0,0
+2025-09,West,Institutional,10.00,6.4,0,0
+2025-09,West,Modern retail,8.00,5.4,0,0
+2025-10,East,Distributor,12.00,16.8,1304,15416750
+2025-10,East,E-commerce,15.00,10.0,0,0
+2025-10,East,Institutional,10.00,6.3,0,0
+2025-10,East,Modern retail,8.00,5.1,0,0
+2025-10,North,Distributor,12.00,7.8,0,0
+2025-10,North,E-commerce,15.00,9.7,0,0
+2025-10,North,Institutional,10.00,6.7,0,0
+2025-10,North,Modern retail,8.00,5.3,0,0
+2025-10,South,Distributor,12.00,7.8,0,0
+2025-10,South,E-commerce,15.00,9.7,0,0
+2025-10,South,Institutional,10.00,6.6,0,0
+2025-10,South,Modern retail,8.00,5.3,0,0
+2025-10,West,Distributor,12.00,7.9,0,0
+2025-10,West,E-commerce,15.00,9.7,0,0
+2025-10,West,Institutional,10.00,6.5,0,0
+2025-10,West,Modern retail,8.00,5.1,0,0
+2025-11,East,Distributor,12.00,16.7,1390,18097088
+2025-11,East,E-commerce,15.00,9.8,0,0
+2025-11,East,Institutional,10.00,6.8,0,0
+2025-11,East,Modern retail,8.00,5.1,0,0
+2025-11,North,Distributor,12.00,7.8,0,0
+2025-11,North,E-commerce,15.00,9.7,0,0
+2025-11,North,Institutional,10.00,6.6,0,0
+2025-11,North,Modern retail,8.00,5.2,0,0
+2025-11,South,Distributor,12.00,7.7,0,0
+2025-11,South,E-commerce,15.00,9.9,0,0
+2025-11,South,Institutional,10.00,6.6,0,0
+2025-11,South,Modern retail,8.00,5.2,0,0
+2025-11,West,Distributor,12.00,7.7,0,0
+2025-11,West,E-commerce,15.00,9.6,0,0
+2025-11,West,Institutional,10.00,6.5,0,0
+2025-11,West,Modern retail,8.00,5.2,0,0
+2025-12,East,Distributor,12.00,16.7,1409,18388222
+2025-12,East,E-commerce,15.00,9.9,0,0
+2025-12,East,Institutional,10.00,6.5,0,0
+2025-12,East,Modern retail,8.00,5.3,0,0
+2025-12,North,Distributor,12.00,7.8,0,0
+2025-12,North,E-commerce,15.00,9.7,0,0
+2025-12,North,Institutional,10.00,6.7,0,0
+2025-12,North,Modern retail,8.00,5.2,0,0
+2025-12,South,Distributor,12.00,7.8,0,0
+2025-12,South,E-commerce,15.00,9.8,0,0
+2025-12,South,Institutional,10.00,6.4,0,0
+2025-12,South,Modern retail,8.00,5.3,0,0
+2025-12,West,Distributor,12.00,7.9,0,0
+2025-12,West,E-commerce,15.00,9.8,0,0
+2025-12,West,Institutional,10.00,6.5,0,0
+2025-12,West,Modern retail,8.00,5.1,0,0
+2026-01,East,Distributor,12.00,7.9,0,0
+2026-01,East,E-commerce,15.00,9.7,0,0
+2026-01,East,Institutional,10.00,6.5,0,0
+2026-01,East,Modern retail,8.00,5.1,0,0
+2026-01,North,Distributor,12.00,7.7,0,0
+2026-01,North,E-commerce,15.00,9.9,0,0
+2026-01,North,Institutional,10.00,6.6,0,0
+2026-01,North,Modern retail,8.00,5.2,0,0
+2026-01,South,Distributor,12.00,7.8,0,0
+2026-01,South,E-commerce,15.00,10.1,0,0
+2026-01,South,Institutional,10.00,6.6,0,0
+2026-01,South,Modern retail,8.00,5.2,0,0
+2026-01,West,Distributor,12.00,7.8,0,0
+2026-01,West,E-commerce,15.00,9.6,0,0
+2026-01,West,Institutional,10.00,6.6,0,0
+2026-01,West,Modern retail,8.00,5.1,0,0
+2026-02,East,Distributor,12.00,7.7,0,0
+2026-02,East,E-commerce,15.00,9.8,0,0
+2026-02,East,Institutional,10.00,6.3,0,0
+2026-02,East,Modern retail,8.00,5.3,0,0
+2026-02,North,Distributor,12.00,7.8,0,0
+2026-02,North,E-commerce,15.00,9.6,0,0
+2026-02,North,Institutional,10.00,6.6,0,0
+2026-02,North,Modern retail,8.00,5.2,0,0
+2026-02,South,Distributor,12.00,7.9,0,0
+2026-02,South,E-commerce,15.00,9.5,0,0
+2026-02,South,Institutional,10.00,6.6,0,0
+2026-02,South,Modern retail,8.00,5.2,0,0
+2026-02,West,Distributor,12.00,7.9,0,0
+2026-02,West,E-commerce,15.00,9.6,0,0
+2026-02,West,Institutional,10.00,6.4,0,0
+2026-02,West,Modern retail,8.00,5.1,0,0
+2026-03,East,Distributor,12.00,7.9,0,0
+2026-03,East,E-commerce,15.00,9.7,0,0
+2026-03,East,Institutional,10.00,6.4,0,0
+2026-03,East,Modern retail,8.00,5.3,0,0
+2026-03,North,Distributor,12.00,7.8,0,0
+2026-03,North,E-commerce,15.00,9.7,0,0
+2026-03,North,Institutional,10.00,6.6,0,0
+2026-03,North,Modern retail,8.00,5.2,0,0
+2026-03,South,Distributor,12.00,7.8,0,0
+2026-03,South,E-commerce,15.00,9.8,0,0
+2026-03,South,Institutional,10.00,6.6,0,0
+2026-03,South,Modern retail,8.00,5.1,0,0
+2026-03,West,Distributor,12.00,7.8,0,0
+2026-03,West,E-commerce,15.00,9.9,0,0
+2026-03,West,Institutional,10.00,6.4,0,0
+2026-03,West,Modern retail,8.00,5.0,0,0

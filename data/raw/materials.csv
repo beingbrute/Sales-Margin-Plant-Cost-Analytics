@@ -1,0 +1,53 @@
+material,description,category,segment,list_price,conversion_std,packing,plant,line,machine_hours_per_unit,weight_kg
+FN001,Economy ceiling fan 900mm,Fans,Economy,1450.0,365.4,40.6,HDW,FAN-L2,0.012,5.0
+FN002,Economy ceiling fan 1200mm,Fans,Economy,1550.0,390.6,43.4,HDW,FAN-L1,0.012,5.0
+FN003,Economy ceiling fan 1200mm,Fans,Economy,1650.0,415.8,46.2,HDW,FAN-L2,0.012,5.0
+FN004,Economy ceiling fan 900mm,Fans,Economy,1700.0,428.4,47.6,HDW,FAN-L1,0.012,5.0
+FN005,Economy ceiling fan 1200mm,Fans,Economy,1800.0,453.6,50.4,HDW,FAN-L2,0.012,5.0
+FN006,Economy ceiling fan 1200mm,Fans,Economy,1850.0,466.2,51.8,HDW,FAN-L1,0.012,5.0
+FN007,Economy ceiling fan 900mm,Fans,Economy,1900.0,478.8,53.2,HDW,FAN-L2,0.012,5.0
+FN008,Economy ceiling fan 1200mm,Fans,Economy,2000.0,504.0,56.0,HDW,FAN-L1,0.012,5.0
+FN009,Mid ceiling fan 1200mm,Fans,Mid,2600.0,589.68,65.52,HDW,FAN-L2,0.012,5.0
+FN010,Mid ceiling fan 900mm,Fans,Mid,2800.0,635.04,70.56,HDW,FAN-L1,0.012,5.0
+FN011,Mid ceiling fan 1200mm,Fans,Mid,3000.0,680.4,75.6,HDW,FAN-L2,0.012,5.0
+FN012,Mid ceiling fan 1200mm,Fans,Mid,3200.0,725.76,80.64,HDW,FAN-L1,0.012,5.0
+FN013,Mid ceiling fan 900mm,Fans,Mid,3350.0,759.78,84.42,HDW,FAN-L2,0.012,5.0
+FN014,Mid ceiling fan 1200mm,Fans,Mid,3500.0,793.8,88.2,HDW,FAN-L1,0.012,5.0
+FN015,Premium ceiling fan 1200mm,Fans,Premium,4800.0,984.96,109.44,HDW,FAN-L2,0.016,5.0
+FN016,Premium ceiling fan 900mm,Fans,Premium,5400.0,1108.08,123.12,HDW,FAN-L1,0.016,5.0
+FN017,BLDC Premium ceiling fan 1200mm,Fans,Premium,5900.0,1210.68,134.52,HDW,FAN-L2,0.016,5.0
+FN018,BLDC Premium ceiling fan 1200mm,Fans,Premium,6400.0,1313.28,145.92,HDW,FAN-L1,0.016,5.0
+WR001,"Standard PVC wire 1.0 sq mm, 90 m",Wires,Mid,1040.0,62.4,31.2,HSR,WIR-L2,0.006,1.35
+WR002,"Standard PVC wire 1.5 sq mm, 90 m",Wires,Mid,1520.0,91.2,45.6,HSR,WIR-L1,0.006,1.75
+WR003,"Standard PVC wire 2.5 sq mm, 90 m",Wires,Mid,2500.0,150.0,75.0,HSR,WIR-L2,0.006,2.55
+WR004,"Standard PVC wire 4.0 sq mm, 90 m",Wires,Mid,3960.0,237.6,118.8,HSR,WIR-L1,0.006,3.75
+WR005,"Standard PVC wire 6.0 sq mm, 90 m",Wires,Mid,5970.0,358.2,179.1,HSR,WIR-L2,0.006,5.4
+WR006,"Standard PVC wire 10.0 sq mm, 90 m",Wires,Mid,9870.0,592.2,296.1,HSR,WIR-L1,0.006,8.6
+WR007,"FR PVC wire 1.0 sq mm, 90 m",Wires,Premium,1100.0,63.36,31.68,HSR,WIR-L2,0.006,1.35
+WR008,"FR PVC wire 1.5 sq mm, 90 m",Wires,Premium,1610.0,92.74,46.37,HSR,WIR-L1,0.006,1.75
+WR009,"FR PVC wire 2.5 sq mm, 90 m",Wires,Premium,2650.0,152.64,76.32,HSR,WIR-L2,0.006,2.55
+WR010,"FR PVC wire 4.0 sq mm, 90 m",Wires,Premium,4200.0,241.92,120.96,HSR,WIR-L1,0.006,3.75
+WR011,"FR PVC wire 6.0 sq mm, 90 m",Wires,Premium,6330.0,364.61,182.3,HSR,WIR-L2,0.006,5.4
+WR012,"FR PVC wire 10.0 sq mm, 90 m",Wires,Premium,10460.0,602.5,301.25,HSR,WIR-L1,0.006,8.6
+WR013,"FR-LSH PVC wire 1.0 sq mm, 90 m",Wires,Premium,1160.0,66.82,33.41,HSR,WIR-L2,0.006,1.35
+WR014,"FR-LSH PVC wire 1.5 sq mm, 90 m",Wires,Premium,1710.0,98.5,49.25,HSR,WIR-L1,0.006,1.75
+WR015,"FR-LSH PVC wire 2.5 sq mm, 90 m",Wires,Premium,2800.0,161.28,80.64,HSR,WIR-L2,0.006,2.55
+WR016,"FR-LSH PVC wire 4.0 sq mm, 90 m",Wires,Premium,4440.0,255.74,127.87,HSR,WIR-L1,0.006,3.75
+WH001,Economy storage water heater 10 L,Water heaters,Economy,6200.0,1454.52,171.12,HDW+HSR,WH-L1/WH-L2,0.05,10.5
+WH002,Economy storage water heater 15 L,Water heaters,Economy,7000.0,1642.2,193.2,HDW+HSR,WH-L1/WH-L2,0.05,11.75
+WH003,Economy storage water heater 25 L,Water heaters,Economy,8100.0,1900.26,223.56,HDW+HSR,WH-L1/WH-L2,0.05,14.25
+WH004,Mid storage water heater 10 L,Water heaters,Mid,7900.0,1665.32,195.92,HDW+HSR,WH-L1/WH-L2,0.05,10.5
+WH005,Mid storage water heater 15 L,Water heaters,Mid,8800.0,1855.04,218.24,HDW+HSR,WH-L1/WH-L2,0.05,11.75
+WH006,Mid storage water heater 25 L,Water heaters,Mid,10200.0,2150.16,252.96,HDW+HSR,WH-L1/WH-L2,0.05,14.25
+WH007,Mid storage water heater 35 L,Water heaters,Mid,12100.0,2550.68,300.08,HDW+HSR,WH-L1/WH-L2,0.05,16.75
+WH008,Premium storage water heater 15 L,Water heaters,Premium,11800.0,2246.72,264.32,HDW+HSR,WH-L1/WH-L2,0.05,11.75
+WH009,Premium storage water heater 25 L,Water heaters,Premium,13600.0,2589.44,304.64,HDW+HSR,WH-L1/WH-L2,0.05,14.25
+WH010,Premium storage water heater 35 L,Water heaters,Premium,15400.0,2932.16,344.96,HDW+HSR,WH-L1/WH-L2,0.05,16.75
+ST001,Economy voltage stabiliser 2 kVA,Stabilisers,Economy,2100.0,492.66,57.96,BDI,STB-L1,0.03,6.0
+ST002,Economy voltage stabiliser 3 kVA,Stabilisers,Economy,2500.0,586.5,69.0,BDI,STB-L2,0.03,7.0
+ST003,Economy voltage stabiliser 4 kVA,Stabilisers,Economy,2900.0,680.34,80.04,BDI,STB-L1,0.03,8.0
+ST004,Mid voltage stabiliser 3 kVA,Stabilisers,Mid,3300.0,706.86,83.16,BDI,STB-L2,0.03,7.0
+ST005,Mid voltage stabiliser 4 kVA,Stabilisers,Mid,3700.0,792.54,93.24,BDI,STB-L1,0.03,8.0
+ST006,Mid voltage stabiliser 5 kVA,Stabilisers,Mid,4300.0,921.06,108.36,BDI,STB-L2,0.03,9.0
+ST007,Premium voltage stabiliser 4 kVA,Stabilisers,Premium,4900.0,966.28,113.68,BDI,STB-L1,0.03,8.0
+ST008,Premium voltage stabiliser 5 kVA,Stabilisers,Premium,5600.0,1104.32,129.92,BDI,STB-L2,0.03,9.0

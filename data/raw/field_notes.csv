@@ -1,0 +1,1201 @@
+note_id,visit_date,region,channel,note
+N00001,2025-11-24,South,Distributor,Customer returned a 25 L water heater: heating element failure.
+N00002,2025-04-18,North,E-commerce,"Distributor in Lucknow complains part orders arrived, balance of 256 units still pending after 6 days. Says footfall is good this month."
+N00003,2025-11-17,East,Distributor,Dealers comparing our trade discount with other brands; wants 19% more.
+N00004,2025-08-15,East,Distributor,Stabiliser enquiries up after voltage fluctuations in the area. Also mentioned competitor prices are lower.
+N00005,2025-04-19,South,Distributor,Retailer in Kochi asking for 10% additional discount to clear stock before season end.
+N00006,2026-01-27,East,Modern retail,Lost an order for 296 premium fans to a cheaper competitor BLDC model.
+N00007,2025-06-01,West,Distributor,Lost an order for 98 premium fans to a cheaper competitor BLDC model.
+N00008,2026-02-14,West,Distributor,Stabiliser enquiries up after voltage fluctuations in the area.
+N00009,2025-12-10,North,E-commerce,Lost an order for 210 ceiling fans to a cheaper competitor BLDC model.
+N00010,2025-08-17,South,Distributor,"Store manager in Kochi complains part orders arrived, balance of 238 units still pending after 14 days."
+N00011,2025-12-12,South,E-commerce,Payment delayed by modern retail chain; awaiting their 29-day cycle.
+N00012,2025-06-03,South,Distributor,Payment delayed by modern retail chain; awaiting their 7-day cycle.
+N00013,2025-08-16,West,Modern retail,9 water heater units returned with thermostat issues this month.
+N00014,2025-09-26,East,Distributor,Payment delayed by modern retail chain; awaiting their 17-day cycle.
+N00015,2026-01-09,East,Distributor,Store manager in Patna asking for 13% additional discount to clear stock before season end.
+N00016,2026-02-01,North,Distributor,Customer returned a 15 L water heater: heating element failure.
+N00017,2026-02-12,South,Distributor,Store manager in Hyderabad wants new display stands for the Fan range.
+N00018,2025-12-03,East,Distributor,Payment delayed by modern retail chain; awaiting their 10-day cycle. Also wants a better scheme.
+N00019,2026-02-08,North,Distributor,Retailer in Noida wants new display stands for the Water heater range.
+N00020,2026-03-16,North,E-commerce,Customer returned a 15 L water heater: heating element failure.
+N00021,2025-04-12,South,Distributor,Retailer in Chennai says a competitor BLDC fan is selling about 6% cheaper than our premium range.
+N00022,2026-02-26,North,Institutional,5 water heater units returned with thermostat issues this month.
+N00023,2025-07-21,North,Distributor,"Service calls up for the 25 L model, 6 complaints in two weeks. Asked again for posters and a display stand."
+N00024,2026-01-06,South,Distributor,Retailer in Hyderabad wants new display stands for the Wire range.
+N00025,2026-01-13,West,Modern retail,2 water heater units returned with thermostat issues this month. Also wants a better scheme.
+N00026,2025-10-20,North,Distributor,3 water heater units returned with thermostat issues this month.
+N00027,2025-06-03,East,Institutional,Short supply of 35 L water heaters at the warehouse this week.
+N00028,2025-09-01,South,Distributor,Dealer in Kochi asking for 14% additional discount to clear stock before season end. Says footfall is good this month.
+N00029,2025-09-11,West,Distributor,Water heater orders delivered 5 days late; Retailer in Pune had to turn customers away.
+N00030,2025-10-15,North,E-commerce,6 water heater units returned with thermostat issues this month.
+N00031,2026-03-24,North,Distributor,Distributor in Chandigarh asking for 5% additional discount to clear stock before season end.
+N00032,2025-11-12,South,Distributor,Our products not visible in the store; competitor has the front shelf.
+N00033,2025-04-22,North,Distributor,Stabiliser demand strong this month; Shop owner in Chandigarh expects to reorder soon.
+N00034,2026-01-03,South,Modern retail,Distributor in Bengaluru asking for 18% additional discount to clear stock before season end.
+N00035,2025-12-20,South,E-commerce,Water heater orders delivered 27 days late; Distributor in Kochi had to turn customers away.
+N00036,2025-11-18,South,Distributor,Customer returned a 15 L water heater: heating element failure.
+N00037,2025-07-19,West,Distributor,Distributor in Mumbai says a competitor BLDC fan is selling about 13% cheaper than our ceiling range.
+N00038,2025-09-18,South,Institutional,Wire demand steady from 4 ongoing housing projects nearby. Also said the last delivery came late.
+N00039,2025-06-10,West,Distributor,Payment delayed by modern retail chain; awaiting their 27-day cycle.
+N00040,2025-08-17,South,Distributor,Wire demand steady from 8 ongoing housing projects nearby.
+N00041,2025-10-01,East,Distributor,Scheme discount requested again for a bulk order of 168 wire coils.
+N00042,2026-02-01,South,Modern retail,"Distributor in Kochi complains part orders arrived, balance of 159 units still pending after 30 days."
+N00043,2025-09-11,North,E-commerce,Our products not visible in the store; competitor has the front shelf.
+N00044,2026-03-18,East,Institutional,Scheme discount requested again for a bulk order of 79 wire coils. Also said the last delivery came late.
+N00045,2025-08-10,East,Modern retail,Water heater orders delivered 16 days late; Distributor in Ranchi had to turn customers away.
+N00046,2026-02-01,North,Distributor,6 water heater units returned with thermostat issues this month.
+N00047,2025-11-07,West,Distributor,"Store manager in Mumbai complains part orders arrived, balance of 317 units still pending after 9 days."
+N00048,2025-07-27,East,Modern retail,Stabiliser enquiries up after voltage fluctuations in the area.
+N00049,2025-06-03,North,Institutional,Stabiliser enquiries up after voltage fluctuations in the area. Also said the last delivery came late.
+N00050,2025-05-01,East,Modern retail,"Dealer in Ranchi complains part orders arrived, balance of 200 units still pending after 30 days. One customer complaint about a faulty unit too."
+N00051,2025-07-03,North,Modern retail,Dealers comparing our trade discount with other brands; wants 18% more.
+N00052,2025-06-23,North,Distributor,Distributor in Chandigarh asking for 12 more days of credit.
+N00053,2026-01-08,North,Distributor,Payment delayed by modern retail chain; awaiting their 30-day cycle. Asked again for posters and a display stand.
+N00054,2025-06-11,North,Institutional,Water heater orders delivered 26 days late; Dealer in Chandigarh had to turn customers away.
+N00055,2025-10-12,East,Distributor,Short supply of 15 L water heaters at the warehouse this week.
+N00056,2025-09-13,South,Distributor,Water heater demand strong this month; Distributor in Chennai expects to reorder soon.
+N00057,2026-03-04,East,Modern retail,Store manager in Kolkata asking for 15% additional discount to clear stock before season end.
+N00058,2026-03-25,South,Distributor,Customers asking for BLDC fans; competitor scheme gives 11% extra margin to dealers.
+N00059,2025-10-10,East,Distributor,Customers asking for BLDC fans; competitor scheme gives 18% extra margin to dealers.
+N00060,2025-07-10,West,Institutional,Dealer in Indore asking for 15% additional discount to clear stock before season end.
+N00061,2025-05-21,South,Distributor,Dealers comparing our trade discount with other brands; wants 9% more.
+N00062,2025-05-09,West,Distributor,Store manager in Surat wants new display stands for the Fan range. Also said the last delivery came late.
+N00063,2025-07-11,East,Distributor,Customers asking for BLDC fans; competitor scheme gives 6% extra margin to dealers.
+N00064,2025-11-25,East,Distributor,Scheme discount requested again for a bulk order of 186 wire coils.
+N00065,2025-09-06,South,Distributor,Shop owner in Bengaluru says a competitor BLDC fan is selling about 20% cheaper than our mid-range range.
+N00066,2025-08-23,North,Institutional,Short supply of 35 L water heaters at the warehouse this week.
+N00067,2025-07-18,East,Institutional,"Distributor in Patna complains part orders arrived, balance of 277 units still pending after 5 days."
+N00068,2026-03-04,East,Distributor,Retailer in Ranchi wants new display stands for the Stabiliser range.
+N00069,2025-11-08,East,Distributor,"Retailer in Patna complains part orders arrived, balance of 257 units still pending after 23 days. Also mentioned competitor prices are lower."
+N00070,2026-03-16,West,Distributor,Our products not visible in the store; competitor has the front shelf.
+N00071,2026-02-13,East,Modern retail,8 water heater units returned with thermostat issues this month.
+N00072,2026-02-20,South,Modern retail,"Service calls up for the 15 L model, 9 complaints in two weeks."
+N00073,2025-09-19,South,Institutional,Dealer in Hyderabad asking for 24 more days of credit. Also said the last delivery came late.
+N00074,2025-04-23,West,Distributor,Wire demand steady from 7 ongoing housing projects nearby.
+N00075,2026-01-19,South,Modern retail,Dealer in Bengaluru wants new display stands for the Stabiliser range.
+N00076,2025-09-04,East,Distributor,Dealers comparing our trade discount with other brands; wants 10% more.
+N00077,2025-09-17,East,Distributor,Payment delayed by modern retail chain; awaiting their 21-day cycle.
+N00078,2025-11-22,West,Distributor,"Dealer in Pune complains part orders arrived, balance of 85 units still pending after 8 days."
+N00079,2025-04-11,North,Modern retail,Wire demand strong this month; Distributor in Lucknow expects to reorder soon. Asked again for posters and a display stand.
+N00080,2025-09-07,West,Modern retail,Distributor in Mumbai says a competitor BLDC fan is selling about 5% cheaper than our ceiling range.
+N00081,2025-06-17,West,Modern retail,Payment delayed by modern retail chain; awaiting their 4-day cycle.
+N00082,2025-05-09,North,Distributor,Store manager in Noida wants new display stands for the Water heater range.
+N00083,2025-12-13,North,Distributor,Customers asking for BLDC fans; competitor scheme gives 6% extra margin to dealers.
+N00084,2025-06-09,South,Distributor,Dealer in Hyderabad asking for 12% additional discount to clear stock before season end.
+N00085,2026-03-22,South,Distributor,Customer returned a 35 L water heater: heating element failure.
+N00086,2025-04-08,East,Distributor,10 water heater units returned with thermostat issues this month.
+N00087,2026-01-16,East,Distributor,Store manager in Ranchi says a competitor BLDC fan is selling about 14% cheaper than our ceiling range. Also wants longer credit.
+N00088,2026-02-05,South,Distributor,Our products not visible in the store; competitor has the front shelf.
+N00089,2026-02-03,North,Distributor,Store manager in Jaipur wants new display stands for the Water heater range.
+N00090,2025-07-06,West,Modern retail,Our products not visible in the store; competitor has the front shelf. Also mentioned competitor prices are lower.
+N00091,2025-04-10,North,Distributor,"Retailer in Jaipur complains part orders arrived, balance of 116 units still pending after 22 days."
+N00092,2026-02-04,North,Institutional,Distributor in Chandigarh wants new display stands for the Wire range.
+N00093,2025-07-18,West,Distributor,Wire demand steady from 2 ongoing housing projects nearby.
+N00094,2025-12-04,North,Distributor,Retailer in Chandigarh says a competitor BLDC fan is selling about 11% cheaper than our ceiling range.
+N00095,2025-04-15,South,Modern retail,Scheme discount requested again for a bulk order of 348 wire coils.
+N00096,2025-07-09,North,Distributor,Distributor in Lucknow says a competitor BLDC fan is selling about 20% cheaper than our mid-range range.
+N00097,2025-12-19,West,Distributor,Water heater orders delivered 26 days late; Store manager in Surat had to turn customers away. Also wants a better scheme.
+N00098,2025-04-14,North,Institutional,Distributor in Delhi asking for 16 more days of credit.
+N00099,2025-08-05,East,Institutional,Scheme discount requested again for a bulk order of 129 wire coils.
+N00100,2025-09-21,North,Distributor,Water heater orders delivered 27 days late; Store manager in Chandigarh had to turn customers away.
+N00101,2025-11-22,East,Distributor,Dealer in Bhubaneswar asking for 12% additional discount to clear stock before season end. Also wants longer credit.
+N00102,2026-03-24,South,Modern retail,Shop owner in Bengaluru asking for 18% additional discount to clear stock before season end.
+N00103,2025-09-02,West,Institutional,Shop owner in Surat wants new display stands for the Fan range.
+N00104,2026-01-06,South,Distributor,Retailer in Chennai says a competitor BLDC fan is selling about 5% cheaper than our premium range.
+N00105,2025-11-08,East,Distributor,Payment delayed by modern retail chain; awaiting their 11-day cycle.
+N00106,2025-11-09,South,Distributor,Retailer in Chennai wants new display stands for the Stabiliser range.
+N00107,2025-07-27,South,Institutional,Our products not visible in the store; competitor has the front shelf.
+N00108,2026-03-27,North,Institutional,Customer returned a 35 L water heater: heating element failure.
+N00109,2025-07-08,North,Modern retail,Customer returned a 35 L water heater: heating element failure.
+N00110,2025-10-03,East,Distributor,Customers asking for BLDC fans; competitor scheme gives 9% extra margin to dealers. Also wants a better scheme.
+N00111,2025-08-05,East,Institutional,Wire demand steady from 10 ongoing housing projects nearby.
+N00112,2025-08-01,South,Distributor,10 water heater units returned with thermostat issues this month.
+N00113,2025-09-18,South,Modern retail,"Service calls up for the 15 L model, 4 complaints in two weeks."
+N00114,2025-10-12,North,Distributor,Short supply of 35 L water heaters at the warehouse this week. Also wants a better scheme.
+N00115,2025-11-16,South,Distributor,10 water heater units returned with thermostat issues this month.
+N00116,2025-11-23,West,Institutional,Lost an order for 317 ceiling fans to a cheaper competitor BLDC model.
+N00117,2025-12-19,North,Distributor,Lost an order for 317 ceiling fans to a cheaper competitor BLDC model.
+N00118,2025-08-06,South,Distributor,Payment delayed by modern retail chain; awaiting their 11-day cycle.
+N00119,2025-07-21,East,Modern retail,Customers asking for BLDC fans; competitor scheme gives 12% extra margin to dealers.
+N00120,2025-06-11,North,Modern retail,Dealers comparing our trade discount with other brands; wants 18% more.
+N00121,2025-07-19,North,Distributor,"Service calls up for the 35 L model, 5 complaints in two weeks. Says footfall is good this month."
+N00122,2025-05-02,East,Distributor,Customer returned a 25 L water heater: heating element failure.
+N00123,2025-11-09,North,Modern retail,Payment delayed by modern retail chain; awaiting their 30-day cycle.
+N00124,2026-02-03,West,Institutional,Stabiliser enquiries up after voltage fluctuations in the area.
+N00125,2026-03-04,North,Distributor,Lost an order for 308 premium fans to a cheaper competitor BLDC model.
+N00126,2025-04-11,North,Modern retail,Scheme discount requested again for a bulk order of 190 wire coils.
+N00127,2025-07-23,North,Institutional,Scheme discount requested again for a bulk order of 331 wire coils.
+N00128,2025-11-04,West,Distributor,Distributor in Pune asking for 5 more days of credit.
+N00129,2025-12-08,West,Institutional,Customers asking for BLDC fans; competitor scheme gives 19% extra margin to dealers.
+N00130,2025-08-17,North,Institutional,Store manager in Noida asking for 15 more days of credit.
+N00131,2025-11-25,North,Distributor,Water heater orders delivered 21 days late; Retailer in Noida had to turn customers away.
+N00132,2025-07-10,South,Distributor,Scheme discount requested again for a bulk order of 59 wire coils.
+N00133,2025-12-27,East,Distributor,Payment delayed by modern retail chain; awaiting their 20-day cycle.
+N00134,2025-08-25,North,Distributor,7 water heater units returned with thermostat issues this month.
+N00135,2025-06-23,East,Distributor,Stabiliser enquiries up after voltage fluctuations in the area.
+N00136,2026-01-03,North,Distributor,"Dealer in Lucknow complains part orders arrived, balance of 67 units still pending after 24 days."
+N00137,2026-02-12,North,Distributor,Stabiliser demand strong this month; Store manager in Noida expects to reorder soon.
+N00138,2025-08-02,West,Distributor,7 water heater units returned with thermostat issues this month.
+N00139,2026-03-27,East,Modern retail,Dealer in Ranchi wants new display stands for the Wire range.
+N00140,2025-10-17,East,Distributor,Customers asking for BLDC fans; competitor scheme gives 5% extra margin to dealers.
+N00141,2025-04-22,East,Modern retail,Lost an order for 274 mid-range fans to a cheaper competitor BLDC model.
+N00142,2025-06-25,East,Distributor,Stabiliser enquiries up after voltage fluctuations in the area.
+N00143,2025-05-26,North,Distributor,Stabiliser enquiries up after voltage fluctuations in the area.
+N00144,2025-11-14,East,Modern retail,"Distributor in Ranchi complains part orders arrived, balance of 239 units still pending after 12 days."
+N00145,2025-07-07,South,Modern retail,Customers asking for BLDC fans; competitor scheme gives 12% extra margin to dealers.
+N00146,2025-06-14,North,Distributor,Dealer in Delhi wants new display stands for the Stabiliser range.
+N00147,2026-03-27,North,E-commerce,"Service calls up for the 25 L model, 8 complaints in two weeks."
+N00148,2025-08-16,South,Distributor,Short supply of 15 L water heaters at the warehouse this week.
+N00149,2025-07-13,South,Distributor,Wire demand steady from 10 ongoing housing projects nearby. Also mentioned competitor prices are lower.
+N00150,2026-01-23,East,Distributor,5 water heater units returned with thermostat issues this month.
+N00151,2026-01-07,South,Institutional,Customers asking for BLDC fans; competitor scheme gives 11% extra margin to dealers.
+N00152,2026-03-03,South,Modern retail,Wire demand steady from 3 ongoing housing projects nearby. Also wants a better scheme.
+N00153,2025-09-15,East,E-commerce,Lost an order for 67 ceiling fans to a cheaper competitor BLDC model.
+N00154,2025-05-21,South,Modern retail,Customers asking for BLDC fans; competitor scheme gives 5% extra margin to dealers.
+N00155,2025-06-21,North,Institutional,Dealers comparing our trade discount with other brands; wants 15% more.
+N00156,2025-10-16,East,Distributor,Scheme discount requested again for a bulk order of 64 wire coils.
+N00157,2026-01-23,North,Distributor,"Service calls up for the 25 L model, 4 complaints in two weeks."
+N00158,2025-10-12,West,Distributor,Shop owner in Indore wants new display stands for the Water heater range. One customer complaint about a faulty unit too.
+N00159,2025-07-14,East,Modern retail,Payment delayed by modern retail chain; awaiting their 13-day cycle.
+N00160,2025-11-08,West,Distributor,"Service calls up for the 15 L model, 6 complaints in two weeks."
+N00161,2025-10-23,East,Modern retail,Dealers comparing our trade discount with other brands; wants 10% more.
+N00162,2025-09-03,North,Distributor,"Service calls up for the 35 L model, 8 complaints in two weeks."
+N00163,2025-08-21,South,Institutional,Dealer in Kochi asking for 5 more days of credit.
+N00164,2025-05-26,North,Institutional,Water heater demand strong this month; Distributor in Lucknow expects to reorder soon.
+N00165,2025-04-25,South,Distributor,Distributor in Kochi says a competitor BLDC fan is selling about 20% cheaper than our premium range.
+N00166,2025-12-20,West,Distributor,"Service calls up for the 15 L model, 4 complaints in two weeks."
+N00167,2025-11-24,North,Institutional,"Shop owner in Lucknow complains part orders arrived, balance of 323 units still pending after 10 days."
+N00168,2025-10-20,West,Modern retail,Retailer in Ahmedabad asking for 14 more days of credit.
+N00169,2026-01-17,North,Distributor,Our products not visible in the store; competitor has the front shelf.
+N00170,2025-04-19,North,Distributor,Customers asking for BLDC fans; competitor scheme gives 17% extra margin to dealers.
+N00171,2025-04-07,West,Distributor,Water heater demand strong this month; Distributor in Mumbai expects to reorder soon.
+N00172,2025-06-05,West,Distributor,Retailer in Mumbai asking for 5% additional discount to clear stock before season end.
+N00173,2026-02-27,East,Distributor,Water heater orders delivered 28 days late; Distributor in Ranchi had to turn customers away. Also wants longer credit.
+N00174,2026-02-09,South,Distributor,Customer returned a 25 L water heater: heating element failure.
+N00175,2025-09-12,South,Distributor,Customer returned a 15 L water heater: heating element failure.
+N00176,2025-08-26,North,Distributor,Payment delayed by modern retail chain; awaiting their 17-day cycle. Also mentioned competitor prices are lower.
+N00177,2025-11-16,South,E-commerce,Payment delayed by modern retail chain; awaiting their 11-day cycle.
+N00178,2026-03-24,East,Institutional,Wire demand steady from 8 ongoing housing projects nearby.
+N00179,2025-07-04,West,Modern retail,Customers asking for BLDC fans; competitor scheme gives 16% extra margin to dealers.
+N00180,2025-11-10,North,Distributor,Our products not visible in the store; competitor has the front shelf. Also wants a better scheme.
+N00181,2025-06-18,South,Distributor,Our products not visible in the store; competitor has the front shelf.
+N00182,2026-03-02,South,Modern retail,Dealers comparing our trade discount with other brands; wants 11% more.
+N00183,2026-01-08,South,Modern retail,Payment delayed by modern retail chain; awaiting their 15-day cycle.
+N00184,2026-03-13,South,Distributor,Scheme discount requested again for a bulk order of 105 wire coils. One customer complaint about a faulty unit too.
+N00185,2026-02-06,East,E-commerce,"Retailer in Ranchi complains part orders arrived, balance of 152 units still pending after 17 days."
+N00186,2025-10-24,West,Distributor,Dealers comparing our trade discount with other brands; wants 8% more.
+N00187,2025-09-23,South,Modern retail,Payment delayed by modern retail chain; awaiting their 24-day cycle.
+N00188,2026-03-13,North,Institutional,Lost an order for 265 mid-range fans to a cheaper competitor BLDC model.
+N00189,2026-01-15,West,Distributor,Scheme discount requested again for a bulk order of 266 wire coils.
+N00190,2026-03-21,East,Distributor,Payment delayed by modern retail chain; awaiting their 20-day cycle.
+N00191,2026-01-25,South,Institutional,Customer returned a 25 L water heater: heating element failure. Also wants longer credit.
+N00192,2026-03-02,East,Modern retail,"Distributor in Patna complains part orders arrived, balance of 213 units still pending after 20 days."
+N00193,2026-02-21,South,Institutional,Wire demand steady from 6 ongoing housing projects nearby.
+N00194,2025-06-08,East,Distributor,Shop owner in Patna asking for 13 more days of credit.
+N00195,2025-08-24,South,Institutional,Dealers comparing our trade discount with other brands; wants 10% more.
+N00196,2025-07-02,East,Distributor,Stabiliser enquiries up after voltage fluctuations in the area.
+N00197,2025-11-08,North,Modern retail,Retailer in Lucknow asking for 10 more days of credit.
+N00198,2026-01-14,North,Institutional,"Service calls up for the 25 L model, 4 complaints in two weeks."
+N00199,2025-09-07,West,Distributor,Customers asking for BLDC fans; competitor scheme gives 15% extra margin to dealers.
+N00200,2025-12-08,North,Modern retail,Customers asking for BLDC fans; competitor scheme gives 17% extra margin to dealers.
+N00201,2025-04-10,North,Distributor,Shop owner in Noida asking for 18% additional discount to clear stock before season end. Says footfall is good this month.
+N00202,2025-04-17,South,Modern retail,Retailer in Bengaluru asking for 11% additional discount to clear stock before season end.
+N00203,2025-06-10,North,Distributor,Our products not visible in the store; competitor has the front shelf.
+N00204,2025-06-01,West,Distributor,Lost an order for 52 ceiling fans to a cheaper competitor BLDC model.
+N00205,2025-08-22,West,Distributor,Payment delayed by modern retail chain; awaiting their 30-day cycle.
+N00206,2025-10-06,East,Distributor,"Retailer in Bhubaneswar complains part orders arrived, balance of 252 units still pending after 9 days."
+N00207,2025-04-05,North,Distributor,Payment delayed by modern retail chain; awaiting their 29-day cycle.
+N00208,2025-11-19,South,Distributor,Store manager in Chennai wants new display stands for the Wire range.
+N00209,2025-09-20,West,Distributor,Retailer in Mumbai wants new display stands for the Wire range.
+N00210,2025-11-12,East,Modern retail,Dealers comparing our trade discount with other brands; wants 6% more.
+N00211,2025-06-22,West,Distributor,Our products not visible in the store; competitor has the front shelf.
+N00212,2025-04-20,North,Institutional,Lost an order for 348 premium fans to a cheaper competitor BLDC model.
+N00213,2025-05-10,West,Modern retail,Our products not visible in the store; competitor has the front shelf.
+N00214,2026-03-25,West,Distributor,Stabiliser enquiries up after voltage fluctuations in the area.
+N00215,2026-02-13,West,Distributor,Customer returned a 35 L water heater: heating element failure.
+N00216,2026-03-14,East,Distributor,Water heater orders delivered 9 days late; Dealer in Patna had to turn customers away.
+N00217,2025-09-23,North,Distributor,Stabiliser enquiries up after voltage fluctuations in the area.
+N00218,2025-06-10,South,Distributor,Store manager in Kochi wants new display stands for the Water heater range.
+N00219,2025-11-10,West,Institutional,Scheme discount requested again for a bulk order of 346 wire coils.
+N00220,2026-02-22,East,Distributor,"Service calls up for the 25 L model, 6 complaints in two weeks."
+N00221,2025-06-07,West,E-commerce,Retailer in Ahmedabad asking for 26 more days of credit.
+N00222,2025-10-02,West,Modern retail,Dealer in Indore says a competitor BLDC fan is selling about 16% cheaper than our premium range.
+N00223,2025-11-01,South,Distributor,Short supply of 15 L water heaters at the warehouse this week.
+N00224,2025-11-27,North,Institutional,Customers asking for BLDC fans; competitor scheme gives 8% extra margin to dealers.
+N00225,2025-06-18,West,Distributor,Stabiliser enquiries up after voltage fluctuations in the area.
+N00226,2026-02-05,West,Distributor,"Service calls up for the 25 L model, 3 complaints in two weeks."
+N00227,2026-02-11,North,Distributor,Dealer in Chandigarh wants new display stands for the Wire range.
+N00228,2025-10-27,North,Modern retail,Customer returned a 25 L water heater: heating element failure.
+N00229,2025-12-11,East,Distributor,Shop owner in Kolkata asking for 18% additional discount to clear stock before season end.
+N00230,2025-08-12,South,Modern retail,Retailer in Hyderabad says a competitor BLDC fan is selling about 7% cheaper than our mid-range range.
+N00231,2025-05-27,South,Distributor,Dealer in Bengaluru wants new display stands for the Wire range.
+N00232,2025-10-15,North,Modern retail,Our products not visible in the store; competitor has the front shelf.
+N00233,2025-10-15,East,Distributor,Retailer in Ranchi asking for 17 more days of credit.
+N00234,2026-01-19,West,Distributor,"Retailer in Ahmedabad complains part orders arrived, balance of 103 units still pending after 19 days."
+N00235,2025-06-23,East,Distributor,6 water heater units returned with thermostat issues this month.
+N00236,2025-11-16,West,Distributor,10 water heater units returned with thermostat issues this month.
+N00237,2025-12-26,South,Modern retail,"Distributor in Bengaluru complains part orders arrived, balance of 131 units still pending after 3 days."
+N00238,2025-05-19,West,Distributor,Wire demand steady from 9 ongoing housing projects nearby.
+N00239,2025-04-25,North,Distributor,Scheme discount requested again for a bulk order of 237 wire coils. Also said the last delivery came late.
+N00240,2025-05-24,North,Institutional,"Service calls up for the 25 L model, 11 complaints in two weeks."
+N00241,2026-02-11,West,Distributor,Customers asking for BLDC fans; competitor scheme gives 9% extra margin to dealers.
+N00242,2026-03-20,North,Modern retail,Dealers comparing our trade discount with other brands; wants 19% more.
+N00243,2025-06-04,North,Institutional,Short supply of 25 L water heaters at the warehouse this week.
+N00244,2026-01-02,West,Distributor,2 water heater units returned with thermostat issues this month.
+N00245,2025-10-15,South,Distributor,Customers asking for BLDC fans; competitor scheme gives 8% extra margin to dealers.
+N00246,2025-08-12,West,Distributor,Retailer in Surat wants new display stands for the Fan range.
+N00247,2025-07-10,South,Modern retail,Water heater orders delivered 18 days late; Store manager in Hyderabad had to turn customers away.
+N00248,2026-01-17,South,Distributor,Payment delayed by modern retail chain; awaiting their 19-day cycle.
+N00249,2026-03-25,South,Distributor,"Store manager in Hyderabad complains part orders arrived, balance of 279 units still pending after 29 days. Says footfall is good this month."
+N00250,2025-10-11,East,Distributor,Retailer in Kolkata wants new display stands for the Water heater range.
+N00251,2025-04-18,South,Modern retail,Stabiliser enquiries up after voltage fluctuations in the area.
+N00252,2026-02-24,South,Distributor,"Service calls up for the 35 L model, 8 complaints in two weeks."
+N00253,2025-10-19,East,Distributor,Our products not visible in the store; competitor has the front shelf.
+N00254,2025-08-23,South,Distributor,Distributor in Hyderabad says a competitor BLDC fan is selling about 17% cheaper than our ceiling range.
+N00255,2025-07-06,East,Distributor,"Retailer in Kolkata complains part orders arrived, balance of 303 units still pending after 25 days."
+N00256,2025-12-21,East,Distributor,Dealer in Ranchi asking for 8% additional discount to clear stock before season end.
+N00257,2025-09-21,North,Distributor,8 water heater units returned with thermostat issues this month. Also wants longer credit.
+N00258,2026-03-19,West,Institutional,Distributor in Pune says a competitor BLDC fan is selling about 17% cheaper than our mid-range range.
+N00259,2025-05-23,North,Institutional,Short supply of 25 L water heaters at the warehouse this week.
+N00260,2026-01-19,East,Distributor,Retailer in Bhubaneswar asking for 24 more days of credit.
+N00261,2025-09-25,West,Distributor,Customers asking for BLDC fans; competitor scheme gives 16% extra margin to dealers.
+N00262,2025-06-26,North,Modern retail,Payment delayed by modern retail chain; awaiting their 6-day cycle.
+N00263,2026-03-11,East,E-commerce,Shop owner in Ranchi asking for 13% additional discount to clear stock before season end. Also mentioned competitor prices are lower.
+N00264,2025-10-05,South,Modern retail,"Service calls up for the 25 L model, 6 complaints in two weeks."
+N00265,2025-11-09,North,Distributor,"Store manager in Chandigarh complains part orders arrived, balance of 188 units still pending after 24 days."
+N00266,2026-03-03,West,Distributor,Lost an order for 149 mid-range fans to a cheaper competitor BLDC model. Says footfall is good this month.
+N00267,2026-02-15,South,Modern retail,Customer returned a 35 L water heater: heating element failure.
+N00268,2026-01-24,West,Distributor,Retailer in Surat wants new display stands for the Stabiliser range.
+N00269,2025-08-14,North,Distributor,Shop owner in Delhi says a competitor BLDC fan is selling about 6% cheaper than our mid-range range.
+N00270,2026-01-17,East,Distributor,Customer returned a 35 L water heater: heating element failure.
+N00271,2025-12-14,West,Distributor,Lost an order for 226 ceiling fans to a cheaper competitor BLDC model.
+N00272,2025-05-08,East,Distributor,Shop owner in Bhubaneswar asking for 20 more days of credit.
+N00273,2025-07-08,North,Distributor,Our products not visible in the store; competitor has the front shelf. Also mentioned competitor prices are lower.
+N00274,2025-04-20,North,Distributor,Customer returned a 25 L water heater: heating element failure. Also said the last delivery came late.
+N00275,2026-02-15,North,Distributor,7 water heater units returned with thermostat issues this month.
+N00276,2026-01-14,South,Distributor,Scheme discount requested again for a bulk order of 158 wire coils.
+N00277,2026-02-09,South,Distributor,Payment delayed by modern retail chain; awaiting their 8-day cycle.
+N00278,2025-08-12,West,Institutional,Lost an order for 251 premium fans to a cheaper competitor BLDC model.
+N00279,2025-05-12,North,Distributor,Store manager in Chandigarh says a competitor BLDC fan is selling about 8% cheaper than our mid-range range.
+N00280,2026-03-05,East,Distributor,Customer returned a 15 L water heater: heating element failure.
+N00281,2026-01-03,North,Distributor,7 water heater units returned with thermostat issues this month.
+N00282,2025-05-12,West,Institutional,Lost an order for 142 ceiling fans to a cheaper competitor BLDC model. Says footfall is good this month.
+N00283,2025-11-26,North,Institutional,"Service calls up for the 35 L model, 6 complaints in two weeks."
+N00284,2025-10-19,South,Distributor,Scheme discount requested again for a bulk order of 113 wire coils.
+N00285,2025-09-08,South,Modern retail,Our products not visible in the store; competitor has the front shelf.
+N00286,2025-11-04,West,Distributor,Customers asking for BLDC fans; competitor scheme gives 10% extra margin to dealers.
+N00287,2026-03-01,North,Distributor,Stabiliser enquiries up after voltage fluctuations in the area.
+N00288,2025-08-17,East,Distributor,Retailer in Patna wants new display stands for the Stabiliser range.
+N00289,2025-05-21,West,Distributor,Lost an order for 219 mid-range fans to a cheaper competitor BLDC model.
+N00290,2026-03-18,North,Modern retail,Stabiliser enquiries up after voltage fluctuations in the area.
+N00291,2025-12-07,West,Distributor,4 water heater units returned with thermostat issues this month.
+N00292,2025-11-17,North,E-commerce,Payment delayed by modern retail chain; awaiting their 18-day cycle.
+N00293,2025-10-10,South,Distributor,Dealers comparing our trade discount with other brands; wants 19% more.
+N00294,2025-08-26,South,Distributor,Short supply of 25 L water heaters at the warehouse this week.
+N00295,2025-04-23,South,Distributor,"Shop owner in Hyderabad complains part orders arrived, balance of 155 units still pending after 28 days."
+N00296,2025-07-15,West,Distributor,Payment delayed by modern retail chain; awaiting their 12-day cycle.
+N00297,2025-04-25,North,Distributor,Lost an order for 357 premium fans to a cheaper competitor BLDC model.
+N00298,2025-05-04,North,Distributor,Distributor in Noida asking for 17 more days of credit. One customer complaint about a faulty unit too.
+N00299,2026-01-19,South,Modern retail,Customers asking for BLDC fans; competitor scheme gives 11% extra margin to dealers.
+N00300,2025-06-19,West,Modern retail,Dealer in Indore asking for 16% additional discount to clear stock before season end.
+N00301,2025-04-22,West,Distributor,Stabiliser demand strong this month; Store manager in Indore expects to reorder soon. One customer complaint about a faulty unit too.
+N00302,2026-02-05,East,Modern retail,10 water heater units returned with thermostat issues this month.
+N00303,2026-02-14,East,Distributor,Payment delayed by modern retail chain; awaiting their 23-day cycle.
+N00304,2025-10-22,North,Distributor,Customer returned a 15 L water heater: heating element failure.
+N00305,2025-08-24,West,Distributor,Short supply of 15 L water heaters at the warehouse this week.
+N00306,2026-03-03,East,Distributor,Dealers comparing our trade discount with other brands; wants 10% more.
+N00307,2026-01-23,North,Distributor,9 water heater units returned with thermostat issues this month.
+N00308,2025-12-22,West,Modern retail,Payment delayed by modern retail chain; awaiting their 10-day cycle.
+N00309,2025-09-14,South,Distributor,Dealers comparing our trade discount with other brands; wants 13% more.
+N00310,2025-05-18,West,Distributor,Customer returned a 25 L water heater: heating element failure.
+N00311,2025-08-24,East,Institutional,Scheme discount requested again for a bulk order of 219 wire coils.
+N00312,2025-12-15,East,Distributor,Dealer in Ranchi asking for 17% additional discount to clear stock before season end.
+N00313,2025-07-14,West,Distributor,Wire demand steady from 3 ongoing housing projects nearby.
+N00314,2026-03-26,East,Distributor,Retailer in Ranchi wants new display stands for the Water heater range.
+N00315,2026-03-20,East,Distributor,Retailer in Bhubaneswar says a competitor BLDC fan is selling about 7% cheaper than our ceiling range.
+N00316,2025-04-23,West,Institutional,Stabiliser enquiries up after voltage fluctuations in the area.
+N00317,2025-08-14,East,Modern retail,"Retailer in Kolkata complains part orders arrived, balance of 323 units still pending after 19 days."
+N00318,2025-12-16,North,Distributor,"Store manager in Chandigarh complains part orders arrived, balance of 278 units still pending after 6 days."
+N00319,2025-05-05,West,Distributor,Payment delayed by modern retail chain; awaiting their 11-day cycle.
+N00320,2025-11-26,East,Distributor,Scheme discount requested again for a bulk order of 180 wire coils.
+N00321,2025-10-15,North,Distributor,Dealers comparing our trade discount with other brands; wants 16% more.
+N00322,2026-03-19,West,Distributor,Customers asking for BLDC fans; competitor scheme gives 19% extra margin to dealers.
+N00323,2025-08-15,South,Institutional,Our products not visible in the store; competitor has the front shelf.
+N00324,2026-02-16,West,Distributor,"Distributor in Surat complains part orders arrived, balance of 74 units still pending after 15 days."
+N00325,2025-10-18,East,Distributor,Dealers comparing our trade discount with other brands; wants 5% more.
+N00326,2025-09-24,West,Modern retail,Customers asking for BLDC fans; competitor scheme gives 18% extra margin to dealers. Also wants a better scheme.
+N00327,2026-01-12,East,Distributor,Wire demand steady from 2 ongoing housing projects nearby.
+N00328,2025-06-06,North,Modern retail,7 water heater units returned with thermostat issues this month.
+N00329,2025-08-06,South,Institutional,Wire demand strong this month; Distributor in Chennai expects to reorder soon.
+N00330,2025-08-25,East,Institutional,Customer returned a 15 L water heater: heating element failure.
+N00331,2025-11-26,North,Distributor,4 water heater units returned with thermostat issues this month.
+N00332,2026-01-15,South,Modern retail,Payment delayed by modern retail chain; awaiting their 16-day cycle.
+N00333,2025-05-20,West,Distributor,Water heater orders delivered 19 days late; Distributor in Indore had to turn customers away.
+N00334,2025-09-16,South,Institutional,Shop owner in Chennai wants new display stands for the Wire range.
+N00335,2026-01-01,West,Institutional,Short supply of 35 L water heaters at the warehouse this week. Says footfall is good this month.
+N00336,2025-08-02,East,Distributor,Lost an order for 48 mid-range fans to a cheaper competitor BLDC model.
+N00337,2026-03-25,West,Distributor,Customers asking for BLDC fans; competitor scheme gives 15% extra margin to dealers. Also wants a better scheme.
+N00338,2025-06-23,South,Distributor,Stabiliser enquiries up after voltage fluctuations in the area.
+N00339,2025-07-09,East,Institutional,Stabiliser demand strong this month; Shop owner in Ranchi expects to reorder soon.
+N00340,2025-07-04,West,Distributor,Payment delayed by modern retail chain; awaiting their 12-day cycle.
+N00341,2025-09-21,West,Distributor,Customers asking for BLDC fans; competitor scheme gives 17% extra margin to dealers.
+N00342,2026-01-22,West,Distributor,Scheme discount requested again for a bulk order of 399 wire coils.
+N00343,2025-11-09,South,Distributor,Water heater orders delivered 17 days late; Dealer in Chennai had to turn customers away.
+N00344,2025-12-09,North,Distributor,Short supply of 15 L water heaters at the warehouse this week.
+N00345,2025-12-11,North,Modern retail,Our products not visible in the store; competitor has the front shelf.
+N00346,2025-10-23,East,Distributor,Dealer in Bhubaneswar asking for 5% additional discount to clear stock before season end.
+N00347,2026-01-22,West,Distributor,Retailer in Ahmedabad asking for 21 more days of credit.
+N00348,2025-09-07,West,Distributor,Stabiliser demand strong this month; Retailer in Mumbai expects to reorder soon.
+N00349,2025-04-16,West,Distributor,Our products not visible in the store; competitor has the front shelf. Also mentioned competitor prices are lower.
+N00350,2025-10-11,West,Distributor,Lost an order for 81 ceiling fans to a cheaper competitor BLDC model.
+N00351,2025-11-23,West,Distributor,Dealer in Pune says a competitor BLDC fan is selling about 8% cheaper than our ceiling range.
+N00352,2025-05-19,West,Distributor,Shop owner in Mumbai asking for 14% additional discount to clear stock before season end.
+N00353,2025-12-25,East,Modern retail,"Service calls up for the 15 L model, 10 complaints in two weeks."
+N00354,2026-02-23,West,Distributor,Shop owner in Surat wants new display stands for the Wire range.
+N00355,2025-05-08,West,E-commerce,Retailer in Pune asking for 21 more days of credit.
+N00356,2026-01-21,West,Institutional,Shop owner in Surat says a competitor BLDC fan is selling about 16% cheaper than our ceiling range.
+N00357,2025-07-19,West,Modern retail,Store manager in Ahmedabad asking for 4 more days of credit.
+N00358,2025-06-17,South,Distributor,Payment delayed by modern retail chain; awaiting their 11-day cycle.
+N00359,2026-01-18,South,Distributor,Our products not visible in the store; competitor has the front shelf.
+N00360,2025-04-16,North,Distributor,Store manager in Jaipur says a competitor BLDC fan is selling about 15% cheaper than our mid-range range.
+N00361,2025-06-27,East,Distributor,9 water heater units returned with thermostat issues this month.
+N00362,2026-03-06,West,Distributor,Stabiliser enquiries up after voltage fluctuations in the area.
+N00363,2026-01-17,North,Institutional,Stabiliser enquiries up after voltage fluctuations in the area.
+N00364,2025-12-02,East,Distributor,"Dealer in Bhubaneswar complains part orders arrived, balance of 395 units still pending after 11 days."
+N00365,2026-01-02,North,Distributor,Wire demand steady from 8 ongoing housing projects nearby.
+N00366,2025-12-04,West,Modern retail,Lost an order for 236 mid-range fans to a cheaper competitor BLDC model.
+N00367,2026-01-15,North,Distributor,Stabiliser enquiries up after voltage fluctuations in the area. Also wants a better scheme.
+N00368,2025-10-23,East,Distributor,"Service calls up for the 15 L model, 8 complaints in two weeks."
+N00369,2026-02-22,North,Distributor,Payment delayed by modern retail chain; awaiting their 4-day cycle. Also wants a better scheme.
+N00370,2025-07-18,West,Modern retail,"Distributor in Pune complains part orders arrived, balance of 184 units still pending after 24 days."
+N00371,2025-05-22,South,Distributor,Water heater orders delivered 8 days late; Dealer in Hyderabad had to turn customers away.
+N00372,2026-03-04,West,Institutional,Distributor in Indore asking for 27 more days of credit.
+N00373,2025-09-26,North,Modern retail,"Service calls up for the 35 L model, 8 complaints in two weeks."
+N00374,2025-11-02,East,E-commerce,Wire demand strong this month; Dealer in Ranchi expects to reorder soon.
+N00375,2025-09-27,North,Distributor,Wire demand steady from 3 ongoing housing projects nearby.
+N00376,2025-10-03,North,Distributor,"Distributor in Jaipur complains part orders arrived, balance of 135 units still pending after 21 days."
+N00377,2025-12-03,North,Institutional,Dealer in Lucknow wants new display stands for the Fan range.
+N00378,2026-01-14,South,E-commerce,Dealer in Hyderabad wants new display stands for the Wire range.
+N00379,2026-02-25,South,Distributor,Wire demand strong this month; Distributor in Chennai expects to reorder soon.
+N00380,2026-01-07,North,Distributor,"Service calls up for the 15 L model, 6 complaints in two weeks."
+N00381,2025-04-07,West,Distributor,Lost an order for 95 premium fans to a cheaper competitor BLDC model.
+N00382,2025-04-27,South,E-commerce,Wire demand steady from 11 ongoing housing projects nearby.
+N00383,2025-05-11,West,Distributor,Lost an order for 94 mid-range fans to a cheaper competitor BLDC model.
+N00384,2025-11-05,South,Distributor,Customer returned a 25 L water heater: heating element failure. Says footfall is good this month.
+N00385,2026-02-25,West,Institutional,Lost an order for 51 premium fans to a cheaper competitor BLDC model.
+N00386,2026-02-09,East,Distributor,"Service calls up for the 25 L model, 8 complaints in two weeks."
+N00387,2025-12-10,East,Modern retail,Retailer in Ranchi asking for 6% additional discount to clear stock before season end.
+N00388,2025-12-23,North,Modern retail,"Distributor in Delhi complains part orders arrived, balance of 206 units still pending after 17 days."
+N00389,2025-05-14,North,Distributor,Dealers comparing our trade discount with other brands; wants 18% more.
+N00390,2026-01-14,West,Distributor,Customer returned a 25 L water heater: heating element failure.
+N00391,2025-10-15,East,Modern retail,Dealer in Patna asking for 3 more days of credit.
+N00392,2025-09-04,West,Distributor,Payment delayed by modern retail chain; awaiting their 9-day cycle.
+N00393,2025-05-27,West,Distributor,Wire demand steady from 2 ongoing housing projects nearby.
+N00394,2025-07-09,North,Distributor,Shop owner in Jaipur asking for 15% additional discount to clear stock before season end.
+N00395,2025-06-05,North,Distributor,Customer returned a 15 L water heater: heating element failure. Also mentioned competitor prices are lower.
+N00396,2026-01-27,East,Distributor,Shop owner in Patna wants new display stands for the Wire range.
+N00397,2026-01-22,North,Modern retail,Water heater orders delivered 15 days late; Dealer in Chandigarh had to turn customers away.
+N00398,2025-07-11,North,Distributor,Lost an order for 317 mid-range fans to a cheaper competitor BLDC model. One customer complaint about a faulty unit too.
+N00399,2025-04-12,North,Distributor,"Retailer in Noida complains part orders arrived, balance of 341 units still pending after 5 days."
+N00400,2025-07-15,North,Distributor,7 water heater units returned with thermostat issues this month.
+N00401,2025-08-06,North,Distributor,Water heater orders delivered 26 days late; Distributor in Chandigarh had to turn customers away.
+N00402,2026-02-25,West,Distributor,Lost an order for 374 ceiling fans to a cheaper competitor BLDC model.
+N00403,2025-10-22,North,Institutional,Stabiliser enquiries up after voltage fluctuations in the area.
+N00404,2025-10-24,North,Distributor,Our products not visible in the store; competitor has the front shelf.
+N00405,2025-11-22,North,Distributor,Water heater orders delivered 12 days late; Retailer in Noida had to turn customers away.
+N00406,2025-06-12,North,Distributor,Lost an order for 66 ceiling fans to a cheaper competitor BLDC model.
+N00407,2026-03-21,East,Distributor,Our products not visible in the store; competitor has the front shelf.
+N00408,2025-09-07,North,Institutional,Wire demand steady from 11 ongoing housing projects nearby.
+N00409,2025-05-17,West,Distributor,Our products not visible in the store; competitor has the front shelf. Says footfall is good this month.
+N00410,2025-08-10,East,Distributor,"Shop owner in Kolkata complains part orders arrived, balance of 161 units still pending after 17 days."
+N00411,2025-04-27,South,Distributor,Store manager in Chennai asking for 5% additional discount to clear stock before season end.
+N00412,2025-12-17,West,Modern retail,Short supply of 25 L water heaters at the warehouse this week.
+N00413,2026-03-21,North,Distributor,Retailer in Delhi asking for 3 more days of credit.
+N00414,2025-10-09,West,Distributor,Customer returned a 25 L water heater: heating element failure.
+N00415,2025-04-10,South,Distributor,Customer returned a 25 L water heater: heating element failure.
+N00416,2025-04-22,West,Distributor,Payment delayed by modern retail chain; awaiting their 19-day cycle. Also said the last delivery came late.
+N00417,2025-12-10,South,Modern retail,Shop owner in Hyderabad wants new display stands for the Fan range.
+N00418,2025-08-15,East,Distributor,Shop owner in Bhubaneswar asking for 9% additional discount to clear stock before season end.
+N00419,2026-01-22,South,Distributor,Scheme discount requested again for a bulk order of 375 wire coils. Says footfall is good this month.
+N00420,2025-05-18,North,Distributor,Retailer in Jaipur asking for 3 more days of credit.
+N00421,2025-07-12,North,Distributor,Store manager in Chandigarh says a competitor BLDC fan is selling about 18% cheaper than our premium range.
+N00422,2025-10-11,North,Distributor,Payment delayed by modern retail chain; awaiting their 22-day cycle.
+N00423,2025-12-10,West,Distributor,Store manager in Indore asking for 5% additional discount to clear stock before season end.
+N00424,2025-05-26,East,Distributor,Wire demand steady from 11 ongoing housing projects nearby.
+N00425,2025-05-11,South,Modern retail,Lost an order for 253 mid-range fans to a cheaper competitor BLDC model. Says footfall is good this month.
+N00426,2025-04-25,South,Distributor,Wire demand steady from 10 ongoing housing projects nearby. Also said the last delivery came late.
+N00427,2026-01-27,South,Modern retail,10 water heater units returned with thermostat issues this month.
+N00428,2025-07-13,South,Distributor,Short supply of 15 L water heaters at the warehouse this week. Also wants longer credit.
+N00429,2025-09-22,North,E-commerce,Stabiliser enquiries up after voltage fluctuations in the area.
+N00430,2025-04-10,West,Modern retail,"Distributor in Pune complains part orders arrived, balance of 246 units still pending after 24 days."
+N00431,2025-06-06,South,Distributor,2 water heater units returned with thermostat issues this month.
+N00432,2025-04-01,East,Modern retail,Dealers comparing our trade discount with other brands; wants 5% more.
+N00433,2026-02-05,North,Distributor,Our products not visible in the store; competitor has the front shelf.
+N00434,2025-04-14,West,Distributor,Customer returned a 35 L water heater: heating element failure. Asked again for posters and a display stand.
+N00435,2026-02-15,North,Distributor,Shop owner in Chandigarh asking for 23 more days of credit.
+N00436,2026-02-05,South,Distributor,Shop owner in Chennai says a competitor BLDC fan is selling about 19% cheaper than our premium range.
+N00437,2025-05-22,East,Institutional,Payment delayed by modern retail chain; awaiting their 10-day cycle.
+N00438,2026-01-26,West,Distributor,Lost an order for 248 mid-range fans to a cheaper competitor BLDC model. One customer complaint about a faulty unit too.
+N00439,2025-04-09,West,Distributor,Customers asking for BLDC fans; competitor scheme gives 14% extra margin to dealers.
+N00440,2025-10-23,East,E-commerce,Dealers comparing our trade discount with other brands; wants 14% more.
+N00441,2025-12-07,North,Distributor,Short supply of 15 L water heaters at the warehouse this week.
+N00442,2025-10-03,North,Institutional,Stabiliser enquiries up after voltage fluctuations in the area.
+N00443,2025-05-20,East,Distributor,Fan demand strong this month; Distributor in Ranchi expects to reorder soon.
+N00444,2025-07-22,North,Modern retail,Customer returned a 25 L water heater: heating element failure.
+N00445,2025-06-06,West,Institutional,Retailer in Ahmedabad asking for 3 more days of credit.
+N00446,2026-01-11,South,Institutional,Payment delayed by modern retail chain; awaiting their 29-day cycle. One customer complaint about a faulty unit too.
+N00447,2026-03-15,East,Modern retail,Dealers comparing our trade discount with other brands; wants 20% more.
+N00448,2025-12-25,North,Distributor,Short supply of 15 L water heaters at the warehouse this week.
+N00449,2025-04-22,East,Distributor,Dealers comparing our trade discount with other brands; wants 8% more.
+N00450,2025-10-24,West,Distributor,Our products not visible in the store; competitor has the front shelf.
+N00451,2025-06-02,North,Institutional,Store manager in Chandigarh asking for 13% additional discount to clear stock before season end. Also said the last delivery came late.
+N00452,2025-06-25,North,Distributor,Short supply of 25 L water heaters at the warehouse this week.
+N00453,2025-12-23,South,Institutional,Retailer in Kochi says a competitor BLDC fan is selling about 13% cheaper than our premium range.
+N00454,2025-08-04,North,Distributor,Lost an order for 327 ceiling fans to a cheaper competitor BLDC model.
+N00455,2025-06-03,West,Institutional,Customers asking for BLDC fans; competitor scheme gives 6% extra margin to dealers.
+N00456,2025-09-03,West,Distributor,Customers asking for BLDC fans; competitor scheme gives 15% extra margin to dealers.
+N00457,2026-02-17,East,Institutional,Shop owner in Patna says a competitor BLDC fan is selling about 19% cheaper than our ceiling range. Also wants longer credit.
+N00458,2025-12-10,East,Modern retail,Short supply of 25 L water heaters at the warehouse this week.
+N00459,2025-05-02,West,Distributor,Payment delayed by modern retail chain; awaiting their 27-day cycle.
+N00460,2026-03-06,West,Distributor,Shop owner in Pune says a competitor BLDC fan is selling about 12% cheaper than our premium range.
+N00461,2026-03-21,West,E-commerce,Customers asking for BLDC fans; competitor scheme gives 12% extra margin to dealers. One customer complaint about a faulty unit too.
+N00462,2025-07-19,West,Modern retail,Customers asking for BLDC fans; competitor scheme gives 8% extra margin to dealers.
+N00463,2025-04-07,West,Distributor,Customer returned a 15 L water heater: heating element failure.
+N00464,2025-04-11,East,Distributor,Customer returned a 15 L water heater: heating element failure.
+N00465,2026-02-20,North,Distributor,Payment delayed by modern retail chain; awaiting their 12-day cycle. Also said the last delivery came late.
+N00466,2026-02-03,South,Distributor,Stabiliser enquiries up after voltage fluctuations in the area.
+N00467,2025-11-23,West,Distributor,Lost an order for 233 premium fans to a cheaper competitor BLDC model.
+N00468,2025-06-23,North,Modern retail,Dealer in Chandigarh asking for 26 more days of credit.
+N00469,2026-03-24,North,Distributor,Payment delayed by modern retail chain; awaiting their 4-day cycle.
+N00470,2025-05-06,North,Institutional,Water heater orders delivered 22 days late; Distributor in Noida had to turn customers away.
+N00471,2025-08-12,North,Modern retail,Distributor in Noida asking for 5 more days of credit. Asked again for posters and a display stand.
+N00472,2025-07-16,East,Distributor,Payment delayed by modern retail chain; awaiting their 14-day cycle.
+N00473,2026-03-10,South,Distributor,Store manager in Chennai asking for 12% additional discount to clear stock before season end.
+N00474,2025-06-17,North,Distributor,"Distributor in Delhi complains part orders arrived, balance of 357 units still pending after 11 days."
+N00475,2025-12-15,East,Distributor,Dealers comparing our trade discount with other brands; wants 19% more.
+N00476,2025-11-17,West,Distributor,Store manager in Mumbai wants new display stands for the Stabiliser range.
+N00477,2025-08-14,South,Institutional,Lost an order for 240 ceiling fans to a cheaper competitor BLDC model.
+N00478,2025-09-24,North,Distributor,Shop owner in Lucknow asking for 14% additional discount to clear stock before season end.
+N00479,2026-03-10,South,Distributor,Retailer in Chennai wants new display stands for the Wire range.
+N00480,2026-02-02,East,Distributor,Short supply of 35 L water heaters at the warehouse this week.
+N00481,2025-08-08,East,Distributor,Water heater demand strong this month; Retailer in Bhubaneswar expects to reorder soon.
+N00482,2025-12-04,South,Distributor,Water heater orders delivered 6 days late; Retailer in Chennai had to turn customers away.
+N00483,2025-09-18,North,Distributor,Shop owner in Delhi wants new display stands for the Fan range.
+N00484,2025-06-06,South,Modern retail,Water heater orders delivered 20 days late; Retailer in Chennai had to turn customers away.
+N00485,2026-02-11,East,Distributor,Dealers comparing our trade discount with other brands; wants 19% more.
+N00486,2025-12-03,North,Distributor,Dealers comparing our trade discount with other brands; wants 12% more.
+N00487,2025-11-18,East,Distributor,Payment delayed by modern retail chain; awaiting their 10-day cycle.
+N00488,2025-12-17,North,Modern retail,Our products not visible in the store; competitor has the front shelf.
+N00489,2025-09-23,East,Distributor,Our products not visible in the store; competitor has the front shelf.
+N00490,2025-09-02,West,Modern retail,Distributor in Mumbai asking for 6 more days of credit.
+N00491,2025-05-24,East,Institutional,Our products not visible in the store; competitor has the front shelf.
+N00492,2025-09-17,North,Distributor,Retailer in Lucknow asking for 20 more days of credit.
+N00493,2025-06-25,East,Distributor,Our products not visible in the store; competitor has the front shelf. Also wants a better scheme.
+N00494,2025-12-25,West,Distributor,Water heater orders delivered 14 days late; Shop owner in Indore had to turn customers away.
+N00495,2025-12-17,North,Modern retail,Short supply of 25 L water heaters at the warehouse this week.
+N00496,2025-09-19,South,Distributor,Wire demand steady from 6 ongoing housing projects nearby.
+N00497,2025-09-26,East,Modern retail,Distributor in Kolkata asking for 26 more days of credit.
+N00498,2025-07-02,East,Institutional,4 water heater units returned with thermostat issues this month. Also wants longer credit.
+N00499,2025-10-07,North,Modern retail,"Service calls up for the 35 L model, 8 complaints in two weeks."
+N00500,2025-05-14,North,Distributor,Payment delayed by modern retail chain; awaiting their 26-day cycle.
+N00501,2025-10-27,East,Distributor,Dealer in Kolkata asking for 30 more days of credit.
+N00502,2025-12-03,North,Modern retail,Payment delayed by modern retail chain; awaiting their 15-day cycle.
+N00503,2026-03-15,North,Distributor,Our products not visible in the store; competitor has the front shelf.
+N00504,2026-01-12,East,Distributor,Wire demand steady from 10 ongoing housing projects nearby.
+N00505,2025-12-16,East,Distributor,Payment delayed by modern retail chain; awaiting their 10-day cycle.
+N00506,2025-04-26,West,Distributor,Lost an order for 91 premium fans to a cheaper competitor BLDC model.
+N00507,2025-04-13,West,Institutional,Customers asking for BLDC fans; competitor scheme gives 16% extra margin to dealers.
+N00508,2025-06-25,North,Distributor,Retailer in Chandigarh says a competitor BLDC fan is selling about 14% cheaper than our ceiling range.
+N00509,2025-06-04,West,Institutional,Wire demand steady from 6 ongoing housing projects nearby.
+N00510,2025-09-17,West,Distributor,Short supply of 25 L water heaters at the warehouse this week. Also mentioned competitor prices are lower.
+N00511,2025-11-06,South,Distributor,Short supply of 15 L water heaters at the warehouse this week.
+N00512,2025-12-12,North,Distributor,Wire demand steady from 4 ongoing housing projects nearby.
+N00513,2025-11-08,North,Institutional,Our products not visible in the store; competitor has the front shelf.
+N00514,2025-09-21,West,Distributor,Scheme discount requested again for a bulk order of 72 wire coils.
+N00515,2025-08-13,North,Distributor,Retailer in Chandigarh asking for 12% additional discount to clear stock before season end.
+N00516,2026-02-11,West,Distributor,Customer returned a 35 L water heater: heating element failure.
+N00517,2025-11-09,North,Distributor,Wire demand steady from 2 ongoing housing projects nearby.
+N00518,2026-03-08,North,Modern retail,Wire demand steady from 4 ongoing housing projects nearby.
+N00519,2025-11-24,North,Distributor,Our products not visible in the store; competitor has the front shelf.
+N00520,2025-08-17,North,Distributor,5 water heater units returned with thermostat issues this month.
+N00521,2025-04-19,South,Modern retail,Our products not visible in the store; competitor has the front shelf.
+N00522,2026-03-14,North,Distributor,Scheme discount requested again for a bulk order of 24 wire coils.
+N00523,2025-09-14,West,Modern retail,Retailer in Indore says a competitor BLDC fan is selling about 18% cheaper than our mid-range range.
+N00524,2025-09-05,West,Distributor,Dealers comparing our trade discount with other brands; wants 17% more.
+N00525,2025-11-03,West,Distributor,Customer returned a 25 L water heater: heating element failure.
+N00526,2026-03-02,North,Modern retail,Stabiliser enquiries up after voltage fluctuations in the area.
+N00527,2026-03-01,East,Distributor,Wire demand steady from 8 ongoing housing projects nearby.
+N00528,2025-11-14,East,Distributor,Dealers comparing our trade discount with other brands; wants 18% more.
+N00529,2025-05-02,North,E-commerce,"Service calls up for the 25 L model, 5 complaints in two weeks. Also said the last delivery came late."
+N00530,2025-07-21,West,Modern retail,Water heater demand strong this month; Dealer in Surat expects to reorder soon.
+N00531,2025-10-09,East,Distributor,Scheme discount requested again for a bulk order of 321 wire coils.
+N00532,2025-05-18,East,Modern retail,Short supply of 35 L water heaters at the warehouse this week.
+N00533,2025-06-12,South,Distributor,Dealer in Bengaluru asking for 6 more days of credit.
+N00534,2025-07-18,North,Institutional,Store manager in Jaipur asking for 6 more days of credit.
+N00535,2025-06-11,West,Institutional,Shop owner in Pune asking for 5% additional discount to clear stock before season end.
+N00536,2025-10-13,North,Distributor,Our products not visible in the store; competitor has the front shelf.
+N00537,2025-12-11,North,Distributor,Lost an order for 81 premium fans to a cheaper competitor BLDC model. Also wants a better scheme.
+N00538,2026-01-23,West,Distributor,Lost an order for 75 ceiling fans to a cheaper competitor BLDC model.
+N00539,2025-12-22,West,Institutional,Retailer in Indore asking for 17% additional discount to clear stock before season end.
+N00540,2025-04-01,South,Distributor,Fan demand strong this month; Store manager in Bengaluru expects to reorder soon.
+N00541,2025-08-01,West,Distributor,"Service calls up for the 15 L model, 3 complaints in two weeks."
+N00542,2025-10-17,South,Institutional,Customers asking for BLDC fans; competitor scheme gives 10% extra margin to dealers.
+N00543,2026-03-10,South,Distributor,4 water heater units returned with thermostat issues this month.
+N00544,2025-12-13,South,Distributor,Lost an order for 293 mid-range fans to a cheaper competitor BLDC model.
+N00545,2025-05-27,South,E-commerce,Our products not visible in the store; competitor has the front shelf.
+N00546,2025-11-09,South,Modern retail,"Service calls up for the 35 L model, 8 complaints in two weeks."
+N00547,2026-03-06,West,Distributor,Fan demand strong this month; Retailer in Pune expects to reorder soon.
+N00548,2026-01-10,South,Distributor,6 water heater units returned with thermostat issues this month.
+N00549,2026-01-15,North,Distributor,Water heater orders delivered 27 days late; Retailer in Chandigarh had to turn customers away.
+N00550,2025-05-25,West,Modern retail,Water heater orders delivered 7 days late; Dealer in Mumbai had to turn customers away.
+N00551,2026-03-27,South,Distributor,Dealers comparing our trade discount with other brands; wants 13% more.
+N00552,2026-03-26,East,Modern retail,Scheme discount requested again for a bulk order of 158 wire coils.
+N00553,2025-04-07,East,Institutional,Stabiliser enquiries up after voltage fluctuations in the area.
+N00554,2026-02-26,East,Modern retail,Payment delayed by modern retail chain; awaiting their 14-day cycle. One customer complaint about a faulty unit too.
+N00555,2025-09-22,South,Distributor,Payment delayed by modern retail chain; awaiting their 12-day cycle. Also wants a better scheme.
+N00556,2025-07-11,East,E-commerce,Short supply of 35 L water heaters at the warehouse this week.
+N00557,2026-03-22,North,Distributor,Dealers comparing our trade discount with other brands; wants 13% more.
+N00558,2026-02-20,South,Distributor,Shop owner in Chennai says a competitor BLDC fan is selling about 16% cheaper than our premium range.
+N00559,2025-08-03,East,Distributor,Distributor in Bhubaneswar wants new display stands for the Stabiliser range.
+N00560,2025-11-19,West,Distributor,Retailer in Ahmedabad asking for 4 more days of credit.
+N00561,2025-06-18,West,Distributor,Customer returned a 35 L water heater: heating element failure.
+N00562,2025-08-13,East,E-commerce,Stabiliser enquiries up after voltage fluctuations in the area.
+N00563,2025-08-03,West,Distributor,Distributor in Surat says a competitor BLDC fan is selling about 5% cheaper than our premium range.
+N00564,2025-07-26,North,Institutional,Payment delayed by modern retail chain; awaiting their 7-day cycle.
+N00565,2025-09-18,North,Institutional,Fan demand strong this month; Shop owner in Delhi expects to reorder soon.
+N00566,2025-11-01,West,Distributor,8 water heater units returned with thermostat issues this month.
+N00567,2026-02-11,West,Modern retail,Retailer in Pune says a competitor BLDC fan is selling about 12% cheaper than our ceiling range.
+N00568,2026-01-10,South,Institutional,Stabiliser enquiries up after voltage fluctuations in the area.
+N00569,2025-04-23,North,Distributor,Wire demand steady from 3 ongoing housing projects nearby.
+N00570,2025-09-06,West,Distributor,Retailer in Pune wants new display stands for the Water heater range.
+N00571,2025-11-21,East,Distributor,Our products not visible in the store; competitor has the front shelf.
+N00572,2026-02-15,South,E-commerce,Payment delayed by modern retail chain; awaiting their 22-day cycle. Says footfall is good this month.
+N00573,2025-08-16,West,Institutional,Short supply of 35 L water heaters at the warehouse this week.
+N00574,2026-02-27,North,Distributor,Dealer in Noida asking for 17% additional discount to clear stock before season end.
+N00575,2025-07-14,East,Institutional,Short supply of 15 L water heaters at the warehouse this week.
+N00576,2025-08-14,West,E-commerce,Dealers comparing our trade discount with other brands; wants 13% more.
+N00577,2026-01-22,North,Distributor,Our products not visible in the store; competitor has the front shelf.
+N00578,2025-06-12,East,Distributor,Our products not visible in the store; competitor has the front shelf.
+N00579,2025-06-02,West,Distributor,Store manager in Surat wants new display stands for the Wire range.
+N00580,2026-01-01,West,Distributor,Dealer in Pune says a competitor BLDC fan is selling about 17% cheaper than our mid-range range.
+N00581,2025-10-15,North,Institutional,Water heater orders delivered 30 days late; Retailer in Jaipur had to turn customers away.
+N00582,2025-07-12,North,Distributor,Lost an order for 161 premium fans to a cheaper competitor BLDC model.
+N00583,2025-08-12,East,Modern retail,Our products not visible in the store; competitor has the front shelf.
+N00584,2025-08-23,East,Modern retail,Shop owner in Kolkata wants new display stands for the Wire range.
+N00585,2025-09-20,East,Institutional,Our products not visible in the store; competitor has the front shelf.
+N00586,2025-04-27,West,Distributor,Shop owner in Ahmedabad asking for 4 more days of credit.
+N00587,2025-04-09,West,Distributor,Water heater orders delivered 17 days late; Dealer in Indore had to turn customers away.
+N00588,2025-07-15,South,Distributor,Scheme discount requested again for a bulk order of 240 wire coils.
+N00589,2025-11-14,North,Modern retail,"Retailer in Noida complains part orders arrived, balance of 376 units still pending after 3 days."
+N00590,2026-03-15,East,Distributor,Customers asking for BLDC fans; competitor scheme gives 15% extra margin to dealers.
+N00591,2025-05-19,West,Distributor,Wire demand steady from 2 ongoing housing projects nearby. Also wants a better scheme.
+N00592,2025-07-11,North,Distributor,11 water heater units returned with thermostat issues this month.
+N00593,2025-06-05,North,Distributor,Distributor in Lucknow says a competitor BLDC fan is selling about 18% cheaper than our ceiling range.
+N00594,2025-10-11,South,Distributor,Short supply of 15 L water heaters at the warehouse this week. Also wants a better scheme.
+N00595,2025-10-03,North,Distributor,Retailer in Delhi says a competitor BLDC fan is selling about 16% cheaper than our mid-range range.
+N00596,2025-04-21,East,Distributor,Lost an order for 288 mid-range fans to a cheaper competitor BLDC model.
+N00597,2026-01-03,North,Distributor,Distributor in Delhi wants new display stands for the Water heater range. Also wants a better scheme.
+N00598,2025-04-10,South,Institutional,Lost an order for 193 premium fans to a cheaper competitor BLDC model.
+N00599,2025-11-04,West,Distributor,Shop owner in Pune wants new display stands for the Water heater range.
+N00600,2025-07-22,South,Modern retail,Wire demand strong this month; Dealer in Hyderabad expects to reorder soon.
+N00601,2025-12-11,North,Institutional,Water heater orders delivered 17 days late; Distributor in Lucknow had to turn customers away.
+N00602,2025-07-01,West,Distributor,Stabiliser enquiries up after voltage fluctuations in the area.
+N00603,2026-03-26,East,Distributor,Stabiliser enquiries up after voltage fluctuations in the area.
+N00604,2025-10-26,West,Distributor,Payment delayed by modern retail chain; awaiting their 19-day cycle.
+N00605,2025-08-11,North,Modern retail,Dealer in Delhi wants new display stands for the Wire range.
+N00606,2026-01-07,North,Distributor,11 water heater units returned with thermostat issues this month.
+N00607,2025-06-16,East,Distributor,"Service calls up for the 15 L model, 5 complaints in two weeks."
+N00608,2025-11-11,West,Distributor,Our products not visible in the store; competitor has the front shelf.
+N00609,2025-12-19,West,Modern retail,"Service calls up for the 35 L model, 9 complaints in two weeks."
+N00610,2025-09-24,East,Distributor,Stabiliser enquiries up after voltage fluctuations in the area.
+N00611,2026-03-19,South,E-commerce,Store manager in Hyderabad wants new display stands for the Stabiliser range.
+N00612,2025-11-03,West,Institutional,11 water heater units returned with thermostat issues this month.
+N00613,2025-04-14,South,Distributor,Dealers comparing our trade discount with other brands; wants 5% more. One customer complaint about a faulty unit too.
+N00614,2025-12-05,South,Modern retail,Short supply of 35 L water heaters at the warehouse this week. Asked again for posters and a display stand.
+N00615,2025-08-19,East,Distributor,Shop owner in Bhubaneswar asking for 16 more days of credit.
+N00616,2025-12-06,West,Institutional,Dealer in Mumbai says a competitor BLDC fan is selling about 8% cheaper than our mid-range range.
+N00617,2026-03-07,North,Distributor,Payment delayed by modern retail chain; awaiting their 4-day cycle.
+N00618,2025-06-04,West,Modern retail,Our products not visible in the store; competitor has the front shelf.
+N00619,2025-05-23,East,Modern retail,Retailer in Bhubaneswar wants new display stands for the Wire range.
+N00620,2025-08-04,West,E-commerce,Scheme discount requested again for a bulk order of 135 wire coils.
+N00621,2025-12-04,East,Distributor,Dealers comparing our trade discount with other brands; wants 13% more.
+N00622,2025-08-23,West,Distributor,Lost an order for 36 mid-range fans to a cheaper competitor BLDC model.
+N00623,2025-08-13,West,Distributor,Store manager in Ahmedabad wants new display stands for the Water heater range.
+N00624,2025-10-12,South,Distributor,Dealers comparing our trade discount with other brands; wants 9% more.
+N00625,2026-03-10,West,Institutional,Scheme discount requested again for a bulk order of 358 wire coils.
+N00626,2025-07-12,West,Distributor,Customers asking for BLDC fans; competitor scheme gives 14% extra margin to dealers.
+N00627,2026-01-24,East,Modern retail,Dealers comparing our trade discount with other brands; wants 17% more.
+N00628,2025-10-13,North,Modern retail,Our products not visible in the store; competitor has the front shelf.
+N00629,2025-06-03,East,Distributor,Distributor in Ranchi says a competitor BLDC fan is selling about 7% cheaper than our ceiling range.
+N00630,2026-02-15,East,Modern retail,Shop owner in Bhubaneswar wants new display stands for the Wire range. One customer complaint about a faulty unit too.
+N00631,2025-10-21,West,Modern retail,Wire demand steady from 6 ongoing housing projects nearby.
+N00632,2025-09-10,East,Modern retail,Payment delayed by modern retail chain; awaiting their 23-day cycle.
+N00633,2025-10-20,West,Modern retail,Scheme discount requested again for a bulk order of 25 wire coils. Asked again for posters and a display stand.
+N00634,2025-11-26,South,Distributor,Lost an order for 107 premium fans to a cheaper competitor BLDC model.
+N00635,2025-12-21,West,Institutional,Scheme discount requested again for a bulk order of 320 wire coils.
+N00636,2025-04-12,East,Distributor,"Service calls up for the 35 L model, 7 complaints in two weeks."
+N00637,2025-05-13,East,Distributor,6 water heater units returned with thermostat issues this month. Asked again for posters and a display stand.
+N00638,2025-08-24,West,Institutional,"Service calls up for the 15 L model, 4 complaints in two weeks."
+N00639,2025-12-11,South,Distributor,Customers asking for BLDC fans; competitor scheme gives 18% extra margin to dealers.
+N00640,2026-03-01,East,Distributor,Water heater demand strong this month; Distributor in Bhubaneswar expects to reorder soon.
+N00641,2025-08-27,West,Distributor,Lost an order for 324 mid-range fans to a cheaper competitor BLDC model.
+N00642,2025-10-03,South,Institutional,Shop owner in Kochi wants new display stands for the Stabiliser range.
+N00643,2025-08-09,East,Distributor,Store manager in Ranchi wants new display stands for the Fan range.
+N00644,2026-01-24,East,Institutional,Customer returned a 35 L water heater: heating element failure.
+N00645,2025-06-23,East,Modern retail,Customers asking for BLDC fans; competitor scheme gives 8% extra margin to dealers.
+N00646,2026-01-13,North,Institutional,"Service calls up for the 15 L model, 3 complaints in two weeks."
+N00647,2026-01-01,North,Modern retail,Water heater orders delivered 6 days late; Dealer in Chandigarh had to turn customers away.
+N00648,2025-04-16,West,Distributor,Payment delayed by modern retail chain; awaiting their 11-day cycle.
+N00649,2025-11-07,North,Institutional,Retailer in Lucknow asking for 14% additional discount to clear stock before season end.
+N00650,2025-07-03,West,Distributor,Store manager in Pune asking for 19% additional discount to clear stock before season end.
+N00651,2026-03-19,North,Distributor,Customer returned a 25 L water heater: heating element failure. Also wants longer credit.
+N00652,2025-06-15,South,Institutional,Wire demand steady from 11 ongoing housing projects nearby.
+N00653,2025-05-16,North,Distributor,Store manager in Noida asking for 12% additional discount to clear stock before season end.
+N00654,2025-08-01,East,Distributor,Short supply of 25 L water heaters at the warehouse this week.
+N00655,2025-07-24,East,Modern retail,Scheme discount requested again for a bulk order of 393 wire coils.
+N00656,2026-02-08,West,Distributor,Scheme discount requested again for a bulk order of 209 wire coils.
+N00657,2025-05-06,East,Distributor,Stabiliser enquiries up after voltage fluctuations in the area.
+N00658,2025-11-25,North,Institutional,Short supply of 35 L water heaters at the warehouse this week.
+N00659,2025-08-05,North,Distributor,Lost an order for 380 premium fans to a cheaper competitor BLDC model.
+N00660,2026-01-19,West,E-commerce,11 water heater units returned with thermostat issues this month.
+N00661,2026-02-20,East,Institutional,Payment delayed by modern retail chain; awaiting their 14-day cycle.
+N00662,2026-01-18,West,Institutional,Customers asking for BLDC fans; competitor scheme gives 5% extra margin to dealers.
+N00663,2025-07-04,South,Distributor,Payment delayed by modern retail chain; awaiting their 8-day cycle.
+N00664,2025-11-17,South,Distributor,Our products not visible in the store; competitor has the front shelf. Also mentioned competitor prices are lower.
+N00665,2025-04-20,North,Distributor,"Dealer in Lucknow complains part orders arrived, balance of 258 units still pending after 23 days."
+N00666,2025-12-24,North,Distributor,"Distributor in Jaipur complains part orders arrived, balance of 343 units still pending after 5 days."
+N00667,2025-08-11,West,Modern retail,Our products not visible in the store; competitor has the front shelf.
+N00668,2025-11-25,North,Institutional,"Retailer in Delhi complains part orders arrived, balance of 397 units still pending after 3 days."
+N00669,2025-06-07,East,Distributor,Lost an order for 398 premium fans to a cheaper competitor BLDC model. One customer complaint about a faulty unit too.
+N00670,2025-12-07,South,Distributor,Lost an order for 86 ceiling fans to a cheaper competitor BLDC model.
+N00671,2025-08-21,West,E-commerce,Scheme discount requested again for a bulk order of 101 wire coils.
+N00672,2025-12-14,South,Distributor,Shop owner in Hyderabad says a competitor BLDC fan is selling about 18% cheaper than our premium range.
+N00673,2025-10-25,West,Distributor,Lost an order for 296 mid-range fans to a cheaper competitor BLDC model.
+N00674,2025-06-19,South,Institutional,Store manager in Kochi asking for 16% additional discount to clear stock before season end.
+N00675,2025-09-25,South,Modern retail,Fan demand strong this month; Retailer in Bengaluru expects to reorder soon.
+N00676,2026-03-03,North,Distributor,Store manager in Lucknow asking for 14 more days of credit.
+N00677,2026-02-22,West,Institutional,Customers asking for BLDC fans; competitor scheme gives 14% extra margin to dealers.
+N00678,2025-04-26,South,Modern retail,Store manager in Bengaluru asking for 15 more days of credit.
+N00679,2025-09-23,North,Modern retail,Scheme discount requested again for a bulk order of 329 wire coils.
+N00680,2025-06-16,East,Distributor,Distributor in Bhubaneswar says a competitor BLDC fan is selling about 20% cheaper than our premium range.
+N00681,2025-11-16,North,Distributor,Wire demand steady from 8 ongoing housing projects nearby.
+N00682,2026-03-27,West,Distributor,Dealers comparing our trade discount with other brands; wants 17% more.
+N00683,2025-09-17,South,Distributor,Scheme discount requested again for a bulk order of 160 wire coils.
+N00684,2025-07-09,East,Distributor,3 water heater units returned with thermostat issues this month.
+N00685,2026-03-05,East,Distributor,Customers asking for BLDC fans; competitor scheme gives 19% extra margin to dealers.
+N00686,2025-04-04,East,Distributor,Retailer in Patna says a competitor BLDC fan is selling about 5% cheaper than our ceiling range.
+N00687,2025-07-10,North,Distributor,Scheme discount requested again for a bulk order of 22 wire coils.
+N00688,2025-12-03,West,Institutional,Customers asking for BLDC fans; competitor scheme gives 20% extra margin to dealers.
+N00689,2025-06-19,South,Distributor,Stabiliser enquiries up after voltage fluctuations in the area.
+N00690,2025-08-03,South,Institutional,Dealer in Bengaluru says a competitor BLDC fan is selling about 15% cheaper than our mid-range range.
+N00691,2026-03-24,South,Distributor,Wire demand strong this month; Shop owner in Bengaluru expects to reorder soon.
+N00692,2025-06-17,East,Distributor,Retailer in Patna wants new display stands for the Wire range.
+N00693,2025-12-07,South,Distributor,Customers asking for BLDC fans; competitor scheme gives 6% extra margin to dealers.
+N00694,2025-10-15,East,Distributor,Scheme discount requested again for a bulk order of 267 wire coils.
+N00695,2026-01-03,North,Distributor,Water heater demand strong this month; Dealer in Noida expects to reorder soon.
+N00696,2025-04-04,South,E-commerce,Distributor in Bengaluru wants new display stands for the Stabiliser range.
+N00697,2025-10-05,South,Distributor,Store manager in Chennai wants new display stands for the Stabiliser range.
+N00698,2025-08-18,South,Distributor,Store manager in Kochi asking for 13% additional discount to clear stock before season end.
+N00699,2026-02-16,North,E-commerce,Customers asking for BLDC fans; competitor scheme gives 11% extra margin to dealers.
+N00700,2025-11-19,North,Distributor,Water heater orders delivered 6 days late; Dealer in Chandigarh had to turn customers away.
+N00701,2025-06-03,North,Modern retail,Payment delayed by modern retail chain; awaiting their 17-day cycle.
+N00702,2025-08-22,East,Distributor,Store manager in Ranchi asking for 14 more days of credit.
+N00703,2026-03-06,East,Modern retail,Shop owner in Ranchi asking for 17% additional discount to clear stock before season end. One customer complaint about a faulty unit too.
+N00704,2026-03-01,East,Distributor,Water heater demand strong this month; Store manager in Patna expects to reorder soon.
+N00705,2025-11-01,North,Distributor,Short supply of 35 L water heaters at the warehouse this week.
+N00706,2025-12-16,East,Distributor,Customer returned a 35 L water heater: heating element failure. Also said the last delivery came late.
+N00707,2025-09-20,South,E-commerce,"Dealer in Bengaluru complains part orders arrived, balance of 43 units still pending after 18 days."
+N00708,2025-08-18,West,Distributor,Customers asking for BLDC fans; competitor scheme gives 14% extra margin to dealers.
+N00709,2025-12-23,North,Institutional,10 water heater units returned with thermostat issues this month.
+N00710,2026-01-02,West,Distributor,Dealers comparing our trade discount with other brands; wants 8% more.
+N00711,2025-09-05,North,Institutional,4 water heater units returned with thermostat issues this month.
+N00712,2025-09-19,North,Distributor,Water heater orders delivered 19 days late; Store manager in Lucknow had to turn customers away.
+N00713,2025-12-27,East,Distributor,Our products not visible in the store; competitor has the front shelf.
+N00714,2026-02-20,South,Distributor,Short supply of 25 L water heaters at the warehouse this week.
+N00715,2025-07-11,East,Distributor,Wire demand steady from 11 ongoing housing projects nearby.
+N00716,2025-11-08,South,Distributor,Store manager in Chennai asking for 5% additional discount to clear stock before season end. One customer complaint about a faulty unit too.
+N00717,2025-09-17,East,Institutional,Our products not visible in the store; competitor has the front shelf.
+N00718,2025-09-15,East,Distributor,Shop owner in Kolkata asking for 13% additional discount to clear stock before season end.
+N00719,2025-07-25,North,E-commerce,"Service calls up for the 25 L model, 6 complaints in two weeks."
+N00720,2026-02-09,North,Distributor,Payment delayed by modern retail chain; awaiting their 23-day cycle. Says footfall is good this month.
+N00721,2025-04-15,West,Distributor,Distributor in Pune says a competitor BLDC fan is selling about 7% cheaper than our mid-range range.
+N00722,2025-04-19,North,Distributor,Customer returned a 35 L water heater: heating element failure.
+N00723,2026-02-09,North,Distributor,7 water heater units returned with thermostat issues this month.
+N00724,2025-06-15,South,Distributor,Store manager in Chennai wants new display stands for the Stabiliser range.
+N00725,2025-11-26,East,Distributor,Scheme discount requested again for a bulk order of 357 wire coils. Also wants longer credit.
+N00726,2025-07-23,South,Distributor,Our products not visible in the store; competitor has the front shelf.
+N00727,2025-04-22,North,Distributor,Customer returned a 15 L water heater: heating element failure.
+N00728,2025-05-02,East,Distributor,Dealers comparing our trade discount with other brands; wants 16% more. Also mentioned competitor prices are lower.
+N00729,2025-05-02,West,Modern retail,"Store manager in Pune complains part orders arrived, balance of 218 units still pending after 10 days. Also wants a better scheme."
+N00730,2025-10-23,East,Distributor,"Shop owner in Ranchi complains part orders arrived, balance of 209 units still pending after 10 days."
+N00731,2026-03-26,West,Institutional,Lost an order for 337 premium fans to a cheaper competitor BLDC model.
+N00732,2025-06-03,West,Institutional,Lost an order for 187 ceiling fans to a cheaper competitor BLDC model.
+N00733,2025-07-12,South,Institutional,"Shop owner in Bengaluru complains part orders arrived, balance of 253 units still pending after 17 days."
+N00734,2026-02-05,North,Institutional,Distributor in Noida asking for 5% additional discount to clear stock before season end.
+N00735,2025-06-14,South,Distributor,Dealer in Chennai asking for 29 more days of credit. Says footfall is good this month.
+N00736,2026-03-14,North,Distributor,Water heater orders delivered 7 days late; Dealer in Lucknow had to turn customers away.
+N00737,2025-07-04,West,E-commerce,Scheme discount requested again for a bulk order of 251 wire coils.
+N00738,2025-06-06,West,Distributor,Dealers comparing our trade discount with other brands; wants 5% more.
+N00739,2025-09-07,West,Distributor,"Service calls up for the 35 L model, 7 complaints in two weeks."
+N00740,2026-03-25,North,Modern retail,Customer returned a 35 L water heater: heating element failure.
+N00741,2025-10-17,East,Institutional,Wire demand steady from 10 ongoing housing projects nearby.
+N00742,2025-12-07,North,Distributor,Our products not visible in the store; competitor has the front shelf.
+N00743,2025-05-13,East,Distributor,7 water heater units returned with thermostat issues this month.
+N00744,2025-06-09,South,Distributor,Our products not visible in the store; competitor has the front shelf.
+N00745,2026-03-19,West,E-commerce,Retailer in Surat says a competitor BLDC fan is selling about 11% cheaper than our premium range.
+N00746,2026-01-10,North,Distributor,"Service calls up for the 25 L model, 7 complaints in two weeks."
+N00747,2025-09-23,West,Modern retail,Payment delayed by modern retail chain; awaiting their 20-day cycle.
+N00748,2025-11-06,South,Distributor,Customer returned a 15 L water heater: heating element failure.
+N00749,2025-07-14,South,Institutional,Customers asking for BLDC fans; competitor scheme gives 17% extra margin to dealers.
+N00750,2025-06-01,East,Distributor,Store manager in Bhubaneswar wants new display stands for the Stabiliser range.
+N00751,2025-04-07,South,Distributor,Dealers comparing our trade discount with other brands; wants 17% more.
+N00752,2025-06-15,South,Distributor,Customer returned a 35 L water heater: heating element failure.
+N00753,2025-08-09,East,Modern retail,Dealer in Patna asking for 15% additional discount to clear stock before season end.
+N00754,2025-12-06,North,Distributor,Payment delayed by modern retail chain; awaiting their 29-day cycle.
+N00755,2025-06-08,North,Distributor,3 water heater units returned with thermostat issues this month.
+N00756,2026-03-18,North,Institutional,Our products not visible in the store; competitor has the front shelf.
+N00757,2025-08-25,East,Modern retail,Lost an order for 101 ceiling fans to a cheaper competitor BLDC model.
+N00758,2026-01-03,South,Distributor,Water heater orders delivered 26 days late; Store manager in Hyderabad had to turn customers away.
+N00759,2025-07-19,South,Modern retail,Payment delayed by modern retail chain; awaiting their 29-day cycle.
+N00760,2025-12-15,West,Distributor,8 water heater units returned with thermostat issues this month.
+N00761,2025-09-20,East,Modern retail,Customer returned a 15 L water heater: heating element failure.
+N00762,2026-02-27,North,Distributor,"Service calls up for the 35 L model, 6 complaints in two weeks."
+N00763,2025-05-06,East,Institutional,Stabiliser enquiries up after voltage fluctuations in the area. Asked again for posters and a display stand.
+N00764,2025-08-13,South,Distributor,Distributor in Hyderabad wants new display stands for the Water heater range.
+N00765,2025-09-16,West,Distributor,Customers asking for BLDC fans; competitor scheme gives 8% extra margin to dealers.
+N00766,2025-09-25,West,Modern retail,Customers asking for BLDC fans; competitor scheme gives 18% extra margin to dealers.
+N00767,2026-03-14,West,Distributor,10 water heater units returned with thermostat issues this month.
+N00768,2025-05-19,East,Modern retail,Payment delayed by modern retail chain; awaiting their 26-day cycle.
+N00769,2025-06-09,South,Distributor,Scheme discount requested again for a bulk order of 273 wire coils.
+N00770,2025-07-21,North,Institutional,"Service calls up for the 35 L model, 11 complaints in two weeks."
+N00771,2025-04-23,South,Distributor,Payment delayed by modern retail chain; awaiting their 15-day cycle.
+N00772,2025-06-26,West,Distributor,Our products not visible in the store; competitor has the front shelf. Also said the last delivery came late.
+N00773,2025-08-04,South,Distributor,Customer returned a 25 L water heater: heating element failure.
+N00774,2025-12-09,South,Modern retail,Stabiliser enquiries up after voltage fluctuations in the area.
+N00775,2025-10-20,West,Modern retail,8 water heater units returned with thermostat issues this month.
+N00776,2025-05-09,North,Distributor,Stabiliser enquiries up after voltage fluctuations in the area.
+N00777,2025-09-22,North,Distributor,Our products not visible in the store; competitor has the front shelf. Also wants longer credit.
+N00778,2025-12-07,North,Distributor,Water heater orders delivered 24 days late; Distributor in Chandigarh had to turn customers away.
+N00779,2025-07-02,South,Distributor,"Service calls up for the 25 L model, 4 complaints in two weeks."
+N00780,2025-05-25,South,Distributor,Shop owner in Bengaluru wants new display stands for the Fan range.
+N00781,2025-06-18,East,Distributor,Wire demand steady from 6 ongoing housing projects nearby.
+N00782,2025-11-19,East,Distributor,Store manager in Patna asking for 13% additional discount to clear stock before season end. Also said the last delivery came late.
+N00783,2025-10-18,West,Modern retail,Retailer in Indore says a competitor BLDC fan is selling about 6% cheaper than our ceiling range.
+N00784,2026-01-25,East,Institutional,Scheme discount requested again for a bulk order of 314 wire coils.
+N00785,2026-03-24,South,Institutional,Wire demand steady from 5 ongoing housing projects nearby.
+N00786,2026-02-07,West,Modern retail,Customers asking for BLDC fans; competitor scheme gives 16% extra margin to dealers.
+N00787,2025-10-16,North,Distributor,"Distributor in Delhi complains part orders arrived, balance of 277 units still pending after 26 days."
+N00788,2026-02-02,South,Modern retail,4 water heater units returned with thermostat issues this month.
+N00789,2025-07-20,South,Modern retail,Customer returned a 35 L water heater: heating element failure.
+N00790,2025-07-18,North,Distributor,3 water heater units returned with thermostat issues this month. Says footfall is good this month.
+N00791,2025-06-22,East,Institutional,Store manager in Ranchi says a competitor BLDC fan is selling about 7% cheaper than our mid-range range.
+N00792,2026-01-22,West,Institutional,"Dealer in Indore complains part orders arrived, balance of 41 units still pending after 25 days."
+N00793,2026-03-05,East,Distributor,"Service calls up for the 35 L model, 9 complaints in two weeks."
+N00794,2025-05-19,North,Distributor,Wire demand steady from 10 ongoing housing projects nearby.
+N00795,2025-06-16,East,Distributor,Customer returned a 25 L water heater: heating element failure.
+N00796,2025-08-16,South,Distributor,Water heater orders delivered 8 days late; Store manager in Bengaluru had to turn customers away.
+N00797,2026-03-15,East,Distributor,"Service calls up for the 15 L model, 8 complaints in two weeks. Also mentioned competitor prices are lower."
+N00798,2026-01-24,West,Distributor,Dealer in Indore says a competitor BLDC fan is selling about 16% cheaper than our ceiling range.
+N00799,2025-12-18,East,E-commerce,Dealers comparing our trade discount with other brands; wants 15% more.
+N00800,2025-12-23,South,Distributor,Short supply of 35 L water heaters at the warehouse this week.
+N00801,2025-10-19,West,Distributor,Lost an order for 39 ceiling fans to a cheaper competitor BLDC model.
+N00802,2025-11-09,East,Distributor,Scheme discount requested again for a bulk order of 299 wire coils.
+N00803,2025-05-07,South,Distributor,Stabiliser enquiries up after voltage fluctuations in the area. Also mentioned competitor prices are lower.
+N00804,2025-11-11,South,Institutional,Dealer in Chennai asking for 19% additional discount to clear stock before season end.
+N00805,2025-10-06,South,Modern retail,"Service calls up for the 15 L model, 3 complaints in two weeks."
+N00806,2025-11-26,East,Modern retail,Water heater orders delivered 14 days late; Shop owner in Patna had to turn customers away.
+N00807,2025-08-09,South,Distributor,Payment delayed by modern retail chain; awaiting their 30-day cycle.
+N00808,2026-03-06,North,Modern retail,Stabiliser enquiries up after voltage fluctuations in the area.
+N00809,2025-04-15,South,Distributor,Distributor in Bengaluru says a competitor BLDC fan is selling about 5% cheaper than our ceiling range.
+N00810,2025-04-08,North,Modern retail,Wire demand strong this month; Dealer in Jaipur expects to reorder soon.
+N00811,2025-12-23,North,Distributor,Payment delayed by modern retail chain; awaiting their 9-day cycle.
+N00812,2025-08-22,West,Modern retail,Payment delayed by modern retail chain; awaiting their 22-day cycle.
+N00813,2025-09-05,East,Modern retail,Scheme discount requested again for a bulk order of 227 wire coils.
+N00814,2025-10-25,East,Distributor,Wire demand steady from 2 ongoing housing projects nearby.
+N00815,2025-05-09,South,Distributor,Water heater orders delivered 24 days late; Store manager in Chennai had to turn customers away.
+N00816,2025-10-15,South,Distributor,Wire demand steady from 10 ongoing housing projects nearby.
+N00817,2025-08-07,West,Distributor,Store manager in Surat says a competitor BLDC fan is selling about 15% cheaper than our mid-range range.
+N00818,2025-11-22,East,Distributor,Dealer in Bhubaneswar wants new display stands for the Wire range.
+N00819,2025-11-22,South,Institutional,Dealer in Kochi says a competitor BLDC fan is selling about 17% cheaper than our mid-range range.
+N00820,2025-07-19,North,Institutional,6 water heater units returned with thermostat issues this month.
+N00821,2026-01-11,East,Distributor,10 water heater units returned with thermostat issues this month. Also mentioned competitor prices are lower.
+N00822,2025-04-22,South,Distributor,Our products not visible in the store; competitor has the front shelf.
+N00823,2025-09-16,East,Distributor,Stabiliser enquiries up after voltage fluctuations in the area. Also wants longer credit.
+N00824,2025-11-21,West,Distributor,3 water heater units returned with thermostat issues this month.
+N00825,2025-11-11,West,Distributor,Shop owner in Ahmedabad says a competitor BLDC fan is selling about 8% cheaper than our ceiling range.
+N00826,2025-12-25,North,Distributor,Payment delayed by modern retail chain; awaiting their 13-day cycle.
+N00827,2025-09-18,North,Distributor,Scheme discount requested again for a bulk order of 195 wire coils.
+N00828,2025-11-02,West,Distributor,Wire demand steady from 3 ongoing housing projects nearby.
+N00829,2025-09-08,East,Distributor,Retailer in Patna asking for 10% additional discount to clear stock before season end.
+N00830,2026-03-20,East,Distributor,Store manager in Kolkata asking for 26 more days of credit.
+N00831,2025-12-03,South,Modern retail,Customers asking for BLDC fans; competitor scheme gives 17% extra margin to dealers.
+N00832,2025-10-05,North,Modern retail,Stabiliser enquiries up after voltage fluctuations in the area.
+N00833,2025-10-10,North,Modern retail,Wire demand strong this month; Retailer in Jaipur expects to reorder soon. Asked again for posters and a display stand.
+N00834,2026-03-07,East,Distributor,Scheme discount requested again for a bulk order of 137 wire coils.
+N00835,2025-09-18,South,Distributor,Wire demand steady from 9 ongoing housing projects nearby.
+N00836,2026-03-12,East,Institutional,Lost an order for 280 ceiling fans to a cheaper competitor BLDC model.
+N00837,2025-09-21,West,Distributor,Customers asking for BLDC fans; competitor scheme gives 17% extra margin to dealers.
+N00838,2025-12-22,West,Modern retail,Shop owner in Pune says a competitor BLDC fan is selling about 9% cheaper than our premium range.
+N00839,2025-05-22,West,Distributor,Our products not visible in the store; competitor has the front shelf.
+N00840,2025-05-17,East,Distributor,Water heater orders delivered 30 days late; Shop owner in Ranchi had to turn customers away.
+N00841,2025-11-14,East,Distributor,"Retailer in Patna complains part orders arrived, balance of 320 units still pending after 15 days."
+N00842,2025-05-26,South,Distributor,Short supply of 35 L water heaters at the warehouse this week.
+N00843,2025-04-15,South,Distributor,Dealers comparing our trade discount with other brands; wants 12% more.
+N00844,2026-01-05,South,Distributor,4 water heater units returned with thermostat issues this month.
+N00845,2026-01-09,West,Distributor,Our products not visible in the store; competitor has the front shelf.
+N00846,2025-07-08,South,Institutional,"Service calls up for the 35 L model, 6 complaints in two weeks."
+N00847,2025-12-26,South,Distributor,Retailer in Bengaluru asking for 10 more days of credit.
+N00848,2026-01-16,West,Modern retail,Dealer in Ahmedabad asking for 29 more days of credit. Also said the last delivery came late.
+N00849,2025-10-13,South,Institutional,"Service calls up for the 15 L model, 9 complaints in two weeks. Also said the last delivery came late."
+N00850,2025-07-03,North,E-commerce,Our products not visible in the store; competitor has the front shelf.
+N00851,2025-12-13,South,Distributor,"Service calls up for the 15 L model, 2 complaints in two weeks."
+N00852,2025-05-13,South,Distributor,Shop owner in Chennai wants new display stands for the Stabiliser range.
+N00853,2025-08-11,South,Modern retail,Short supply of 35 L water heaters at the warehouse this week.
+N00854,2025-12-03,West,Distributor,Customers asking for BLDC fans; competitor scheme gives 15% extra margin to dealers.
+N00855,2026-03-13,South,Distributor,Retailer in Bengaluru says a competitor BLDC fan is selling about 7% cheaper than our mid-range range.
+N00856,2026-01-13,East,Distributor,Dealers comparing our trade discount with other brands; wants 10% more.
+N00857,2026-01-03,South,Distributor,Lost an order for 272 ceiling fans to a cheaper competitor BLDC model.
+N00858,2025-06-17,West,Institutional,Our products not visible in the store; competitor has the front shelf.
+N00859,2025-07-23,North,Institutional,Scheme discount requested again for a bulk order of 109 wire coils.
+N00860,2025-10-14,East,Institutional,Lost an order for 214 premium fans to a cheaper competitor BLDC model. Also wants longer credit.
+N00861,2025-04-03,South,Distributor,"Service calls up for the 25 L model, 9 complaints in two weeks."
+N00862,2025-10-15,West,Modern retail,Customers asking for BLDC fans; competitor scheme gives 16% extra margin to dealers.
+N00863,2025-04-05,North,Institutional,Scheme discount requested again for a bulk order of 213 wire coils.
+N00864,2025-07-09,North,Modern retail,Customer returned a 15 L water heater: heating element failure.
+N00865,2025-08-07,East,Distributor,Dealers comparing our trade discount with other brands; wants 9% more.
+N00866,2026-02-19,North,Institutional,Our products not visible in the store; competitor has the front shelf.
+N00867,2025-08-22,South,Modern retail,Retailer in Chennai asking for 19% additional discount to clear stock before season end.
+N00868,2025-06-02,East,Distributor,Dealers comparing our trade discount with other brands; wants 20% more.
+N00869,2025-09-01,West,Modern retail,Lost an order for 34 mid-range fans to a cheaper competitor BLDC model.
+N00870,2025-09-06,South,Institutional,Distributor in Bengaluru asking for 15 more days of credit. Also wants a better scheme.
+N00871,2026-01-26,West,Modern retail,Distributor in Surat asking for 19 more days of credit.
+N00872,2025-12-13,South,Distributor,"Retailer in Kochi complains part orders arrived, balance of 84 units still pending after 3 days."
+N00873,2025-10-25,North,Distributor,11 water heater units returned with thermostat issues this month.
+N00874,2025-11-18,West,Distributor,Stabiliser enquiries up after voltage fluctuations in the area.
+N00875,2025-09-27,East,Modern retail,Wire demand steady from 2 ongoing housing projects nearby. Also wants a better scheme.
+N00876,2025-08-08,West,Modern retail,Shop owner in Surat asking for 24 more days of credit.
+N00877,2025-11-23,West,Distributor,Customers asking for BLDC fans; competitor scheme gives 7% extra margin to dealers.
+N00878,2025-08-15,South,Distributor,"Shop owner in Chennai complains part orders arrived, balance of 74 units still pending after 13 days."
+N00879,2025-08-16,East,Institutional,Our products not visible in the store; competitor has the front shelf.
+N00880,2025-04-04,South,Distributor,Our products not visible in the store; competitor has the front shelf.
+N00881,2025-06-27,West,Distributor,Wire demand steady from 3 ongoing housing projects nearby.
+N00882,2025-07-24,North,Institutional,Shop owner in Noida wants new display stands for the Wire range.
+N00883,2025-07-23,North,Modern retail,3 water heater units returned with thermostat issues this month.
+N00884,2025-11-17,North,Distributor,Wire demand steady from 10 ongoing housing projects nearby.
+N00885,2025-10-20,South,Distributor,"Service calls up for the 15 L model, 11 complaints in two weeks."
+N00886,2025-06-16,South,Institutional,Customer returned a 35 L water heater: heating element failure.
+N00887,2026-03-03,North,Distributor,Distributor in Noida asking for 27 more days of credit.
+N00888,2026-02-03,East,Modern retail,Payment delayed by modern retail chain; awaiting their 9-day cycle.
+N00889,2026-01-19,North,Institutional,Customer returned a 25 L water heater: heating element failure.
+N00890,2025-09-21,North,Institutional,"Service calls up for the 35 L model, 9 complaints in two weeks."
+N00891,2025-07-24,East,Institutional,"Service calls up for the 25 L model, 11 complaints in two weeks. Also wants longer credit."
+N00892,2025-11-10,East,Distributor,Distributor in Patna says a competitor BLDC fan is selling about 15% cheaper than our ceiling range.
+N00893,2025-05-12,East,Distributor,Dealer in Kolkata asking for 6 more days of credit.
+N00894,2025-07-09,South,Institutional,Customer returned a 35 L water heater: heating element failure.
+N00895,2025-07-27,West,Distributor,Wire demand steady from 7 ongoing housing projects nearby.
+N00896,2026-03-11,North,Modern retail,Our products not visible in the store; competitor has the front shelf.
+N00897,2025-09-07,East,Distributor,"Retailer in Patna complains part orders arrived, balance of 196 units still pending after 26 days."
+N00898,2025-04-05,West,E-commerce,"Store manager in Pune complains part orders arrived, balance of 373 units still pending after 6 days."
+N00899,2025-10-20,North,E-commerce,Customer returned a 25 L water heater: heating element failure. Also wants a better scheme.
+N00900,2025-10-07,South,Distributor,Dealers comparing our trade discount with other brands; wants 15% more.
+N00901,2025-12-13,North,Institutional,Short supply of 15 L water heaters at the warehouse this week.
+N00902,2025-10-02,West,Distributor,Water heater demand strong this month; Distributor in Indore expects to reorder soon.
+N00903,2025-09-01,South,Institutional,Lost an order for 111 mid-range fans to a cheaper competitor BLDC model. Also wants longer credit.
+N00904,2025-12-16,South,Distributor,Dealer in Kochi says a competitor BLDC fan is selling about 7% cheaper than our ceiling range.
+N00905,2025-04-19,North,Distributor,Wire demand steady from 3 ongoing housing projects nearby. Also wants longer credit.
+N00906,2025-12-13,North,Distributor,"Store manager in Jaipur complains part orders arrived, balance of 275 units still pending after 26 days."
+N00907,2026-02-06,East,Distributor,Customer returned a 25 L water heater: heating element failure.
+N00908,2025-07-18,South,Modern retail,Lost an order for 206 premium fans to a cheaper competitor BLDC model.
+N00909,2025-07-12,West,Distributor,Lost an order for 188 ceiling fans to a cheaper competitor BLDC model.
+N00910,2026-02-26,West,Distributor,Scheme discount requested again for a bulk order of 120 wire coils. Also wants longer credit.
+N00911,2025-09-22,South,E-commerce,Lost an order for 333 ceiling fans to a cheaper competitor BLDC model.
+N00912,2025-09-21,East,E-commerce,Short supply of 25 L water heaters at the warehouse this week.
+N00913,2025-05-17,North,Distributor,Customer returned a 35 L water heater: heating element failure.
+N00914,2025-11-13,East,Distributor,5 water heater units returned with thermostat issues this month.
+N00915,2025-05-17,East,Distributor,Shop owner in Patna wants new display stands for the Fan range.
+N00916,2025-12-13,South,Distributor,Lost an order for 167 mid-range fans to a cheaper competitor BLDC model.
+N00917,2025-05-20,West,Institutional,Wire demand steady from 2 ongoing housing projects nearby.
+N00918,2025-05-20,North,Distributor,Stabiliser enquiries up after voltage fluctuations in the area.
+N00919,2025-05-25,West,Distributor,Water heater orders delivered 19 days late; Shop owner in Surat had to turn customers away.
+N00920,2026-01-08,West,Institutional,Our products not visible in the store; competitor has the front shelf.
+N00921,2025-10-11,South,Distributor,Our products not visible in the store; competitor has the front shelf.
+N00922,2026-03-25,West,Distributor,Retailer in Surat asking for 17 more days of credit.
+N00923,2025-10-19,North,Distributor,Retailer in Lucknow asking for 11 more days of credit.
+N00924,2025-08-01,West,Modern retail,Customers asking for BLDC fans; competitor scheme gives 17% extra margin to dealers.
+N00925,2025-12-18,North,Modern retail,Water heater orders delivered 17 days late; Store manager in Lucknow had to turn customers away.
+N00926,2025-05-21,South,Institutional,Wire demand strong this month; Dealer in Kochi expects to reorder soon.
+N00927,2025-06-01,East,Institutional,Dealers comparing our trade discount with other brands; wants 19% more.
+N00928,2025-09-19,East,Distributor,Lost an order for 241 premium fans to a cheaper competitor BLDC model.
+N00929,2025-07-24,South,Modern retail,Payment delayed by modern retail chain; awaiting their 19-day cycle.
+N00930,2025-05-03,North,Modern retail,Wire demand steady from 8 ongoing housing projects nearby. Asked again for posters and a display stand.
+N00931,2025-08-16,West,Modern retail,Lost an order for 130 premium fans to a cheaper competitor BLDC model.
+N00932,2026-02-25,North,Institutional,Store manager in Delhi asking for 9 more days of credit. Also mentioned competitor prices are lower.
+N00933,2025-10-20,West,Institutional,Wire demand steady from 9 ongoing housing projects nearby.
+N00934,2025-12-14,North,Modern retail,Retailer in Noida asking for 15% additional discount to clear stock before season end.
+N00935,2025-04-18,West,Distributor,Water heater orders delivered 14 days late; Distributor in Ahmedabad had to turn customers away.
+N00936,2025-07-09,West,Distributor,Customers asking for BLDC fans; competitor scheme gives 13% extra margin to dealers.
+N00937,2025-09-04,West,Distributor,Dealer in Indore says a competitor BLDC fan is selling about 9% cheaper than our mid-range range.
+N00938,2025-09-17,South,Modern retail,Payment delayed by modern retail chain; awaiting their 29-day cycle.
+N00939,2026-02-18,North,Institutional,Customer returned a 25 L water heater: heating element failure.
+N00940,2025-12-11,South,Distributor,Dealer in Bengaluru asking for 6 more days of credit.
+N00941,2025-11-27,North,Distributor,Short supply of 35 L water heaters at the warehouse this week.
+N00942,2025-07-06,East,Modern retail,Our products not visible in the store; competitor has the front shelf.
+N00943,2026-03-11,South,Distributor,Payment delayed by modern retail chain; awaiting their 10-day cycle.
+N00944,2026-02-27,East,Distributor,Payment delayed by modern retail chain; awaiting their 26-day cycle.
+N00945,2025-10-09,South,Distributor,Lost an order for 220 mid-range fans to a cheaper competitor BLDC model.
+N00946,2025-11-04,South,E-commerce,Wire demand steady from 8 ongoing housing projects nearby.
+N00947,2025-09-16,North,Distributor,Our products not visible in the store; competitor has the front shelf.
+N00948,2025-07-01,South,Distributor,Customer returned a 25 L water heater: heating element failure.
+N00949,2025-10-21,South,E-commerce,Customers asking for BLDC fans; competitor scheme gives 6% extra margin to dealers.
+N00950,2026-03-24,South,Modern retail,Our products not visible in the store; competitor has the front shelf. Also wants longer credit.
+N00951,2025-04-13,North,Distributor,Store manager in Delhi says a competitor BLDC fan is selling about 13% cheaper than our ceiling range.
+N00952,2025-09-17,North,Distributor,Short supply of 15 L water heaters at the warehouse this week.
+N00953,2026-01-26,East,Distributor,2 water heater units returned with thermostat issues this month.
+N00954,2025-05-22,East,Modern retail,Wire demand steady from 9 ongoing housing projects nearby.
+N00955,2025-07-11,West,Distributor,Scheme discount requested again for a bulk order of 235 wire coils.
+N00956,2025-12-25,West,Distributor,Customers asking for BLDC fans; competitor scheme gives 6% extra margin to dealers.
+N00957,2025-08-13,South,Distributor,Dealer in Chennai asking for 17 more days of credit.
+N00958,2026-03-08,North,Institutional,Customer returned a 15 L water heater: heating element failure. Says footfall is good this month.
+N00959,2025-09-11,South,Institutional,Water heater orders delivered 10 days late; Shop owner in Hyderabad had to turn customers away.
+N00960,2025-12-04,North,Distributor,"Retailer in Jaipur complains part orders arrived, balance of 297 units still pending after 12 days."
+N00961,2025-07-10,East,Modern retail,Retailer in Patna asking for 5 more days of credit.
+N00962,2026-02-26,East,Distributor,Retailer in Patna asking for 16% additional discount to clear stock before season end.
+N00963,2026-02-02,North,Distributor,Payment delayed by modern retail chain; awaiting their 16-day cycle.
+N00964,2025-08-22,East,Distributor,Short supply of 35 L water heaters at the warehouse this week.
+N00965,2025-05-07,West,Modern retail,Lost an order for 54 ceiling fans to a cheaper competitor BLDC model.
+N00966,2025-11-06,West,Institutional,Dealer in Ahmedabad says a competitor BLDC fan is selling about 12% cheaper than our premium range.
+N00967,2025-10-19,North,Modern retail,Retailer in Lucknow wants new display stands for the Wire range. Also wants longer credit.
+N00968,2025-07-04,South,Distributor,Short supply of 35 L water heaters at the warehouse this week.
+N00969,2025-10-02,North,Institutional,Our products not visible in the store; competitor has the front shelf. Also said the last delivery came late.
+N00970,2025-12-15,South,Institutional,Wire demand steady from 9 ongoing housing projects nearby.
+N00971,2025-08-19,South,Institutional,Payment delayed by modern retail chain; awaiting their 30-day cycle.
+N00972,2025-11-17,South,Distributor,"Shop owner in Bengaluru complains part orders arrived, balance of 138 units still pending after 26 days."
+N00973,2026-02-14,South,Distributor,"Service calls up for the 15 L model, 3 complaints in two weeks."
+N00974,2025-08-05,West,Modern retail,Distributor in Pune says a competitor BLDC fan is selling about 12% cheaper than our ceiling range.
+N00975,2025-11-07,South,Distributor,Payment delayed by modern retail chain; awaiting their 8-day cycle.
+N00976,2025-05-05,South,E-commerce,Wire demand strong this month; Dealer in Bengaluru expects to reorder soon.
+N00977,2026-01-17,South,Distributor,Customers asking for BLDC fans; competitor scheme gives 10% extra margin to dealers. One customer complaint about a faulty unit too.
+N00978,2025-04-18,East,Distributor,Store manager in Kolkata wants new display stands for the Wire range. One customer complaint about a faulty unit too.
+N00979,2025-06-27,East,Distributor,Wire demand steady from 8 ongoing housing projects nearby.
+N00980,2025-12-03,South,Institutional,Stabiliser enquiries up after voltage fluctuations in the area.
+N00981,2025-06-18,East,Institutional,Short supply of 35 L water heaters at the warehouse this week.
+N00982,2025-06-19,East,Distributor,Dealers comparing our trade discount with other brands; wants 19% more.
+N00983,2025-10-27,South,Modern retail,"Retailer in Bengaluru complains part orders arrived, balance of 35 units still pending after 20 days."
+N00984,2026-02-16,East,Distributor,11 water heater units returned with thermostat issues this month.
+N00985,2025-07-02,North,Modern retail,Distributor in Jaipur says a competitor BLDC fan is selling about 20% cheaper than our ceiling range. Also said the last delivery came late.
+N00986,2026-01-21,North,Modern retail,Stabiliser enquiries up after voltage fluctuations in the area.
+N00987,2026-02-17,West,Distributor,Retailer in Pune says a competitor BLDC fan is selling about 7% cheaper than our ceiling range.
+N00988,2026-01-08,West,Institutional,Payment delayed by modern retail chain; awaiting their 19-day cycle.
+N00989,2026-03-22,West,Modern retail,Scheme discount requested again for a bulk order of 126 wire coils.
+N00990,2025-12-03,West,Modern retail,Customers asking for BLDC fans; competitor scheme gives 11% extra margin to dealers.
+N00991,2025-10-25,East,Distributor,Dealers comparing our trade discount with other brands; wants 17% more.
+N00992,2025-12-07,South,Distributor,Shop owner in Kochi says a competitor BLDC fan is selling about 20% cheaper than our ceiling range.
+N00993,2025-10-11,North,Distributor,Wire demand steady from 8 ongoing housing projects nearby.
+N00994,2025-04-18,West,Distributor,Dealers comparing our trade discount with other brands; wants 17% more.
+N00995,2026-03-07,South,Institutional,Lost an order for 394 premium fans to a cheaper competitor BLDC model. Says footfall is good this month.
+N00996,2026-01-19,North,Distributor,Customer returned a 25 L water heater: heating element failure.
+N00997,2025-12-21,West,Distributor,Dealer in Indore wants new display stands for the Water heater range.
+N00998,2025-10-26,North,E-commerce,Water heater orders delivered 27 days late; Dealer in Jaipur had to turn customers away.
+N00999,2026-03-02,South,Distributor,Short supply of 35 L water heaters at the warehouse this week.
+N01000,2025-11-17,North,E-commerce,Payment delayed by modern retail chain; awaiting their 22-day cycle.
+N01001,2025-09-08,South,Distributor,Scheme discount requested again for a bulk order of 136 wire coils.
+N01002,2026-02-13,East,Distributor,"Store manager in Patna complains part orders arrived, balance of 174 units still pending after 16 days."
+N01003,2025-04-05,North,Distributor,Fan demand strong this month; Store manager in Delhi expects to reorder soon.
+N01004,2025-07-24,North,Distributor,Fan demand strong this month; Distributor in Chandigarh expects to reorder soon.
+N01005,2026-02-25,West,Modern retail,Retailer in Surat says a competitor BLDC fan is selling about 16% cheaper than our ceiling range.
+N01006,2025-05-10,West,Distributor,Wire demand steady from 5 ongoing housing projects nearby.
+N01007,2025-05-06,East,Distributor,5 water heater units returned with thermostat issues this month. Also wants a better scheme.
+N01008,2026-01-15,West,Distributor,Customer returned a 25 L water heater: heating element failure. Also said the last delivery came late.
+N01009,2026-02-19,East,Distributor,10 water heater units returned with thermostat issues this month. Also wants longer credit.
+N01010,2025-07-20,West,Modern retail,Customers asking for BLDC fans; competitor scheme gives 16% extra margin to dealers.
+N01011,2025-04-26,West,Institutional,Distributor in Surat wants new display stands for the Wire range.
+N01012,2025-08-17,West,Distributor,Store manager in Ahmedabad says a competitor BLDC fan is selling about 11% cheaper than our premium range.
+N01013,2026-02-07,South,Distributor,Stabiliser demand strong this month; Distributor in Kochi expects to reorder soon.
+N01014,2025-12-07,West,Distributor,Lost an order for 398 mid-range fans to a cheaper competitor BLDC model.
+N01015,2025-12-25,North,Distributor,Lost an order for 91 ceiling fans to a cheaper competitor BLDC model.
+N01016,2025-05-22,East,Modern retail,"Dealer in Patna complains part orders arrived, balance of 130 units still pending after 13 days."
+N01017,2026-01-02,South,Distributor,Short supply of 35 L water heaters at the warehouse this week.
+N01018,2026-03-21,North,Distributor,"Service calls up for the 35 L model, 4 complaints in two weeks."
+N01019,2025-04-25,North,Distributor,Dealer in Delhi wants new display stands for the Water heater range.
+N01020,2025-11-14,North,Distributor,Retailer in Jaipur wants new display stands for the Water heater range.
+N01021,2025-06-27,West,Distributor,Customers asking for BLDC fans; competitor scheme gives 18% extra margin to dealers. Asked again for posters and a display stand.
+N01022,2025-12-07,North,Distributor,Store manager in Jaipur asking for 25 more days of credit. Also said the last delivery came late.
+N01023,2025-06-23,North,Distributor,Payment delayed by modern retail chain; awaiting their 27-day cycle.
+N01024,2026-01-07,North,Modern retail,Short supply of 35 L water heaters at the warehouse this week.
+N01025,2026-03-02,West,Modern retail,Distributor in Ahmedabad says a competitor BLDC fan is selling about 10% cheaper than our premium range.
+N01026,2025-12-02,North,Institutional,Water heater orders delivered 3 days late; Store manager in Delhi had to turn customers away. Also wants longer credit.
+N01027,2025-08-18,West,Distributor,Distributor in Indore says a competitor BLDC fan is selling about 8% cheaper than our mid-range range.
+N01028,2025-09-27,North,Distributor,Short supply of 25 L water heaters at the warehouse this week.
+N01029,2025-12-16,North,Distributor,Stabiliser enquiries up after voltage fluctuations in the area.
+N01030,2026-02-02,East,Distributor,Our products not visible in the store; competitor has the front shelf.
+N01031,2025-11-19,South,Distributor,Customer returned a 35 L water heater: heating element failure.
+N01032,2026-02-14,West,Distributor,"Service calls up for the 25 L model, 2 complaints in two weeks."
+N01033,2025-09-08,East,Institutional,6 water heater units returned with thermostat issues this month.
+N01034,2026-02-21,North,Distributor,Wire demand steady from 5 ongoing housing projects nearby.
+N01035,2025-10-10,North,Distributor,Shop owner in Chandigarh says a competitor BLDC fan is selling about 7% cheaper than our mid-range range.
+N01036,2025-04-01,South,Institutional,Distributor in Bengaluru asking for 17 more days of credit.
+N01037,2025-11-11,East,Distributor,Store manager in Bhubaneswar asking for 20% additional discount to clear stock before season end.
+N01038,2025-12-23,North,Modern retail,Wire demand steady from 6 ongoing housing projects nearby.
+N01039,2025-10-15,South,Modern retail,Customer returned a 35 L water heater: heating element failure.
+N01040,2025-08-21,East,Distributor,Dealers comparing our trade discount with other brands; wants 16% more.
+N01041,2025-05-02,East,Modern retail,Retailer in Patna wants new display stands for the Fan range.
+N01042,2025-11-24,North,E-commerce,Short supply of 15 L water heaters at the warehouse this week.
+N01043,2025-09-27,North,Modern retail,"Retailer in Jaipur complains part orders arrived, balance of 240 units still pending after 27 days."
+N01044,2025-11-17,North,Distributor,Wire demand steady from 11 ongoing housing projects nearby.
+N01045,2025-06-12,South,Distributor,Dealer in Kochi wants new display stands for the Water heater range.
+N01046,2025-08-14,South,Distributor,Wire demand steady from 2 ongoing housing projects nearby.
+N01047,2025-07-17,West,Distributor,Stabiliser enquiries up after voltage fluctuations in the area.
+N01048,2025-07-02,West,Distributor,Short supply of 25 L water heaters at the warehouse this week.
+N01049,2025-08-05,North,Modern retail,Scheme discount requested again for a bulk order of 141 wire coils.
+N01050,2026-03-27,South,Distributor,Store manager in Kochi asking for 7 more days of credit.
+N01051,2025-06-20,North,Distributor,Dealers comparing our trade discount with other brands; wants 18% more. Also said the last delivery came late.
+N01052,2025-08-24,East,Distributor,"Service calls up for the 25 L model, 9 complaints in two weeks."
+N01053,2026-01-23,West,Distributor,Stabiliser enquiries up after voltage fluctuations in the area.
+N01054,2025-04-08,South,Institutional,Scheme discount requested again for a bulk order of 376 wire coils.
+N01055,2025-08-09,West,Distributor,Customer returned a 15 L water heater: heating element failure.
+N01056,2025-06-18,South,Modern retail,Payment delayed by modern retail chain; awaiting their 25-day cycle.
+N01057,2025-04-27,East,Institutional,Water heater orders delivered 30 days late; Distributor in Ranchi had to turn customers away. Asked again for posters and a display stand.
+N01058,2025-10-01,East,Institutional,Dealers comparing our trade discount with other brands; wants 10% more.
+N01059,2026-02-18,South,Institutional,"Service calls up for the 35 L model, 3 complaints in two weeks."
+N01060,2025-08-10,East,Distributor,"Distributor in Patna complains part orders arrived, balance of 271 units still pending after 22 days. Asked again for posters and a display stand."
+N01061,2025-04-19,East,Modern retail,Distributor in Patna asking for 8 more days of credit.
+N01062,2026-03-14,West,Distributor,Customers asking for BLDC fans; competitor scheme gives 7% extra margin to dealers.
+N01063,2025-12-06,North,Distributor,"Service calls up for the 35 L model, 5 complaints in two weeks."
+N01064,2026-01-24,East,Distributor,2 water heater units returned with thermostat issues this month.
+N01065,2025-07-01,West,E-commerce,"Retailer in Mumbai complains part orders arrived, balance of 358 units still pending after 22 days."
+N01066,2025-07-16,North,Distributor,Payment delayed by modern retail chain; awaiting their 27-day cycle. Asked again for posters and a display stand.
+N01067,2026-01-02,East,Modern retail,"Service calls up for the 15 L model, 5 complaints in two weeks."
+N01068,2025-11-12,North,Modern retail,Dealer in Noida wants new display stands for the Wire range.
+N01069,2025-09-24,South,Distributor,Stabiliser demand strong this month; Dealer in Chennai expects to reorder soon.
+N01070,2026-01-26,West,Distributor,Store manager in Ahmedabad asking for 29 more days of credit.
+N01071,2025-07-10,East,Distributor,Stabiliser demand strong this month; Store manager in Bhubaneswar expects to reorder soon.
+N01072,2025-08-14,North,Distributor,Lost an order for 22 premium fans to a cheaper competitor BLDC model. Also wants longer credit.
+N01073,2025-07-27,North,Modern retail,Shop owner in Noida wants new display stands for the Water heater range. Also wants longer credit.
+N01074,2026-03-16,South,Modern retail,Customer returned a 35 L water heater: heating element failure. Also said the last delivery came late.
+N01075,2025-05-20,East,Modern retail,Distributor in Patna says a competitor BLDC fan is selling about 8% cheaper than our premium range.
+N01076,2026-01-04,North,Distributor,Short supply of 15 L water heaters at the warehouse this week. Also mentioned competitor prices are lower.
+N01077,2025-07-03,South,Distributor,Dealers comparing our trade discount with other brands; wants 17% more. Also said the last delivery came late.
+N01078,2026-03-11,West,E-commerce,Retailer in Ahmedabad says a competitor BLDC fan is selling about 7% cheaper than our mid-range range.
+N01079,2026-01-14,East,Institutional,Shop owner in Bhubaneswar says a competitor BLDC fan is selling about 16% cheaper than our ceiling range.
+N01080,2025-06-13,West,Distributor,Distributor in Mumbai asking for 17% additional discount to clear stock before season end.
+N01081,2025-05-24,West,Modern retail,Payment delayed by modern retail chain; awaiting their 30-day cycle.
+N01082,2026-03-20,West,Institutional,Shop owner in Ahmedabad says a competitor BLDC fan is selling about 5% cheaper than our ceiling range.
+N01083,2025-09-05,West,Distributor,Customers asking for BLDC fans; competitor scheme gives 12% extra margin to dealers.
+N01084,2026-01-04,East,Institutional,Customer returned a 25 L water heater: heating element failure.
+N01085,2026-02-22,South,Distributor,11 water heater units returned with thermostat issues this month. Also mentioned competitor prices are lower.
+N01086,2026-02-06,South,Distributor,Shop owner in Hyderabad says a competitor BLDC fan is selling about 13% cheaper than our mid-range range. Also wants a better scheme.
+N01087,2025-12-10,West,Distributor,Store manager in Surat asking for 12% additional discount to clear stock before season end.
+N01088,2025-12-24,West,E-commerce,Distributor in Pune says a competitor BLDC fan is selling about 10% cheaper than our ceiling range. Also wants a better scheme.
+N01089,2025-12-21,East,Institutional,Dealers comparing our trade discount with other brands; wants 14% more.
+N01090,2025-06-14,North,Distributor,Payment delayed by modern retail chain; awaiting their 30-day cycle. Also mentioned competitor prices are lower.
+N01091,2025-06-07,West,Distributor,Distributor in Mumbai wants new display stands for the Wire range.
+N01092,2025-06-03,West,Distributor,Shop owner in Indore wants new display stands for the Stabiliser range.
+N01093,2025-11-04,South,Distributor,Lost an order for 229 premium fans to a cheaper competitor BLDC model.
+N01094,2026-02-12,North,Institutional,Customer returned a 35 L water heater: heating element failure.
+N01095,2025-04-03,East,Distributor,Wire demand steady from 5 ongoing housing projects nearby.
+N01096,2025-11-07,South,Modern retail,Shop owner in Kochi asking for 22 more days of credit.
+N01097,2026-03-26,South,Distributor,Dealer in Chennai asking for 14 more days of credit. Also wants a better scheme.
+N01098,2025-11-20,West,Modern retail,"Service calls up for the 15 L model, 7 complaints in two weeks."
+N01099,2025-12-23,North,Distributor,Wire demand steady from 2 ongoing housing projects nearby.
+N01100,2025-12-25,South,Modern retail,"Service calls up for the 25 L model, 8 complaints in two weeks."
+N01101,2025-05-24,South,Distributor,Dealer in Chennai asking for 28 more days of credit.
+N01102,2026-03-13,East,Distributor,Store manager in Ranchi asking for 21 more days of credit.
+N01103,2026-03-05,West,Distributor,Our products not visible in the store; competitor has the front shelf.
+N01104,2025-12-24,West,Distributor,Scheme discount requested again for a bulk order of 30 wire coils.
+N01105,2025-04-12,East,Institutional,Shop owner in Ranchi says a competitor BLDC fan is selling about 20% cheaper than our mid-range range.
+N01106,2025-10-15,West,Distributor,Fan demand strong this month; Shop owner in Mumbai expects to reorder soon.
+N01107,2025-05-21,South,Distributor,10 water heater units returned with thermostat issues this month.
+N01108,2025-08-17,West,Modern retail,Water heater orders delivered 9 days late; Store manager in Ahmedabad had to turn customers away. One customer complaint about a faulty unit too.
+N01109,2026-03-07,North,Distributor,Short supply of 25 L water heaters at the warehouse this week.
+N01110,2025-12-20,North,Institutional,Customer returned a 25 L water heater: heating element failure. Also wants a better scheme.
+N01111,2026-03-02,North,Distributor,Wire demand steady from 10 ongoing housing projects nearby.
+N01112,2025-09-14,West,Modern retail,Customers asking for BLDC fans; competitor scheme gives 18% extra margin to dealers.
+N01113,2025-07-12,East,Institutional,Retailer in Bhubaneswar asking for 19% additional discount to clear stock before season end.
+N01114,2025-12-20,East,Modern retail,Scheme discount requested again for a bulk order of 64 wire coils. Also said the last delivery came late.
+N01115,2026-01-25,West,Institutional,Scheme discount requested again for a bulk order of 333 wire coils.
+N01116,2025-10-03,South,Modern retail,11 water heater units returned with thermostat issues this month.
+N01117,2026-03-22,South,Distributor,Wire demand strong this month; Distributor in Chennai expects to reorder soon.
+N01118,2025-05-18,East,Distributor,Retailer in Bhubaneswar asking for 5% additional discount to clear stock before season end.
+N01119,2025-11-22,East,Distributor,Stabiliser enquiries up after voltage fluctuations in the area. Also wants longer credit.
+N01120,2026-02-23,South,Distributor,Dealer in Chennai asking for 16 more days of credit.
+N01121,2026-02-19,North,Distributor,Dealers comparing our trade discount with other brands; wants 20% more.
+N01122,2025-12-11,East,Distributor,Store manager in Kolkata asking for 12% additional discount to clear stock before season end. One customer complaint about a faulty unit too.
+N01123,2026-01-05,West,Distributor,Distributor in Indore asking for 16% additional discount to clear stock before season end.
+N01124,2026-01-23,South,Institutional,Store manager in Chennai asking for 5% additional discount to clear stock before season end.
+N01125,2025-04-03,South,Distributor,Retailer in Kochi asking for 6% additional discount to clear stock before season end.
+N01126,2025-05-18,North,Distributor,Customers asking for BLDC fans; competitor scheme gives 14% extra margin to dealers.
+N01127,2025-11-07,East,Distributor,Wire demand steady from 6 ongoing housing projects nearby.
+N01128,2025-05-26,South,Distributor,Wire demand steady from 10 ongoing housing projects nearby.
+N01129,2026-01-25,South,Institutional,Our products not visible in the store; competitor has the front shelf.
+N01130,2026-01-23,South,E-commerce,Lost an order for 364 premium fans to a cheaper competitor BLDC model.
+N01131,2025-11-03,East,Distributor,Dealers comparing our trade discount with other brands; wants 5% more.
+N01132,2025-04-24,South,E-commerce,Wire demand steady from 9 ongoing housing projects nearby.
+N01133,2025-06-03,North,Distributor,Customers asking for BLDC fans; competitor scheme gives 12% extra margin to dealers.
+N01134,2025-06-17,East,Institutional,Retailer in Bhubaneswar asking for 11 more days of credit.
+N01135,2025-12-19,North,Distributor,"Shop owner in Delhi complains part orders arrived, balance of 143 units still pending after 20 days."
+N01136,2025-04-18,North,Modern retail,"Service calls up for the 25 L model, 3 complaints in two weeks."
+N01137,2025-08-08,West,Modern retail,Lost an order for 302 premium fans to a cheaper competitor BLDC model.
+N01138,2025-05-24,West,Institutional,Water heater orders delivered 18 days late; Retailer in Pune had to turn customers away.
+N01139,2026-01-24,West,Distributor,Distributor in Pune says a competitor BLDC fan is selling about 10% cheaper than our ceiling range.
+N01140,2025-05-24,North,Distributor,Wire demand steady from 5 ongoing housing projects nearby.
+N01141,2025-10-12,East,Modern retail,Distributor in Bhubaneswar says a competitor BLDC fan is selling about 9% cheaper than our premium range.
+N01142,2025-11-24,West,Distributor,Wire demand strong this month; Dealer in Mumbai expects to reorder soon.
+N01143,2025-06-22,South,Modern retail,Customer returned a 25 L water heater: heating element failure.
+N01144,2025-06-10,West,E-commerce,"Service calls up for the 35 L model, 8 complaints in two weeks."
+N01145,2025-11-24,East,Distributor,Payment delayed by modern retail chain; awaiting their 23-day cycle.
+N01146,2025-09-23,North,Distributor,Distributor in Chandigarh says a competitor BLDC fan is selling about 6% cheaper than our premium range.
+N01147,2025-09-06,North,Modern retail,Short supply of 35 L water heaters at the warehouse this week.
+N01148,2025-08-08,West,Institutional,Stabiliser enquiries up after voltage fluctuations in the area.
+N01149,2026-01-01,North,Distributor,11 water heater units returned with thermostat issues this month. Also mentioned competitor prices are lower.
+N01150,2025-05-21,East,Institutional,Stabiliser enquiries up after voltage fluctuations in the area.
+N01151,2025-09-22,East,Distributor,Stabiliser enquiries up after voltage fluctuations in the area.
+N01152,2025-12-10,South,Modern retail,Water heater orders delivered 11 days late; Distributor in Hyderabad had to turn customers away.
+N01153,2025-07-20,East,Distributor,Customer returned a 35 L water heater: heating element failure. Also wants longer credit.
+N01154,2025-11-10,South,Institutional,Our products not visible in the store; competitor has the front shelf.
+N01155,2025-07-15,East,Distributor,Short supply of 35 L water heaters at the warehouse this week.
+N01156,2025-10-17,North,Modern retail,"Dealer in Noida complains part orders arrived, balance of 46 units still pending after 21 days."
+N01157,2025-12-09,North,Institutional,Our products not visible in the store; competitor has the front shelf.
+N01158,2025-10-02,East,Modern retail,11 water heater units returned with thermostat issues this month.
+N01159,2025-04-14,East,Distributor,Water heater orders delivered 17 days late; Store manager in Kolkata had to turn customers away.
+N01160,2026-02-22,West,Distributor,Distributor in Surat wants new display stands for the Stabiliser range.
+N01161,2026-03-27,North,Modern retail,Stabiliser enquiries up after voltage fluctuations in the area.
+N01162,2025-08-22,East,Distributor,"Service calls up for the 35 L model, 5 complaints in two weeks."
+N01163,2025-12-07,East,Distributor,Stabiliser demand strong this month; Shop owner in Kolkata expects to reorder soon.
+N01164,2025-11-17,West,Modern retail,Stabiliser enquiries up after voltage fluctuations in the area. Also wants longer credit.
+N01165,2025-12-19,West,Distributor,Dealers comparing our trade discount with other brands; wants 10% more.
+N01166,2025-04-19,West,Distributor,Payment delayed by modern retail chain; awaiting their 18-day cycle.
+N01167,2025-08-06,West,Distributor,Scheme discount requested again for a bulk order of 243 wire coils.
+N01168,2026-03-27,South,Modern retail,Scheme discount requested again for a bulk order of 205 wire coils. One customer complaint about a faulty unit too.
+N01169,2026-01-09,South,Distributor,7 water heater units returned with thermostat issues this month.
+N01170,2025-11-01,South,Distributor,10 water heater units returned with thermostat issues this month.
+N01171,2025-08-04,South,Distributor,11 water heater units returned with thermostat issues this month.
+N01172,2026-01-27,East,Modern retail,Distributor in Patna says a competitor BLDC fan is selling about 15% cheaper than our mid-range range.
+N01173,2025-10-13,South,Institutional,Store manager in Bengaluru asking for 25 more days of credit.
+N01174,2025-11-05,North,Modern retail,Customer returned a 25 L water heater: heating element failure.
+N01175,2025-09-24,North,Distributor,"Service calls up for the 25 L model, 9 complaints in two weeks."
+N01176,2026-01-13,West,Distributor,"Service calls up for the 15 L model, 4 complaints in two weeks."
+N01177,2026-03-03,North,Distributor,"Service calls up for the 25 L model, 7 complaints in two weeks."
+N01178,2025-06-21,West,Distributor,Customers asking for BLDC fans; competitor scheme gives 9% extra margin to dealers.
+N01179,2025-05-15,East,Distributor,Our products not visible in the store; competitor has the front shelf.
+N01180,2025-12-07,South,Distributor,Customers asking for BLDC fans; competitor scheme gives 15% extra margin to dealers.
+N01181,2025-08-15,East,Modern retail,Wire demand steady from 5 ongoing housing projects nearby.
+N01182,2025-08-22,East,Distributor,Distributor in Bhubaneswar wants new display stands for the Water heater range.
+N01183,2025-06-19,East,Distributor,Our products not visible in the store; competitor has the front shelf.
+N01184,2026-02-18,North,Institutional,Store manager in Noida asking for 22 more days of credit.
+N01185,2026-01-06,West,Institutional,Store manager in Pune says a competitor BLDC fan is selling about 10% cheaper than our mid-range range.
+N01186,2025-12-03,West,Distributor,Customers asking for BLDC fans; competitor scheme gives 6% extra margin to dealers.
+N01187,2025-08-09,West,Distributor,Lost an order for 80 premium fans to a cheaper competitor BLDC model.
+N01188,2025-05-22,West,Distributor,Customer returned a 15 L water heater: heating element failure. Also said the last delivery came late.
+N01189,2025-06-10,South,Distributor,Store manager in Chennai asking for 22 more days of credit.
+N01190,2025-05-11,East,Distributor,Store manager in Kolkata wants new display stands for the Stabiliser range.
+N01191,2025-04-06,West,Distributor,Scheme discount requested again for a bulk order of 130 wire coils.
+N01192,2025-09-11,West,E-commerce,"Shop owner in Pune complains part orders arrived, balance of 337 units still pending after 27 days."
+N01193,2025-04-08,East,Distributor,Distributor in Patna asking for 4 more days of credit. Also wants a better scheme.
+N01194,2025-12-03,North,Distributor,Store manager in Noida wants new display stands for the Wire range.
+N01195,2025-07-17,East,Distributor,Water heater demand strong this month; Retailer in Patna expects to reorder soon.
+N01196,2025-08-14,East,Distributor,Water heater orders delivered 18 days late; Store manager in Patna had to turn customers away.
+N01197,2025-09-17,West,Distributor,Customers asking for BLDC fans; competitor scheme gives 12% extra margin to dealers.
+N01198,2025-10-19,North,Distributor,Water heater demand strong this month; Retailer in Delhi expects to reorder soon.
+N01199,2025-11-17,North,Distributor,Payment delayed by modern retail chain; awaiting their 10-day cycle.
+N01200,2026-02-21,North,Distributor,Customer returned a 25 L water heater: heating element failure.

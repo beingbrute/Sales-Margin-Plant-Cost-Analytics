@@ -1,0 +1,10 @@
+id,type,project,item,value_inr,basis,owner,action
+O1,Opportunity,P1 Margin recovery,East distributor discounts above policy,51902060,"Discount given above the 12% policy, Oct–Dec 2025",East sales head / Finance,Approval for any discount above policy; recover where contracts allow
+O2,Opportunity,P1 Margin recovery,Faster copper pass-through,68287945,Wire margin lost to copper cost before the October price increase,Pricing,"Same trigger as R1; reprice within a month, not a quarter"
+O3,Opportunity,P3 Channel profitability,E-commerce freight,6429156,Contribution gained for each 1 point cut in e-commerce freight (now 5.5% of sales),E-commerce head / Logistics,Renegotiate last-mile rates; regional fulfilment for bulky items
+O4,Opportunity,Reporting,Revenue cut-off control,306341816.46,Revenue booked in the wrong month (December invoices in January); not a loss,Finance controller,Month-end check of billing vs ledger before close
+R1,Risk,P1 Margin recovery,Copper price exposure in wires,642086189,Margin lost in a year if copper rises 10% and wire prices do not move (wires only),Plant controller / Pricing,Agree a price-review trigger when copper moves more than 5%
+R2,Risk,P2 Plant and supply chain footprint,Baddi STB-L1 breakdown (single line for half the stabiliser range),13717234,Conversion cost above standard in November 2025,Baddi plant head,Preventive maintenance plan; move urgent orders to STB-L2
+R3,Risk,P2 Plant and supply chain footprint,North water heater supply during winter,53091375,"Margin on unshipped orders plus extra freight from Hosur, Oct 2025 – Jan 2026",Supply chain head,Build North stock before winter or add water heater capacity at Haridwar
+R4,Risk,P3 Channel profitability,Water heater WH006 quality (Hosur),9801486,Sales value returned on January–February invoices,Hosur quality head,Root-cause the January batch; hold stock until cleared
+R5,Risk,P3 Channel profitability,Competitor BLDC fans in the West,25735250,Margin lost Aug–Mar because the West sold fewer premium fans than its Apr–Jul share,West sales head,Price and feature review of the premium BLDC range
